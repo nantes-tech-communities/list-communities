@@ -7,7 +7,7 @@ Ce projet permet de lister les communautés nantaises et offrir des points de co
 - Blockchain et société
 - [Flupa Nantes](./flupa/README.md)
 - [Human Talks Nantes](./human-talks/README.md)
-- [GGG Nantes](https://gdg.community.dev/gdg-nantes/)
+- [GDG Nantes](https://gdg.community.dev/gdg-nantes/)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/README.md)
 - GDG Nantes Android
 - LPCx Nantes
