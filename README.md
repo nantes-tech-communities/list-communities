@@ -12,10 +12,10 @@ Ce projet permet de lister les communautés nantaises et offrir des points de co
 - GDG Nantes Android
 - LPCx Nantes
 - Kids Coding Nantes
-- Nantes CNCF
+- [CNCF Nantes](https://www.meetup.com/fr-FR/Cloud-Native-Computing-Nantes/)
 - Nantes DevOps
-- Nantes JS
-- Nantes JUG
+- [Nantes JS](https://nantesjs.org/)
+- [Nantes JUG](https://nantesjug.org/)
 - Nantes Machine Learning Meetup
 - Nantes Numérique Responsable
 
