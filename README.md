@@ -9,7 +9,7 @@ Ce projet permet de lister les communautés nantaises et offrir des points de co
 - [Human Talks Nantes](./human-talks/README.md)
 - [GDG Nantes](https://gdg.community.dev/gdg-nantes/)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/README.md)
-- GDG Nantes Android
+- [GDG Nantes Android](https://www.meetup.com/fr-FR/gdg_nantes_android)
 - LPCx Nantes
 - Kids Coding Nantes
 - [CNCF Nantes](https://www.meetup.com/fr-FR/Cloud-Native-Computing-Nantes/)
