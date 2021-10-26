@@ -11,11 +11,11 @@ Ce projet permet de lister les communautés nantaises et offrir des points de co
 - [GDG Cloud Nantes](./gdg-cloud-nantes/README.md)
 - [GDG Nantes Android](https://www.meetup.com/fr-FR/gdg_nantes_android)
 - LPCx Nantes
-- Kids Coding Nantes
+- [Kids Coding Nantes](https://www.linkedin.com/groups/12321284/)
 - [CNCF Nantes](https://www.meetup.com/fr-FR/Cloud-Native-Computing-Nantes/)
-- Nantes DevOps
-- [Nantes JS](https://nantesjs.org/)
-- [Nantes JUG](https://nantesjug.org/)
+- [Nantes DevOps](./nantes-devops/README.md)
+- [Nantes JS](./nantesjs/README.md)
+- [Nantes JUG](./nantesjug/README.md)
 - Nantes Machine Learning Meetup
 - Nantes Numérique Responsable
 
@@ -27,6 +27,6 @@ Un template de fiche de communauté est disponible [👉 ici](./template/templat
 
 ## 🖥 Carte de visite
 
-Voici le QR code menant à ce projet.
+Afin de partager rapidement ce projet Github, voici un QR code menant à ce projet.
 
 ![QR Code](./docs/qrcodeGitHub.png)
