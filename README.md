@@ -17,7 +17,7 @@ Ce projet permet de lister les communautés nantaises et offrir des points de co
 - [Nantes JS](./nantesjs/README.md)
 - [Nantes JUG](./nantesjug/README.md)
 - Nantes Machine Learning Meetup
-- Nantes Numérique Responsable
+- [Nantes Numérique Responsable](./nnr/README.md)
 
 ## 💫 Contribution
 
