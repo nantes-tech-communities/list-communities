@@ -18,7 +18,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes JS](./nantesjs/README.md)
 - [Nantes JUG](./nantesjug/README.md)
 - Nantes Machine Learning Meetup
-- Nantes Numérique Responsable
+- [Nantes Numérique Responsable](./nnr/README.md)
 
 ## 💫 Contribution
 
