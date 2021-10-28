@@ -7,3 +7,4 @@
 | 🌍 Le site web | https://gdg.community.dev/gdg-nantes-android/                  |
 | 🗣 Le CFP       | https://conference-hall.io/public/event/2W85FrAXvGpmtC0cdtlf |
 | 🎥 Replays                     | [Youtube](https://www.youtube.com/channel/UC663JuSTSgYaZbkftlHXJxw) |
+| ✨ Slack                       | http://gdgnantesandroid.slack.com                                       |
