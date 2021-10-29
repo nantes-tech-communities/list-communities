@@ -8,7 +8,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - Blockchain et société
 - [Flupa Nantes](./flupa/README.md)
 - [Human Talks Nantes](./human-talks/README.md)
-- [GDG Nantes](https://gdg.community.dev/gdg-nantes/)
+- [GDG Nantes](./gdg-nantes/README.md)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/README.md)
 - [GDG Nantes Android](./gdg-nantes-android/README.md)
 - LPCx Nantes
