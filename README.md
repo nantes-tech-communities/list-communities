@@ -6,6 +6,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 ## 🐘 Les communautés Nantaises
 
 - [Blockchain et société](./blockchain-et-societe/)
+- [CNCF Nantes](./cncf-nantes/)
 - [Flupa Nantes](./flupa/)
 - [Human Talks Nantes](./human-talks/)
 - [GDG Nantes](./gdg-nantes/)
@@ -13,7 +14,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [GDG Nantes Android](./gdg-nantes-android/)
 - [LPCx Nantes](./lpcx-nantes/)
 - [Kids Coding Nantes](https://www.linkedin.com/groups/12321284/)
-- [CNCF Nantes](https://www.meetup.com/fr-FR/Cloud-Native-Computing-Nantes/)
 - [Nantes DevOps](./nantes-devops/)
 - [Nantes JS](./nantesjs/)
 - [Nantes JUG](./nantesjug/)
