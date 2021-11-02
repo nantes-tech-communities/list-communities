@@ -5,24 +5,24 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 ## 🐘 Les communautés Nantaises
 
-- [Blockchain et société](./blockchain-et-societe)
-- [Flupa Nantes](./flupa/README.md)
-- [Human Talks Nantes](./human-talks/README.md)
-- [GDG Nantes](./gdg-nantes/README.md)
-- [GDG Cloud Nantes](./gdg-cloud-nantes/README.md)
-- [GDG Nantes Android](./gdg-nantes-android/README.md)
-- [LPCx Nantes](./lpcx-nantes)
+- [Blockchain et société](./blockchain-et-societe/)
+- [Flupa Nantes](./flupa/)
+- [Human Talks Nantes](./human-talks/)
+- [GDG Nantes](./gdg-nantes/)
+- [GDG Cloud Nantes](./gdg-cloud-nantes/)
+- [GDG Nantes Android](./gdg-nantes-android/)
+- [LPCx Nantes](./lpcx-nantes/)
 - [Kids Coding Nantes](https://www.linkedin.com/groups/12321284/)
 - [CNCF Nantes](https://www.meetup.com/fr-FR/Cloud-Native-Computing-Nantes/)
-- [Nantes DevOps](./nantes-devops/README.md)
-- [Nantes JS](./nantesjs/README.md)
-- [Nantes JUG](./nantesjug/README.md)
-- [Nantes Machine Learning Meetup](./nantes-machine-learning-meetup)
-- [Nantes Numérique Responsable](./nnr/README.md)
+- [Nantes DevOps](./nantes-devops/)
+- [Nantes JS](./nantesjs/)
+- [Nantes JUG](./nantesjug/)
+- [Nantes Machine Learning Meetup](./nantes-machine-learning-meetup/)
+- [Nantes Numérique Responsable](./nnr/)
 
 ## 🐘 Les événements Nantais
 
-- [DevFest Nantes](./devfest-nantes/README.md)
+- [DevFest Nantes](./devfest-nantes/)
 - [Web2Day](https://web2day.co/)
 - [Nantes Digital Week](https://www.nantesdigitalweek.com/) (avec le [Salon de la Data](https://salondata.fr/))
 - [Nantes Maker Campus](https://nantesmakercampus.fr/)
