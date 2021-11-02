@@ -20,6 +20,15 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - Nantes Machine Learning Meetup
 - [Nantes Numérique Responsable](./nnr/README.md)
 
+## 🐘 Les événements Nantais
+
+- [DevFest Nantes](./devfest-nantes/README.md)
+- [Web2Day](https://web2day.co/)
+- [Nantes Digital Week](https://www.nantesdigitalweek.com/) (avec le [Salon de la Data](https://salondata.fr/))
+- [Nantes Maker Campus](https://nantesmakercampus.fr/)
+- [Digital Change](https://www.digital-change.fr/)
+- [Web Island](https://webisland.io/)
+
 ## 💫 Contribution
 
 Toute contribution est la bienvenue. Vous organisez un meetup qui n'apparait pas dans la liste, n'hésitez pas à créer une issue 😃.
