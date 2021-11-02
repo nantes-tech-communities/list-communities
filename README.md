@@ -5,7 +5,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 ## 🐘 Les communautés Nantaises
 
-- Blockchain et société
+- [Blockchain et société](./blockchain-et-societe)
 - [Flupa Nantes](./flupa/README.md)
 - [Human Talks Nantes](./human-talks/README.md)
 - [GDG Nantes](./gdg-nantes/README.md)
@@ -17,7 +17,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes DevOps](./nantes-devops/README.md)
 - [Nantes JS](./nantesjs/README.md)
 - [Nantes JUG](./nantesjug/README.md)
-- Nantes Machine Learning Meetup
+- [Nantes Machine Learning Meetup](./nantes-machine-learning-meetup)
 - [Nantes Numérique Responsable](./nnr/README.md)
 
 ## 🐘 Les événements Nantais
