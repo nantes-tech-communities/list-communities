@@ -5,14 +5,14 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 ## 🐘 Les communautés Nantaises
 
-- [Blockchain et société](./blockchain-et-societe)
+- [Blockchain et société](./blockchain-et-societe/)
 - [CNCF Nantes](./cncf-nantes/)
-- [Flupa Nantes](./flupa/README.md)
+- [Flupa Nantes](./flupa/)
 - [Human Talks Nantes](./human-talks/)
-- [GDG Nantes](./gdg-nantes/README.md)
+- [GDG Nantes](./gdg-nantes/)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/)
 - [GDG Nantes Android](./gdg-nantes-android/)
-- [LPCx Nantes](./lpcx-nantes)
+- [LPCx Nantes](./lpcx-nantes/)
 - [Kids Coding Nantes](https://www.linkedin.com/groups/12321284/)
 - [Nantes DevOps](./nantes-devops/)
 - [Nantes JS](./nantesjs/)
