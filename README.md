@@ -11,7 +11,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [GDG Nantes](./gdg-nantes/README.md)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/README.md)
 - [GDG Nantes Android](./gdg-nantes-android/README.md)
-- LPCx Nantes
+- [LPCx Nantes](./lpcx-nantes)
 - [Kids Coding Nantes](https://www.linkedin.com/groups/12321284/)
 - [CNCF Nantes](https://www.meetup.com/fr-FR/Cloud-Native-Computing-Nantes/)
 - [Nantes DevOps](./nantes-devops/README.md)
