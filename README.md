@@ -37,6 +37,6 @@ Un template de fiche de communauté est disponible [👉 ici](./template/templat
 
 ## 🖥 Carte de visite
 
-Afin de partager rapidement ce projet Github, voici un QR code menant à ce projet.
+Afin de partager rapidement ces informations, voici un QR code menant au site dédié à ce projet : [https://nantes.community/](https://nantes.community/#/)
 
-![QR Code](./docs/qrcodeGitHub.png)
+![QR Code](./docs/qrcode.png)
