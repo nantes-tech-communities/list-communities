@@ -9,4 +9,4 @@
 | 🌍 Le site web | https://devfest.gdgnantes.com                  |
 | 🗣 Le CFP 2021       | https://conference-hall.io/public/event/Hm6qUx8nWpLGQ2uo8ZIq |
 | 🎥 Replays                     | [Youtube](https://www.youtube.com/c/Gdg-franceBlogspotFr/playlists) |
-| 🌍 Éditions précédentes | https://devfest2019.gdgnantes.com<br/>https://devfest2018.gdgnantes.com<br/>https://devfest2017.gdgnantes.com<br/>https://devfest2016.gdgnantes.com<br/>https://devfest2015.gdgnantes.com<br/>https://devfest2014.gdgnantes.com<br/>https://devfest2013.gdgnantes.com<br/>http://devfest2012.gdgnantes.com<br/> |
+| 🌍 Éditions précédentes | https://devfest2021.gdgnantes.com<br/>https://devfest2019.gdgnantes.com<br/>https://devfest2018.gdgnantes.com<br/>https://devfest2017.gdgnantes.com<br/>https://devfest2016.gdgnantes.com<br/>https://devfest2015.gdgnantes.com<br/>https://devfest2014.gdgnantes.com<br/>https://devfest2013.gdgnantes.com<br/>http://devfest2012.gdgnantes.com<br/> |
