@@ -53,6 +53,7 @@ Merci à tous les contributeurs 🙏
 <table>
   <tr>
     <td align="center"><a href="https://jtanguy.me"><img src="https://avatars.githubusercontent.com/u/551107?v=4" width="100px;" alt=""/><br /><sub><b>Julien Tanguy</b></sub></a></td>
+    <td align="center"><a href="https://jlandure.dev/"><img src="https://avatars.githubusercontent.com/u/525974?v=4" width="100px;" alt=""/><br /><sub><b>Julien Landuré</b></sub></a></td>
   </tr>
 </table>
 

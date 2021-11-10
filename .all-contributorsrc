@@ -24,6 +24,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jlandure",
+      "name": "Julien Landuré",
+      "avatar_url": "https://avatars.githubusercontent.com/u/525974?v=4",
+      "profile": "https://jlandure.dev/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
