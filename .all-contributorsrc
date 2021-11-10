@@ -17,6 +17,15 @@
   "skipCi": true,
   "contributors": [
     {
+      "login": "JuliaLehoux",
+      "name": "JuliaLehoux",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28342307?v=4",
+      "profile": "https://github.com/JuliaLehoux",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "RobinCaroff",
       "name": "Robin Caroff",
       "avatar_url": "https://avatars.githubusercontent.com/u/10415655?v=4",
