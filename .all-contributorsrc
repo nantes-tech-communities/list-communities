@@ -17,6 +17,15 @@
   "skipCi": true,
   "contributors": [
     {
+      "login": "RobinCaroff",
+      "name": "Robin Caroff",
+      "avatar_url": "https://avatars.githubusercontent.com/u/10415655?v=4",
+      "profile": "https://fr.linkedin.com/in/robincaroff",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "ebriand",
       "name": "Eric Briand",
       "avatar_url": "https://avatars.githubusercontent.com/u/1011902?v=4",

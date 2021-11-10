@@ -52,6 +52,7 @@ Merci à tous les contributeurs 🙏
 <!-- markdownlint-disable -->
 <table>
   <tr>
+    <td align="center"><a href="https://fr.linkedin.com/in/robincaroff"><img src="https://avatars.githubusercontent.com/u/10415655?v=4" width="100px;" alt=""/><br /><sub><b>Robin Caroff</b></sub></a></td>
     <td align="center"><a href="https://github.com/ebriand"><img src="https://avatars.githubusercontent.com/u/1011902?v=4" width="100px;" alt=""/><br /><sub><b>Eric Briand</b></sub></a></td>
     <td align="center"><a href="https://jtanguy.me"><img src="https://avatars.githubusercontent.com/u/551107?v=4" width="100px;" alt=""/><br /><sub><b>Julien Tanguy</b></sub></a></td>
     <td align="center"><a href="https://jlandure.dev/"><img src="https://avatars.githubusercontent.com/u/525974?v=4" width="100px;" alt=""/><br /><sub><b>Julien Landuré</b></sub></a></td>
