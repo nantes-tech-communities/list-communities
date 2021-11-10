@@ -17,6 +17,15 @@
   "skipCi": true,
   "contributors": [
     {
+      "login": "jtanguy",
+      "name": "Julien Tanguy",
+      "avatar_url": "https://avatars.githubusercontent.com/u/551107?v=4",
+      "profile": "https://jtanguy.me",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
       "login": "jlandure",
       "name": "Julien Landuré",
       "avatar_url": "https://avatars.githubusercontent.com/u/525974?v=4",
