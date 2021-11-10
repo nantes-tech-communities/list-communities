@@ -32,6 +32,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes Maker Campus](https://nantesmakercampus.fr/)
 - [Digital Change](https://www.digital-change.fr/)
 - [Web Island](https://webisland.io/)
+- [Cloud Ouest](https://cloudouest.fr/)
 
 ## 🖥 Carte de visite
 
