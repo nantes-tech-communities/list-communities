@@ -60,6 +60,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "missfx",
+      "name": "Vachon Stéphanie",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1321387?v=4",
+      "profile": "https://www.velvetcocoon.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
