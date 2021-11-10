@@ -87,6 +87,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jeanphibaconnais",
+      "name": "Jean-Phi Baconnais",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32639372?v=4",
+      "profile": "https://github.com/jeanphibaconnais",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
