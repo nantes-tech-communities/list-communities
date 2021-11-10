@@ -1,9 +1,7 @@
 # 🌍 Liste des communautés tech Nantaise
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-
-[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
-
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Ce projet permet de lister les communautés nantaises et offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
@@ -50,5 +48,15 @@ Un template de fiche de communauté est disponible [👉 ici](./template/templat
 Merci à tous les contributeurs 🙏
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/JuliaLehoux"><img src="https://avatars.githubusercontent.com/u/28342307?v=4" width="100px;" alt=""/><br /><sub><b>JuliaLehoux</b></sub></a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
