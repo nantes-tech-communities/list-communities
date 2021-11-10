@@ -1,5 +1,11 @@
 # 🌍 Liste des communautés tech Nantaise
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
+[![All Contributors](https://img.shields.io/badge/all_contributors-33-orange.svg?style=flat-square)](#contributors-)
+
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 Ce projet permet de lister les communautés nantaises et offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
 Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Slack ici: https://slack.nantes.community
 
@@ -29,14 +35,20 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Digital Change](https://www.digital-change.fr/)
 - [Web Island](https://webisland.io/)
 
+## 🖥 Carte de visite
+
+Afin de partager rapidement ces informations, voici un QR code menant au site dédié à ce projet : [https://nantes.community/](https://nantes.community/#/)
+
+![QR Code](./docs/qrcode.png)
+
 ## 💫 Contribution
 
 Toute contribution est la bienvenue. Vous organisez un meetup qui n'apparait pas dans la liste, n'hésitez pas à créer une issue 😃.
 
 Un template de fiche de communauté est disponible [👉 ici](./template/template.md).
 
-## 🖥 Carte de visite
+Merci à tous les contributeurs 🙏
 
-Afin de partager rapidement ces informations, voici un QR code menant au site dédié à ce projet : [https://nantes.community/](https://nantes.community/#/)
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 
-![QR Code](./docs/qrcode.png)
+<!-- ALL-CONTRIBUTORS-LIST:END -->
