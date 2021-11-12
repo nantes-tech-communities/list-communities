@@ -105,6 +105,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "pyaillet",
+      "name": "Pierre-Yves Aillet",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11957179?v=4",
+      "profile": "https://pyaillet.gitlab.io/blog/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
