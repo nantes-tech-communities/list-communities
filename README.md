@@ -23,6 +23,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes JUG](./nantesjug/)
 - [Nantes Machine Learning Meetup](./nantes-machine-learning-meetup/)
 - [Nantes Numérique Responsable](./nnr/)
+- [CocoaHeads Nantes](./cocoanantes/)
 
 ## 🐘 Les événements Nantais
 
@@ -65,6 +66,7 @@ Merci à tous les contributeurs 🙏
     <td align="center"><a href="https://github.com/Nabelle"><img src="https://avatars.githubusercontent.com/u/41482051?v=4" width="100px;" alt=""/><br /><sub><b>Nabelle</b></sub></a></td>
     <td align="center"><a href="https://github.com/jeanphibaconnais"><img src="https://avatars.githubusercontent.com/u/32639372?v=4" width="100px;" alt=""/><br /><sub><b>Jean-Phi Baconnais</b></sub></a></td>
     <td align="center"><a href="https://gerome.dev"><img src="https://avatars.githubusercontent.com/u/32737308?v=4" width="100px;" alt=""/><br /><sub><b>Gérôme Grignon</b></sub></a></td>
+    <td align="center"><a href="https://github.com/iGranDav"><img src="https://avatars.githubusercontent.com/u/75418?v=4" width="100px;" alt=""/><br /><sub><b>David Bonnet</b></sub></a></td>
   </tr>
 </table>
 
