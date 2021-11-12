@@ -11,6 +11,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 - [Blockchain et société](./blockchain-et-societe/)
 - [CNCF Nantes](./cncf-nantes/)
+- [CocoaHeads Nantes](./cocoanantes/)
 - [Flupa Nantes](./flupa/)
 - [Human Talks Nantes](./human-talks/)
 - [GDG Nantes](./gdg-nantes/)
