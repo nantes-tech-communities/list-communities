@@ -70,11 +70,7 @@ Merci à tous les contributeurs 🙏
     <td align="center"><a href="https://gerome.dev"><img src="https://avatars.githubusercontent.com/u/32737308?v=4" width="100px;" alt=""/><br /><sub><b>Gérôme Grignon</b></sub></a></td>
     <td align="center"><a href="https://pyaillet.gitlab.io/blog/"><img src="https://avatars.githubusercontent.com/u/11957179?v=4" width="100px;" alt=""/><br /><sub><b>Pierre-Yves Aillet</b></sub></a></td>
     <td align="center"><a href="https://github.com/iGranDav"><img src="https://avatars.githubusercontent.com/u/75418?v=4" width="100px;" alt=""/><br /><sub><b>David Bonnet</b></sub></a></td>
-<<<<<<< HEAD
     <td align="center"><a href="https://github.com/marionnousvalentin"><img src="https://avatars.githubusercontent.com/u/43779561?v=4" width="100px;" alt=""/><br /><sub><b>Marion Valentin</b></sub></a></td>
-=======
-    <td align="center"><a href="https://github.com/kervinkueny"><img src="https://avatars.githubusercontent.com/u/45952820?v=4" width="100px;" alt=""/><br /><sub><b>Kervin Kueny</b></sub></a></td>
->>>>>>> 2574107f8b1c0213876ef4c122cb88a1757f55b4
   </tr>
 </table>
 
