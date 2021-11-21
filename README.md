@@ -9,6 +9,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 ## 🐘 Les communautés Nantaises
 
+- [AgileNantes](./agilenantes/)
 - [Blockchain et société](./blockchain-et-societe/)
 - [CNCF Nantes](./cncf-nantes/)
 - [CocoaHeads Nantes](./cocoanantes/)
@@ -34,6 +35,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Digital Change](https://www.digital-change.fr/)
 - [Web Island](https://webisland.io/)
 - [Cloud Ouest](https://cloudouest.fr/)
+- [AgileTour](https://www.agilenantes.org/agile-tour-nantais-2021/)
 
 ## 🖥 Carte de visite
 
