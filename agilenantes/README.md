@@ -1,6 +1,5 @@
 # AgileNantes
 
-| ------------------------------ | --- |
 |                                | ![logo](agilenantes.jpg)    |
 | ------------------------------ | --- |
 | ✉️ Qui contacter ?             | Agilenantes@gmail.com|
