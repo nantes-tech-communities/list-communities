@@ -1,7 +1,7 @@
 # 🌍 Liste des communautés tech Nantaise
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Ce projet permet de lister les communautés nantaises et offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
@@ -71,6 +71,7 @@ Merci à tous les contributeurs 🙏
     <td align="center"><a href="https://pyaillet.gitlab.io/blog/"><img src="https://avatars.githubusercontent.com/u/11957179?v=4" width="100px;" alt=""/><br /><sub><b>Pierre-Yves Aillet</b></sub></a></td>
     <td align="center"><a href="https://github.com/iGranDav"><img src="https://avatars.githubusercontent.com/u/75418?v=4" width="100px;" alt=""/><br /><sub><b>David Bonnet</b></sub></a></td>
     <td align="center"><a href="https://github.com/marionnousvalentin"><img src="https://avatars.githubusercontent.com/u/43779561?v=4" width="100px;" alt=""/><br /><sub><b>Marion Valentin</b></sub></a></td>
+    <td align="center"><a href="https://github.com/kervinkueny"><img src="https://avatars.githubusercontent.com/u/45952820?v=4" width="100px;" alt=""/><br /><sub><b>kervinkueny</b></sub></a></td>
   </tr>
 </table>
 
