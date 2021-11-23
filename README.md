@@ -1,7 +1,7 @@
 # 🌍 Liste des communautés tech Nantaise
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Ce projet permet de lister les communautés nantaises et offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
@@ -73,6 +73,9 @@ Merci à tous les contributeurs 🙏
     <td align="center"><a href="https://github.com/iGranDav"><img src="https://avatars.githubusercontent.com/u/75418?v=4" width="100px;" alt=""/><br /><sub><b>David Bonnet</b></sub></a></td>
     <td align="center"><a href="https://github.com/marionnousvalentin"><img src="https://avatars.githubusercontent.com/u/43779561?v=4" width="100px;" alt=""/><br /><sub><b>Marion Valentin</b></sub></a></td>
     <td align="center"><a href="https://github.com/kervinkueny"><img src="https://avatars.githubusercontent.com/u/45952820?v=4" width="100px;" alt=""/><br /><sub><b>kervinkueny</b></sub></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="http://www.logilab.org"><img src="https://avatars.githubusercontent.com/u/445200?v=4" width="100px;" alt=""/><br /><sub><b>Arthur Lutz</b></sub></a></td>
   </tr>
 </table>
 
