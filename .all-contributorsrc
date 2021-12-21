@@ -150,6 +150,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Nigui",
+      "name": "Guillaume NICOLAS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6088236?v=4",
+      "profile": "http://nigui.fr",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
