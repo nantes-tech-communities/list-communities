@@ -20,6 +20,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [GDG Nantes Android](./gdg-nantes-android/)
 - [LPCx Nantes](./lpcx-nantes/)
 - [Kids Coding Nantes](https://www.linkedin.com/groups/12321284/)
+- [MTG Nantes](./mtg-nantes/)
 - [Nantes DevOps](./nantes-devops/)
 - [Nantes JS](./nantesjs/)
 - [Nantes JUG](./nantesjug/)
