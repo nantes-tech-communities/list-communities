@@ -159,6 +159,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "cveneziani",
+      "name": "Cecile Veneziani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/50518?v=4",
+      "profile": "http://cecilitse.org/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
