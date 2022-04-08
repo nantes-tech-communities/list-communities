@@ -1,7 +1,7 @@
 # 🌍 Liste des communautés tech Nantaise
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-16-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Ce projet permet de lister les communautés bénévoles nantaises et d'offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
@@ -78,6 +78,7 @@ Merci à tous les contributeurs 🙏
   <tr>
     <td align="center"><a href="http://www.logilab.org"><img src="https://avatars.githubusercontent.com/u/445200?v=4" width="100px;" alt=""/><br /><sub><b>Arthur Lutz</b></sub></a></td>
     <td align="center"><a href="http://nigui.fr"><img src="https://avatars.githubusercontent.com/u/6088236?v=4" width="100px;" alt=""/><br /><sub><b>Guillaume NICOLAS</b></sub></a></td>
+    <td align="center"><a href="http://cecilitse.org/"><img src="https://avatars.githubusercontent.com/u/50518?v=4" width="100px;" alt=""/><br /><sub><b>Cecile Veneziani</b></sub></a></td>
   </tr>
 </table>
 
