@@ -168,6 +168,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "thomasrannou",
+      "name": "Thomas Rannou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32679941?v=4",
+      "profile": "http://thomasrannou.azurewebsites.net/",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
