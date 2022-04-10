@@ -1,4 +1,4 @@
-# <nom de votre communauté>
+MTG Nantes
 
 |                                |     |
 | ------------------------------ | --- |
