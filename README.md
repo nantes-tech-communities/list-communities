@@ -28,6 +28,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes Numérique Responsable](./nnr/)
 - [Nantes Python](./nantes-python/)
 - [Nantes.rb](./nantes-rb/)
+- [React Nantes](./react-nantes/)
 
 ## 🐘 Les événements Nantais
 
