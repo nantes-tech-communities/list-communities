@@ -41,6 +41,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Web Island](https://webisland.io/)
 - [Cloud Ouest](https://cloudouest.fr/)
 - [AgileTour](./agiletour/)
+- [Mobilis In Mobile](./mobilis-in-mobile/)
 
 ## 🖥 Carte de visite
 
