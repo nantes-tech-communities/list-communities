@@ -14,6 +14,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [CNCF Nantes](./cncf-nantes/)
 - [CocoaHeads Nantes](./cocoanantes/)
 - [Flupa Nantes](./flupa/)
+- [Flutter Grand Ouest](./flutter-grand-ouest/)
 - [Human Talks Nantes](./human-talks/)
 - [GDG Nantes](./gdg-nantes/)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/)
