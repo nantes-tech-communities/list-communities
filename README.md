@@ -42,6 +42,15 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Cloud Ouest](https://cloudouest.fr/)
 - [AgileTour](./agiletour/)
 
+
+## 📅 Les évènements à venir 
+
+<!-- ALL-EVENTS:START - Do not remove or modify this section -->
+<!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
+>🚧 En construction 🚧
+<!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
+<!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
+
 ## 🖥 Carte de visite
 
 Afin de partager rapidement ces informations, voici un QR code menant au site dédié à ce projet : [https://nantes.community/](https://nantes.community/#/)
