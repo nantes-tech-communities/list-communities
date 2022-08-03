@@ -49,7 +49,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2022-10-20| GDG Nantes| Devfest Nantes 2022| https://www.meetup.com/gdg-nantes/events/287447014/ | 
+  | 2022-10-20| GDG Nantes| Devfest Nantes 2022| https://www.meetup.com/gdg-nantes/events/287447014/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
