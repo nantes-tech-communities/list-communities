@@ -11,7 +11,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 - [AgileNantes](./agilenantes/)
 - [Blockchain et société](./blockchain-et-societe/)
-- [CNCF Nantes](./cncf-nantes/)
 - [CocoaHeads Nantes](./cocoanantes/)
 - [Flupa Nantes](./flupa/)
 - [Flutter Grand Ouest](./flutter-grand-ouest/)
