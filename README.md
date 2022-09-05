@@ -30,7 +30,12 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes.rb](./nantes-rb/)
 - [React Nantes](./react-nantes/)
 
-## 🐘 Les événements Nantais
+
+## 🐘 Les communautés Nantaises à la recherche d'organisateur·rice
+- [CNCF Nantes](./cncf-nantes/)
+
+
+## 📅 Les événements Nantais
 
 - [DevFest Nantes](./devfest-nantes/)
 - [Web2Day](https://web2day.co/)
