@@ -29,6 +29,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes Numérique Responsable](./nnr/)
 - [Nantes Python](./nantes-python/)
 - [Nantes.rb](./nantes-rb/)
+- [Nocode Nantes](./nocode-nantes/)
 - [React Nantes](./react-nantes/)
 
 ## 🐘 Les événements Nantais
@@ -96,6 +97,7 @@ Merci à tous les contributeurs 🙏
     <td align="center"><a href="http://cecilitse.org/"><img src="https://avatars.githubusercontent.com/u/50518?v=4" width="100px;" alt=""/><br /><sub><b>Cecile Veneziani</b></sub></a></td>
     <td align="center"><a href="http://thomasrannou.azurewebsites.net/"><img src="https://avatars.githubusercontent.com/u/32679941?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Rannou</b></sub></a></td>
     <td align="center"><a href="https://github.com/LudiDrouet"><img src="https://avatars.githubusercontent.com/u/99085181?v=4" width="100px;" alt=""/><br /><sub><b>LudiDrouet</b></sub></a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/amandinedugrain/"><img src="https://avatars.githubusercontent.com/u/113293187?v=4" width="100px;" alt=""/><br /><sub><b>Amandine Dugrain</b></sub></a></td>
   </tr>
 </table>
 
