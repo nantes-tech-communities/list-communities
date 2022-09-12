@@ -1,8 +1,8 @@
 # Nocode Nantes
 ![logo](logo.png)   
-|                                |      |
-| ------------------------------ | --- |
+
 | 🤓 Organisateurs·rices.          | Jean-Emmanuel Beillevert & Amandine Dugrain    |
+| :------------------------------ | :--- |
 | 📆 Fréquence des évènements      | Bimensuel     |
 | 🗣 Le CFP                        | [Contactez-nous](mailto:amandinedugrain@gmail.com)
 | 📺 Livestream                    | [Chaine Twitch](https://www.twitch.tv/nocodefrance?lang=fr)  |
