@@ -1,6 +1,6 @@
 # Nocode Nantes
 
-|                                | [logo](logo.png)         |
+|                                | ![logo](logo.png)         |
 | ------------------------------ | --- |
 | 🤓 Organisateurs·rices.        | Jean-Emmanuel Beillevert & Amandine Dugrain    |
 | 📆 Fréquence des évènements    | Bimensuel     |
