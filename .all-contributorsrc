@@ -186,6 +186,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "cbossard",
+      "name": "Cécilia Bossard",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3694254?v=4",
+      "profile": "https://github.com/cbossard",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
