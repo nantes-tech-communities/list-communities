@@ -30,6 +30,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes Python](./nantes-python/)
 - [Nantes.rb](./nantes-rb/)
 - [React Nantes](./react-nantes/)
+- [Software Crafters Nantes](./software-crafters/)
 
 ## 🐘 Les événements Nantais
 
