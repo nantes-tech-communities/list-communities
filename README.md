@@ -1,7 +1,7 @@
 # 🌍 Liste des communautés tech Nantaise
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Ce projet permet de lister les communautés bénévoles nantaises et d'offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
@@ -101,6 +101,7 @@ Merci à tous les contributeurs 🙏
       <td align="center"><a href="http://thomasrannou.azurewebsites.net/"><img src="https://avatars.githubusercontent.com/u/32679941?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Rannou</b></sub></a></td>
       <td align="center"><a href="https://github.com/LudiDrouet"><img src="https://avatars.githubusercontent.com/u/99085181?v=4" width="100px;" alt=""/><br /><sub><b>LudiDrouet</b></sub></a></td>
       <td align="center"><a href="https://github.com/cbossard"><img src="https://avatars.githubusercontent.com/u/3694254?v=4" width="100px;" alt=""/><br /><sub><b>Cécilia Bossard</b></sub></a></td>
+      <td align="center"><a href="https://github.com/agrippaharfleur"><img src="https://avatars.githubusercontent.com/u/113293187?v=4" width="100px;" alt=""/><br /><sub><b>agrippaharfleur</b></sub></a></td>
     </tr>
   </tbody>
 </table>
