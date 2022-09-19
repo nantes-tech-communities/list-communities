@@ -52,7 +52,9 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |   |   |   |   |   |
 |---|---|---|---|---|
   | 2022-09-22| Nantes Java User Group| Copilot // GraalVM| https://www.meetup.com/nantes-java-user-group/events/288327013/ | 
+  | 2022-09-29| Nantes DevOps| REX IRIS sur sa plateforme Kubernetes hybride (onprem/GKE)| https://www.meetup.com/nantes-devops/events/288286357/ | 
   | 2022-11-07| Nantes Machine Learning Meetup| Feature Extraction for Time-series Classification in Medical Applications | https://www.meetup.com/nantes-machine-learning-meetup/events/288323106/ | 
+  | 2022-09-27| Nantes Python Meetup| Meetup Python septembre 2022| https://www.meetup.com/nantes-python-meetup/events/288472857/ | 
   | 2022-10-20| GDG Nantes| Devfest Nantes 2022| https://www.meetup.com/gdg-nantes/events/287447014/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
