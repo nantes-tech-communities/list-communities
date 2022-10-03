@@ -51,6 +51,9 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 2022-10-04| Nantes Java User Group| Micronaut Test Resources| https://www.meetup.com/nantes-java-user-group/events/288667403/ | 
+| 2022-10-20| GDG Nantes| Devfest Nantes 2022| https://www.meetup.com/gdg-nantes/events/287447014/ | 
+| 2022-11-07| Nantes Machine Learning Meetup| Feature Extraction for Time-series Classification in Medical Applications | https://www.meetup.com/nantes-machine-learning-meetup/events/288323106/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
