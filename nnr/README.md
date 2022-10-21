@@ -2,8 +2,8 @@
 
 |                                |                                                                     |
 | ------------------------------ | ------------------------------------------------------------------- |
-| 🌍 Le site web                 | https://www.meetup.com/fr-FR/nantesnr/                              |
+| 🌍 Le site web                 | https://www.nantes-numerique-responsable.org/                       |
 | 🗣 Le CFP                      |                                                                     |
 | 📆 La fréquence des évènements | Mensuel                                                             |
 | 🎥 Replays                     |                                                                     |
-| ✨ Slack                       | http://nantes-nr.slack.com                                          |
+| ✨ Mattermost                  | https://framateam.org/nnr/                                          |
