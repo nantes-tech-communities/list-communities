@@ -1,4 +1,4 @@
-# CNCF Nantes 
+# CNCF Nantes (_**Meetup inactif depuis l'été 2021**_)
 
 |                                |     |
 | ------------------------------ | --- |

@@ -11,7 +11,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 - [AgileNantes](./agilenantes/)
 - [Blockchain et société](./blockchain-et-societe/)
-- [CNCF Nantes](./cncf-nantes/)
 - [CocoaHeads Nantes](./cocoanantes/)
 - [Flupa Nantes](./flupa/)
 - [Flutter Grand Ouest](./flutter-grand-ouest/)
@@ -33,7 +32,12 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [React Nantes](./react-nantes/)
 - [Software Crafters Nantes](./software-crafters/)
 
-## 🐘 Les événements Nantais
+
+## 🐘 Les communautés Nantaises à la recherche d'organisateur·rice
+- [CNCF Nantes](./cncf-nantes/)
+
+
+## 📅 Les événements Nantais
 
 - [DevFest Nantes](./devfest-nantes/)
 - [Web2Day](https://web2day.co/)
