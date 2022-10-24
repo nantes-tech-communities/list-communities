@@ -102,8 +102,11 @@ Merci à tous les contributeurs 🙏
       <td align="center"><a href="http://nigui.fr"><img src="https://avatars.githubusercontent.com/u/6088236?v=4" width="100px;" alt=""/><br /><sub><b>Guillaume NICOLAS</b></sub></a></td>
       <td align="center"><a href="http://cecilitse.org/"><img src="https://avatars.githubusercontent.com/u/50518?v=4" width="100px;" alt=""/><br /><sub><b>Cecile Veneziani</b></sub></a></td>
       <td align="center"><a href="http://thomasrannou.azurewebsites.net/"><img src="https://avatars.githubusercontent.com/u/32679941?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Rannou</b></sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/julien-villeneau"><img src="https://avatars.githubusercontent.com/u/47349659?v=4" width="100px;" alt=""/><br /><sub><b>Julien Villeneau</b></sub></a></td>
       <td align="center"><a href="https://github.com/LudiDrouet"><img src="https://avatars.githubusercontent.com/u/99085181?v=4" width="100px;" alt=""/><br /><sub><b>LudiDrouet</b></sub></a></td>
       <td align="center"><a href="https://github.com/cbossard"><img src="https://avatars.githubusercontent.com/u/3694254?v=4" width="100px;" alt=""/><br /><sub><b>Cécilia Bossard</b></sub></a></td>
+    </tr>
+    <tr>
       <td align="center"><a href="https://github.com/agrippaharfleur"><img src="https://avatars.githubusercontent.com/u/113293187?v=4" width="100px;" alt=""/><br /><sub><b>agrippaharfleur</b></sub></a></td>
     </tr>
   </tbody>
