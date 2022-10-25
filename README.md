@@ -55,8 +55,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-  | 2022-11-08| Human Talks Nantes| Human Talks - Novembre 2022| https://www.meetup.com/humantalks-nantes/events/289163688/ | 
   | 2022-11-07| Nantes Machine Learning Meetup| Feature Extraction for Time-series Classification in Medical Applications | https://www.meetup.com/nantes-machine-learning-meetup/events/288323106/ | 
+  | 2022-11-08| Human Talks Nantes| Human Talks - Novembre 2022| https://www.meetup.com/humantalks-nantes/events/289163688/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
