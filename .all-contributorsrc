@@ -204,10 +204,20 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "JulienVilleneau",
+      "name": "JulienVilleneau",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47349659?v=4",
+      "profile": "https://github.com/JulienVilleneau",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
   "projectOwner": "nantes-tech-communities",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "angular"
 }
