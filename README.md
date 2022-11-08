@@ -56,10 +56,10 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |   |   |   |   |   |
 |---|---|---|---|---|
   | 2022-11-08| Human Talks Nantes| Human Talks - Novembre 2022| https://www.meetup.com/humantalks-nantes/events/289163688/ | 
-  | 2022-11-15| Nantes Java User Group| Les post-mortems && Java dans Kubernetes| https://www.meetup.com/nantes-java-user-group/events/289447972/ | 
-  | 2022-12-08| Agile Nantes - Sessions mensuelles| D�livrer de l'architecture en continu c'est devenu n�cessaire + forum ouvert| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/289346778/ | 
-  | 2022-11-17| Nantes DevOps| AWS Spot - Laissez tomber les serveurs| https://www.meetup.com/nantes-devops/events/289496736/ | 
   | 2022-11-14| Nantes Machine Learning Meetup| Feature Extraction for Time-series Classification in Medical Applications | https://www.meetup.com/nantes-machine-learning-meetup/events/288323106/ | 
+  | 2022-11-15| Nantes Java User Group| Les post-mortems && Java dans Kubernetes| https://www.meetup.com/nantes-java-user-group/events/289447972/ | 
+  | 2022-11-17| Nantes DevOps| AWS Spot - Laissez tomber les serveurs| https://www.meetup.com/nantes-devops/events/289496736/ | 
+  | 2022-12-08| Agile Nantes - Sessions mensuelles| Délivrer de l'architecture en continu c'est devenu nécessaire + forum ouvert| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/289346778/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
