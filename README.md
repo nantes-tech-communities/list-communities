@@ -55,8 +55,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2022-11-16| Agile Nantes - Sessions mensuelles| Invité au leadership...| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/276664131/ | 
 | 2022-11-17| Nantes DevOps| AWS Spot - Laissez tomber les serveurs| https://www.meetup.com/nantes-devops/events/289496736/ | 
+| 2022-11-24| React Nantes| Meetup React #15| https://www.meetup.com/react-nantes/events/289733654/ | 
 | 2022-12-06| GDG Nantes| Speechless Live : le retour !| https://www.meetup.com/gdg-nantes/events/289611324/ | 
 | 2022-12-08| Agile Nantes - Sessions mensuelles| Délivrer de l'architecture en continu c'est devenu nécessaire + forum ouvert| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/289346778/ | 
 | 2022-12-13| Human Talks Nantes| Human Talks - Décembre 2022| https://www.meetup.com/humantalks-nantes/events/289504041/ | 
