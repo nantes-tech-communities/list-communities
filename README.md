@@ -56,6 +56,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 2022-11-24| React Nantes| Meetup React #15| https://www.meetup.com/react-nantes/events/289733654/ | 
+| 2022-11-29| GDG Cloud Nantes| Soirée GDG Cloud @SQLI: Impacts environnementaux du Cloud| https://www.meetup.com/gdg-cloud-nantes/events/289814534/ | 
 | 2022-12-06| GDG Nantes| Speechless Live : le retour !| https://www.meetup.com/gdg-nantes/events/289611324/ | 
 | 2022-12-08| Agile Nantes - Sessions mensuelles| Délivrer de l'architecture en continu c'est devenu nécessaire + forum ouvert| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/289346778/ | 
 | 2022-12-13| Human Talks Nantes| Human Talks - Décembre 2022| https://www.meetup.com/humantalks-nantes/events/289504041/ | 
