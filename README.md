@@ -60,6 +60,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2022-12-05| Nantes Machine Learning Meetup| MLOps: get your ML apps ready for production| https://www.meetup.com/nantes-machine-learning-meetup/events/289867091/ | 
 | 2022-12-06| GDG Nantes| Speechless Live : le retour !| https://www.meetup.com/gdg-nantes/events/289611324/ | 
 | 2022-12-08| Agile Nantes - Sessions mensuelles| Délivrer de l'architecture en continu c'est devenu nécessaire + forum ouvert| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/289346778/ | 
+| 2022-12-08| FrenchProduit Nantes-Bretagne| Pot FrenchProduit afterwork| https://www.meetup.com/frenchproduit-nantesbretagne/events/289933980/ | 
 | 2022-12-13| Nantes Java User Group| 🍸 Soirée de fin d'année 🍸 spéciale Java 19 avec José Paumard et Rémi Forax| https://www.meetup.com/nantes-java-user-group/events/289829724/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
