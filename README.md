@@ -10,6 +10,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 ## 🐘 Les communautés Nantaises
 
 - [AgileNantes](./agilenantes/)
+- [Atelier découverte du développement pour les enfants](./dev-enfants/)
 - [Blockchain et société](./blockchain-et-societe/)
 - [CocoaHeads Nantes](./cocoanantes/)
 - [Flupa Nantes](./flupa/)
@@ -19,7 +20,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [GDG Cloud Nantes](./gdg-cloud-nantes/)
 - [GDG Nantes Android](./gdg-nantes-android/)
 - [French Produit Nantes-Bretagne](./french-produit/)
-- [Kids Coding Nantes](https://www.linkedin.com/groups/12321284/)
 - [MTG Nantes](./mtg-nantes/)
 - [Nantes DevOps](./nantes-devops/)
 - [Nantes JS](./nantesjs/)
