@@ -53,11 +53,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 <!-- ALL-EVENTS:START - Do not remove or modify this section -->
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
-|   |   |   |   |   |
-|---|---|---|---|---|
-| 2023-01-10| Human Talks Nantes| Human Talks - Janvier 2023| https://www.meetup.com/humantalks-nantes/events/290017520/ | 
-| 2023-01-11| Agile Nantes - Sessions mensuelles| L'agilité commerciale en start-up : un marsupilami en costume?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/290569931/ | 
-| 2023-01-16| Nantes Machine Learning Meetup| Prévision adaptative de séries temporelles pour la consommation d’électricité| https://www.meetup.com/nantes-machine-learning-meetup/events/290442055/ | 
+|            |                                    |   |   |   |
+|------------|------------------------------------|---|---|---|
+| 2023-01-10 | Human Talks Nantes                 | Human Talks - Janvier 2023| https://www.meetup.com/humantalks-nantes/events/290017520/ | 
+| 2023-01-11 | Agile Nantes - Sessions mensuelles | L'agilité commerciale en start-up : un marsupilami en costume?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/290569931/ | 
+| 2023-01-16 | Nantes Machine Learning Meetup     | Prévision adaptative de séries temporelles pour la consommation d’électricité| https://www.meetup.com/nantes-machine-learning-meetup/events/290442055/ |
+| 2023-01-26 | React Nantes                       |                                                                              |                                                                         |
+| 2023-01-26 | Nantes JS                          |                                                                              |                                                                         | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
