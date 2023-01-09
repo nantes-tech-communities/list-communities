@@ -57,7 +57,10 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |---|---|---|---|---|
 | 2023-01-10| Human Talks Nantes| Human Talks - Janvier 2023| https://www.meetup.com/humantalks-nantes/events/290017520/ | 
 | 2023-01-11| Agile Nantes - Sessions mensuelles| L'agilité commerciale en start-up : un marsupilami en costume?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/290569931/ | 
+| 2023-01-12| FrenchProduit Nantes-Bretagne| Pot FrenchProduit afterwork| https://www.meetup.com/frenchproduit-nantesbretagne/events/290677705/ | 
 | 2023-01-16| Nantes Machine Learning Meetup| Prévision adaptative de séries temporelles pour la consommation d’électricité| https://www.meetup.com/nantes-machine-learning-meetup/events/290442055/ | 
+| 2023-01-19| FrenchProduit Nantes-Bretagne| Le BDD - Ce que c'est, les erreurs à éviter| https://www.meetup.com/frenchproduit-nantesbretagne/events/290717123/ | 
+| 2023-01-24| Nantes Java User Group| Tooling monorepo polyglot + Architecture Microservices et cohérence des données| https://www.meetup.com/nantes-java-user-group/events/290766700/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
