@@ -55,14 +55,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-01-10| Human Talks Nantes| Human Talks - Janvier 2023| https://www.meetup.com/humantalks-nantes/events/290017520/ | 
-| 2023-01-10| GDG Cloud Nantes| [Cloud Code] Comment déployer facilement des applications cloud depuis votre IDE| https://www.meetup.com/gdg-cloud-nantes/events/290825263/ | 
-| 2023-01-11| Agile Nantes - Sessions mensuelles| L'agilité commerciale en start-up : un marsupilami en costume?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/290569931/ | 
-| 2023-01-12| FrenchProduit Nantes-Bretagne| Pot FrenchProduit afterwork| https://www.meetup.com/frenchproduit-nantesbretagne/events/290677705/ | 
 | 2023-01-16| Nantes Machine Learning Meetup| Prévision adaptative de séries temporelles pour la consommation d’électricité| https://www.meetup.com/nantes-machine-learning-meetup/events/290442055/ | 
 | 2023-01-19| FrenchProduit Nantes-Bretagne| Le BDD - Ce que c'est, les erreurs à éviter| https://www.meetup.com/frenchproduit-nantesbretagne/events/290717123/ | 
 | 2023-01-24| Nantes Java User Group| Tooling monorepo polyglot + Architecture Microservices et cohérence des données| https://www.meetup.com/nantes-java-user-group/events/290766700/ | 
+| 2023-01-24| Blockchain & Société - Cryptos, NFT, Web3| Apéro Web3/NFT/Crypto au Little Atlantic Brewery| https://www.meetup.com/blockchain-societe/events/290889920/ | 
+| 2023-01-26| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/290888949/ | 
 | 2023-02-07| Human Talks Nantes| Human Talks - Février 2023| https://www.meetup.com/humantalks-nantes/events/290822289/ | 
+| 2023-03-14| Human Talks Nantes| Human Talks - Mars 2023| https://www.meetup.com/humantalks-nantes/events/290870042/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
