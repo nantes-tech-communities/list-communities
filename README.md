@@ -59,7 +59,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2023-01-19| FrenchProduit Nantes-Bretagne| Le BDD - Ce que c'est, les erreurs à éviter| https://www.meetup.com/frenchproduit-nantesbretagne/events/290717123/ | 
 | 2023-01-24| Nantes Java User Group| Tooling monorepo polyglot + Architecture Microservices et cohérence des données| https://www.meetup.com/nantes-java-user-group/events/290766700/ | 
 | 2023-01-24| Blockchain & Société - Cryptos, NFT, Web3| Apéro Web3/NFT/Crypto au Little Atlantic Brewery| https://www.meetup.com/blockchain-societe/events/290889920/ | 
-| 2023-01-26| React Nantes| Meetup React #16| https://www.meetup.com/react-nantes/events/290893462/ | 
 | 2023-01-26| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/290888949/ | 
 | 2023-02-07| Human Talks Nantes| Human Talks - Février 2023| https://www.meetup.com/humantalks-nantes/events/290822289/ | 
 | 2023-03-14| Human Talks Nantes| Human Talks - Mars 2023| https://www.meetup.com/humantalks-nantes/events/290870042/ | 
