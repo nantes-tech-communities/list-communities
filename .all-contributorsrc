@@ -213,6 +213,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "ArtyMaury",
+      "name": "Artymaury",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22880181?v=4",
+      "profile": "https://github.com/ArtyMaury",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
