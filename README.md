@@ -4,13 +4,11 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<div style="display: flex; margin-bottom: 30px;">
-  <div class="description">Ce projet permet de lister les communautés bénévoles nantaises et d'offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
-  Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Slack ici: https://slack.nantes.community
-  </div>
+<div class="logo"><img src="./docs/logo-commu.png"  width="600"/></div>
 
-  <div class="logo"><img src="./docs/logo-commu.png"  width="600"/></div>
-</div>
+Ce projet permet de lister les communautés bénévoles nantaises et d'offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
+Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Slack ici: https://slack.nantes.community
+
 
 ## 🐘 Les communautés Nantaises
 
