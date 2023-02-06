@@ -55,11 +55,10 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-02-01| FrenchProduit Nantes-Bretagne| Discovery Discipline : Présentation et table ronde| https://www.meetup.com/frenchproduit-nantesbretagne/events/291226459/ | 
-| 2023-02-02| Nantes Java User Group| Advanced TypeScript Patterns + Urbaniser un SI pour 10 ans| https://www.meetup.com/nantes-java-user-group/events/291067375/ | 
-| 2023-02-02| React Nantes| Meetup React #16| https://www.meetup.com/react-nantes/events/290893462/ | 
 | 2023-02-07| Human Talks Nantes| Human Talks - Février 2023| https://www.meetup.com/humantalks-nantes/events/290822289/ | 
+| 2023-02-08| Agile Nantes - Sessions mensuelles| Au secours, on vient de me nommer Scrum Master, je fais quoi !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/291207563/ | 
 | 2023-02-09| FrenchProduit Nantes-Bretagne| Pot FrenchProduit afterwork| https://www.meetup.com/frenchproduit-nantesbretagne/events/291133451/ | 
+| 2023-03-02| GDG Nantes| Réunion d'information partenaire Devfest 2023| https://www.meetup.com/gdg-nantes/events/291292516/ | 
 | 2023-03-14| Human Talks Nantes| Human Talks - Mars 2023| https://www.meetup.com/humantalks-nantes/events/290870042/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
