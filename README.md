@@ -4,8 +4,13 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Ce projet permet de lister les communautés bénévoles nantaises et d'offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
-Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Slack ici: https://slack.nantes.community
+<div style="display: flex; margin-bottom: 30px;">
+  <div class="description">Ce projet permet de lister les communautés bénévoles nantaises et d'offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
+  Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Slack ici: https://slack.nantes.community
+  </div>
+
+  <div class="logo"><img src="./docs/logo-commu.png"  width="600"/></div>
+</div>
 
 ## 🐘 Les communautés Nantaises
 
@@ -56,8 +61,10 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 2023-02-07| Human Talks Nantes| Human Talks - Février 2023| https://www.meetup.com/humantalks-nantes/events/290822289/ | 
+| 2023-02-07| Flutter Nantes| Meetup Flutter Nantes / 5ème édition : Tech Radar / Tests automatisés| https://www.meetup.com/flutter-nantes/events/290955139/ | 
 | 2023-02-08| Agile Nantes - Sessions mensuelles| Au secours, on vient de me nommer Scrum Master, je fais quoi !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/291207563/ | 
 | 2023-02-09| FrenchProduit Nantes-Bretagne| Pot FrenchProduit afterwork| https://www.meetup.com/frenchproduit-nantesbretagne/events/291133451/ | 
+| 2023-02-21| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/291336594/ | 
 | 2023-03-02| GDG Nantes| Réunion d'information partenaire Devfest 2023| https://www.meetup.com/gdg-nantes/events/291292516/ | 
 | 2023-03-14| Human Talks Nantes| Human Talks - Mars 2023| https://www.meetup.com/humantalks-nantes/events/290870042/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
