@@ -17,7 +17,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Blockchain et société](./blockchain-et-societe/)
 - [CocoaHeads Nantes](./cocoanantes/)
 - [Flupa Nantes](./flupa/)
-- [Flutter Grand Ouest](./flutter-grand-ouest/)
+- [Flutter Nantes](./flutter-nantes/)
 - [Human Talks Nantes](./human-talks/)
 - [GDG Nantes](./gdg-nantes/)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/)
