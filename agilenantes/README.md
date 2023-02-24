@@ -4,7 +4,7 @@
 | ------------------------------ | --- |
 | ✉️ Qui contacter ?             | Agilenantes@gmail.com|
 | 🌍 Le site web                 | https://agilenantes.org/|
-| 🗣 Le CFP                      | https://sessionize.com/agile-tour-nantais-2021/ |
+| 🗣 Le CFP                      | https://sessionize.com/agile-tour-nantais-2023/ |
 | 📆 Les sessions mensuelles     | 1er mercredi du mois https://www.meetup.com/fr-FR/Agile-nantes-sessions-mensuelles/|
 | 📆 Les PODOJO			 | Dernière semaine du mois https://www.meetup.com/fr-FR/Agile-nantes-podojo/|
 | 🎥 Replays                     | https://www.youtube.com/channel/UCTj_LHochKU48gF_vZNMBsA|
