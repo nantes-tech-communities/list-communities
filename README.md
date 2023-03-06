@@ -58,10 +58,9 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-03-01| Agile Nantes - Sessions mensuelles| Grok et Plonk vont à la chasse au mammouth| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/288604651/ | 
-| 2023-03-02| GDG Nantes| Réunion d'information partenaire Devfest 2023| https://www.meetup.com/gdg-nantes/events/291292516/ | 
-| 2023-03-02| MTG Nantes| Github: Developper et Deployer avec GitHub, Codespaces, Copilot et Actions !| https://www.meetup.com/mtg-nantes/events/291759422/ | 
+| 2023-03-09| FrenchProduit Nantes-Bretagne| Pot FrenchProduit afterwork| https://www.meetup.com/frenchproduit-nantesbretagne/events/291939081/ | 
 | 2023-03-14| Human Talks Nantes| Human Talks - Mars 2023| https://www.meetup.com/humantalks-nantes/events/290870042/ | 
+| 2023-03-14| GDG Nantes| International Women's Day Nantes 2023| https://www.meetup.com/gdg-nantes/events/291909176/ | 
 | 2023-03-14| Nantes.rb| Talk & beer| https://www.meetup.com/nantes-rb/events/291471004/ | 
 | 2023-03-16| Nantes Java User Group| Robotisez les tests de vos microservices + De Java vers Kotlin| https://www.meetup.com/nantes-java-user-group/events/291639279/ | 
 | 2023-04-03| Nantes Machine Learning Meetup| Fighting Fraud with Machine Learning at BlaBlaCar| https://www.meetup.com/nantes-machine-learning-meetup/events/291824351/ | 
