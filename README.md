@@ -58,14 +58,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-03-14| Human Talks Nantes| Human Talks - Mars 2023| https://www.meetup.com/humantalks-nantes/events/290870042/ | 
-| 2023-03-14| GDG Nantes| International Women's Day Nantes 2023| https://www.meetup.com/gdg-nantes/events/291909176/ | 
-| 2023-03-14| Nantes.rb| Talk & beer| https://www.meetup.com/nantes-rb/events/291471004/ | 
-| 2023-03-16| Nantes Java User Group| Robotisez les tests de vos microservices + De Java vers Kotlin| https://www.meetup.com/nantes-java-user-group/events/291639279/ | 
-| 2023-03-16| NantesJS| Meetup #71| https://www.eventbrite.fr/e/billets-meetup-71-564657093567 | 
+| 2023-03-21| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/292230056/ | 
 | 2023-03-22| Nantes Machine Learning Meetup| Annotation de données dans le cadre d’une application médicale| https://www.meetup.com/nantes-machine-learning-meetup/events/292150446/ | 
+| 2023-03-23| React Nantes| Meetup React #17| https://www.meetup.com/react-nantes/events/292258072/ | 
 | 2023-03-23| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/292151661/ | 
+| 2023-03-30| FrenchProduit Nantes-Bretagne| Transition vers la culture produit| https://www.meetup.com/frenchproduit-nantesbretagne/events/292297752/ | 
 | 2023-04-03| Nantes Machine Learning Meetup| Fighting Fraud with Machine Learning at BlaBlaCar| https://www.meetup.com/nantes-machine-learning-meetup/events/291824351/ | 
+| 2023-04-05| Agile Nantes - Sessions mensuelles| Agilité et Neurodiversité, on en parle!| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/292229552/ | 
 | 2023-04-06| GDG Nantes| Dev'Party - le retour !| https://www.meetup.com/gdg-nantes/events/292106490/ | 
 | 2023-05-04| Nantes.rb| La nuit des meetups| https://www.meetup.com/nantes-rb/events/292069998/ | 
 | 2023-05-15| Nantes Machine Learning Meetup| Biases in NLP models: What They Are & Where to Find Them?| https://www.meetup.com/nantes-machine-learning-meetup/events/291824391/ | 
