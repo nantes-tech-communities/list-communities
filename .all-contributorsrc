@@ -222,6 +222,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Horsty80",
+      "name": "Horsty",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15615569?v=4",
+      "profile": "https://github.com/Horsty80",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
