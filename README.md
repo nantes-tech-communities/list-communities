@@ -59,20 +59,25 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-04-25| GDG Cloud Nantes| Certification Study Group - Road to certification PCA 🇫🇷| https://www.meetup.com/gdg-cloud-nantes/events/292431907/ | 
 | 2023-05-02| GDG Cloud Nantes| Certification Study Group - Road to certification PCA 🇫🇷| https://www.meetup.com/gdg-cloud-nantes/events/292431910/ | 
 | 2023-05-03| Agile Nantes - Sessions mensuelles| PI Planning!| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/292846305/ | 
 | 2023-05-04| Human Talks Nantes| 2nde édition de la nuit des Meetups | https://www.meetup.com/humantalks-nantes/events/292399492/ | 
 | 2023-05-04| CocoaHeads Nantes| Nuit des meetups - 2023| https://www.meetup.com/cocoaheads-nantes/events/292846326/ | 
+| 2023-05-04| Nantes Numérique Responsable| Qu’est-ce que l’écoconception et comment la mettre en application ?| https://www.meetup.com/nantesnr/events/293192545/ | 
 | 2023-05-04| GDG Nantes| La nuit des Meetups| https://www.meetup.com/gdg-nantes/events/292979014/ | 
 | 2023-05-04| FrenchProduit Nantes-Bretagne| La nuit des Meetups - ChatGPT enfin débarrassé des PMs ?| https://www.meetup.com/frenchproduit-nantesbretagne/events/292847549/ | 
 | 2023-05-04| Flutter Nantes| La nuit des meetups| https://www.meetup.com/flutter-nantes/events/293001317/ | 
 | 2023-05-04| Nantes.rb| La nuit des meetups| https://www.meetup.com/nantes-rb/events/292069998/ | 
+| 2023-05-04| Software Crafters Nantes| La Nuit des Meetups - Édition 2023| https://www.meetup.com/nantes-software-crafters-nantes/events/293147230/ | 
+| 2023-05-09| Human Talks Nantes| Human Talks - Mai 2023| https://www.meetup.com/humantalks-nantes/events/293097642/ | 
+| 2023-05-09| Nantes Java User Group| Introduction et Hands-on Threads virtuels de Java 19| https://www.meetup.com/nantes-java-user-group/events/293108986/ | 
 | 2023-05-09| GDG Cloud Nantes| Certification Study Group - Road to certification PCA 🇫🇷| https://www.meetup.com/gdg-cloud-nantes/events/292431911/ | 
 | 2023-05-15| Nantes Machine Learning Meetup| Biases in NLP models: What They Are & Where to Find Them?| https://www.meetup.com/nantes-machine-learning-meetup/events/291824391/ | 
 | 2023-05-16| GDG Cloud Nantes| Certification Study Group - Road to certification PCA 🇫🇷| https://www.meetup.com/gdg-cloud-nantes/events/292431909/ | 
 | 2023-05-23| GDG Cloud Nantes| Certification Study Group - Road to certification PCA 🇫🇷| https://www.meetup.com/gdg-cloud-nantes/events/292431912/ | 
+| 2023-05-25| FrenchProduit Nantes-Bretagne| Comment identifier et gérer les "prédateurs" de son produit ?| https://www.meetup.com/frenchproduit-nantesbretagne/events/292891260/ | 
 | 2023-06-06| Nantes Machine Learning Meetup| A Bird's Eye View on Multispectral Satellite Imagery| https://www.meetup.com/nantes-machine-learning-meetup/events/291824415/ | 
+| 2023-06-13| Human Talks Nantes| Human Talks - Juin 2023| https://www.meetup.com/humantalks-nantes/events/293097679/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
