@@ -59,15 +59,14 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-05-09| Human Talks Nantes| Human Talks - Mai 2023| https://www.meetup.com/humantalks-nantes/events/293097642/ | 
-| 2023-05-09| Nantes Java User Group| Introduction et Hands-on Threads virtuels de Java 19| https://www.meetup.com/nantes-java-user-group/events/293108986/ | 
-| 2023-05-09| GDG Cloud Nantes| Certification Study Group - Road to certification PCA 🇫🇷| https://www.meetup.com/gdg-cloud-nantes/events/292431911/ | 
 | 2023-05-15| Nantes Machine Learning Meetup| Biases in NLP models: What They Are & Where to Find Them?| https://www.meetup.com/nantes-machine-learning-meetup/events/291824391/ | 
 | 2023-05-16| Nantes DevOps| Développer et déployer une application Cloud Native sans suivre 50h de vidéos| https://www.meetup.com/nantes-devops/events/293274576/ | 
 | 2023-05-16| GDG Cloud Nantes| Certification Study Group - Road to certification PCA 🇫🇷| https://www.meetup.com/gdg-cloud-nantes/events/292431909/ | 
 | 2023-05-23| GDG Cloud Nantes| Certification Study Group - Road to certification PCA 🇫🇷| https://www.meetup.com/gdg-cloud-nantes/events/292431912/ | 
+| 2023-05-25| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/293398628/ | 
 | 2023-05-25| FrenchProduit Nantes-Bretagne| Comment identifier et gérer les "prédateurs" de son produit ?| https://www.meetup.com/frenchproduit-nantesbretagne/events/292891260/ | 
 | 2023-06-06| Nantes Machine Learning Meetup| A Bird's Eye View on Multispectral Satellite Imagery| https://www.meetup.com/nantes-machine-learning-meetup/events/291824415/ | 
+| 2023-06-07| Agile Nantes - Sessions mensuelles| Se connecter aux autres en posant des questions hors carte| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/293430692/ | 
 | 2023-06-13| Human Talks Nantes| Human Talks - Juin 2023| https://www.meetup.com/humantalks-nantes/events/293097679/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
