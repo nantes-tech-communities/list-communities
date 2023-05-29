@@ -59,13 +59,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-05-23| GDG Cloud Nantes| Certification Study Group - Road to certification PCA 🇫🇷| https://www.meetup.com/gdg-cloud-nantes/events/292431912/ | 
-| 2023-05-25| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/293398628/ | 
-| 2023-05-25| FrenchProduit Nantes-Bretagne| Comment identifier et gérer les "prédateurs" de son produit ?| https://www.meetup.com/frenchproduit-nantesbretagne/events/292891260/ | 
 | 2023-05-31| Agile Nantes - Sessions mensuelles| REX de la transfo du département produit d’une start-up par Denis MIGOT| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/293550143/ | 
+| 2023-06-06| Nantes DevOps| GitLab Cloud Seed : déployer votre application sur Google Cloud sans difficulté| https://www.meetup.com/nantes-devops/events/293713519/ | 
 | 2023-06-06| Nantes Machine Learning Meetup| A Bird's Eye View on Multispectral Satellite Imagery| https://www.meetup.com/nantes-machine-learning-meetup/events/291824415/ | 
 | 2023-06-07| Agile Nantes - Sessions mensuelles| Se connecter aux autres en posant des questions hors carte| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/293430692/ | 
+| 2023-06-08| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit à Sainte-Luce-sur-Loire !| https://www.meetup.com/frenchproduit-nantesbretagne/events/293463479/ | 
 | 2023-06-13| Human Talks Nantes| Human Talks - Juin 2023| https://www.meetup.com/humantalks-nantes/events/293097679/ | 
+| 2023-06-15| FrenchProduit Nantes-Bretagne| Pot FrenchProduit afterwork| https://www.meetup.com/frenchproduit-nantesbretagne/events/293712352/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
