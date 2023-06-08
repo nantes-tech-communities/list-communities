@@ -231,11 +231,21 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "samber",
+      "name": "Samuel Berthe",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2951285?v=4",
+      "profile": "https://screeb.app",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
   "projectOwner": "nantes-tech-communities",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "angular"
+  "commitConvention": "angular",
+  "commitType": "docs"
 }

@@ -1,7 +1,7 @@
 # 🌍 Liste des communautés tech Nantaises
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-24-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-25-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div class="logo"><img src="./docs/logo-commu.png"  width="600"/></div>
@@ -123,6 +123,7 @@ Merci à tous les contributeurs 🙏
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/JulienVilleneau"><img src="https://avatars.githubusercontent.com/u/47349659?v=4" width="100px;" alt=""/><br /><sub><b>JulienVilleneau</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArtyMaury"><img src="https://avatars.githubusercontent.com/u/22880181?v=4" width="100px;" alt=""/><br /><sub><b>Artymaury</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Horsty80"><img src="https://avatars.githubusercontent.com/u/15615569?v=4" width="100px;" alt=""/><br /><sub><b>Horsty</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://screeb.app"><img src="https://avatars.githubusercontent.com/u/2951285?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Berthe</b></sub></a></td>
     </tr>
   </tbody>
 </table>
