@@ -61,10 +61,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 2023-06-13| Human Talks Nantes| Human Talks - Juin 2023| https://www.meetup.com/humantalks-nantes/events/293097679/ | 
+| 2023-06-13| Generative AI Nantes| 2 Talks sur l'IA Générative + Apéro 🍻| https://www.meetup.com/generative-ai-nantes/events/294042291/ | 
 | 2023-06-15| FrenchProduit Nantes-Bretagne| Pot FrenchProduit afterwork| https://www.meetup.com/frenchproduit-nantesbretagne/events/293712352/ | 
 | 2023-06-20| Blockchain & Société - Cryptos, NFT, Web3| Apéro Web3/NFT/Crypto au Little Atlantic Brewery| https://www.meetup.com/blockchain-societe/events/293957525/ | 
+| 2023-06-20| MTG Nantes| Azure Tech Summit : Back from Build !| https://www.meetup.com/mtg-nantes/events/294137128/ | 
 | 2023-06-22| Nantes Java User Group| API explosives 🧨 // Déployer du Java en serverless c'est possible| https://www.meetup.com/nantes-java-user-group/events/293967666/ | 
 | 2023-06-22| Flutter Nantes| Meetup Flutter Nantes / 7e édition : Clean Architecture & Boules Nantaises| https://www.meetup.com/flutter-nantes/events/294012114/ | 
+| 2023-06-28| Nantes.rb| Rubyburger| https://www.meetup.com/nantes-rb/events/294137595/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
