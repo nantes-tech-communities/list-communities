@@ -67,6 +67,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2023-06-20| MTG Nantes| Azure Tech Summit : Back from Build !| https://www.meetup.com/mtg-nantes/events/294137128/ | 
 | 2023-06-22| Nantes Java User Group| API explosives 🧨 // Déployer du Java en serverless c'est possible| https://www.meetup.com/nantes-java-user-group/events/293967666/ | 
 | 2023-06-22| Flutter Nantes| Meetup Flutter Nantes / 7e édition : Clean Architecture & Boules Nantaises| https://www.meetup.com/flutter-nantes/events/294012114/ | 
+| 2023-06-22| NantesJS| Meetup #73| https://www.eventbrite.fr/e/billets-meetup-73-656245827937 | 
 | 2023-06-28| Nantes.rb| Rubyburger| https://www.meetup.com/nantes-rb/events/294137595/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
