@@ -60,13 +60,12 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-06-27| Nantes DevOps| Une CI/CD sécurisée avec Workload Identity Federation, GitLab CI & Cloud Deploy| https://www.meetup.com/nantes-devops/events/294223486/ | 
-| 2023-06-28| Nantes.rb| Rubyburger| https://www.meetup.com/nantes-rb/events/294137595/ | 
-| 2023-06-29| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit en sud Loire (Vertou)| https://www.meetup.com/frenchproduit-nantesbretagne/events/294202155/ | 
 | 2023-07-04| FrenchProduit Nantes-Bretagne| Développer en interne ou acheter une solution du marché ? Make or buy ?| https://www.meetup.com/frenchproduit-nantesbretagne/events/294322775/ | 
 | 2023-07-05| Nantes Python Meetup| Meetup Python juillet 2023| https://www.meetup.com/nantes-python-meetup/events/294266348/ | 
 | 2023-07-06| MTG Nantes| Microsoft Build 2023 - Nantes After Party| https://www.meetup.com/mtg-nantes/events/294156163/ | 
+| 2023-07-11| Human Talks Nantes| Human Talks - Juillet 2023| https://www.meetup.com/humantalks-nantes/events/294449982/ | 
 | 2023-07-12| Agile Nantes - Sessions mensuelles| Eloge de la lenteur dans les transformations| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/294199520/ | 
+| 2023-07-12| NantesJS| Le meetup dont vous êtes le héros - 5 !| https://www.eventbrite.fr/e/billets-le-meetup-dont-vous-etes-le-heros-5-668624733577 | 
 | 2023-07-13| FrenchProduit Nantes-Bretagne| Pot FrenchProduit afterwork| https://www.meetup.com/frenchproduit-nantesbretagne/events/294300809/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
