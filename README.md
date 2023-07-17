@@ -60,10 +60,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-07-12| Agile Nantes - Sessions mensuelles| Eloge de la lenteur dans les transformations| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/294199520/ | 
-| 2023-07-12| NantesJS| Le meetup dont vous êtes le héros - 5 !| https://www.eventbrite.fr/e/billets-le-meetup-dont-vous-etes-le-heros-5-668624733577 | 
-| 2023-07-13| FrenchProduit Nantes-Bretagne| Pot FrenchProduit afterwork| https://www.meetup.com/frenchproduit-nantesbretagne/events/294300809/ | 
+| 2023-07-18| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/294783232/ | 
 | 2023-07-20| Generative AI Nantes| #2 Workshop: Build your first AI Agent (Code & No-Code)| https://www.meetup.com/generative-ai-nantes/events/294704149/ | 
+| 2023-08-23| Blockchain & Société - Cryptos, NFT, Web3| Apéro Web3/NFT/Crypto au Little Atlantic Brewery| https://www.meetup.com/blockchain-societe/events/294850472/ | 
+| 2023-09-12| Human Talks Nantes| Human Talks - Septembre 2023| https://www.meetup.com/humantalks-nantes/events/294718693/ | 
+| 2023-10-10| Human Talks Nantes| Human Talks - Octobre 2023| https://www.meetup.com/humantalks-nantes/events/294718703/ | 
+| 2023-11-14| Human Talks Nantes| Human Talks - Novembre 2023| https://www.meetup.com/humantalks-nantes/events/294718706/ | 
+| 2023-12-12| Human Talks Nantes| Human Talks - Décembre 2023| https://www.meetup.com/humantalks-nantes/events/294718711/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
