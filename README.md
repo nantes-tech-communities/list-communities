@@ -61,8 +61,11 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 2023-08-23| Blockchain & Société - Cryptos, NFT, Web3| Apéro Web3/NFT/Crypto au Little Atlantic Brewery| https://www.meetup.com/blockchain-societe/events/294850472/ | 
+| 2023-08-31| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/295383733/ | 
 | 2023-09-12| Human Talks Nantes| Human Talks - Septembre 2023| https://www.meetup.com/humantalks-nantes/events/294718693/ | 
 | 2023-10-10| Human Talks Nantes| Human Talks - Octobre 2023| https://www.meetup.com/humantalks-nantes/events/294718703/ | 
+| 2023-10-19| GDG Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-nantes/events/295297735/ | 
+| 2023-10-19| GDG Cloud Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-cloud-nantes/events/295298298/ | 
 | 2023-11-14| Human Talks Nantes| Human Talks - Novembre 2023| https://www.meetup.com/humantalks-nantes/events/294718706/ | 
 | 2023-12-12| Human Talks Nantes| Human Talks - Décembre 2023| https://www.meetup.com/humantalks-nantes/events/294718711/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
