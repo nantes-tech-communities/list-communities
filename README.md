@@ -60,8 +60,9 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-08-31| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/295383733/ | 
+| 2023-09-06| Agile Nantes - Sessions mensuelles| Le Quadrant d'Ofman, une aventure intérieure pour les héros qui se méconnaissent| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/295801981/ | 
 | 2023-09-12| Human Talks Nantes| Human Talks - Septembre 2023| https://www.meetup.com/humantalks-nantes/events/294718693/ | 
+| 2023-09-14| FrenchProduit Nantes-Bretagne| Pot Afterwork French Produit| https://www.meetup.com/frenchproduit-nantesbretagne/events/295819971/ | 
 | 2023-09-18| Nantes Machine Learning Meetup| Entrainer des arbres de décisions: XGboost  ou Programmation différentiable ?| https://www.meetup.com/nantes-machine-learning-meetup/events/295695307/ | 
 | 2023-10-10| Human Talks Nantes| Human Talks - Octobre 2023| https://www.meetup.com/humantalks-nantes/events/294718703/ | 
 | 2023-10-19| GDG Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-nantes/events/295297735/ | 
