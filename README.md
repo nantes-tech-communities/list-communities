@@ -60,10 +60,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-09-06| Agile Nantes - Sessions mensuelles| Le Quadrant d'Ofman, une aventure intérieure pour les héros qui se méconnaissent| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/295801981/ | 
-| 2023-09-12| Human Talks Nantes| Human Talks - Septembre 2023| https://www.meetup.com/humantalks-nantes/events/294718693/ | 
 | 2023-09-14| FrenchProduit Nantes-Bretagne| Pot Afterwork French Produit| https://www.meetup.com/frenchproduit-nantesbretagne/events/295819971/ | 
 | 2023-09-18| Nantes Machine Learning Meetup| Entrainer des arbres de décisions: XGboost  ou Programmation différentiable ?| https://www.meetup.com/nantes-machine-learning-meetup/events/295695307/ | 
+| 2023-09-19| Nantes Java User Group| Soirée : Apache Pulsar, et introduction aux outils de Securité (SAST)| https://www.meetup.com/nantes-java-user-group/events/295921312/ | 
+| 2023-09-19| FrenchProduit Nantes-Bretagne| Témoignages : Présentation d'un Product manager et d'une Content designer| https://www.meetup.com/frenchproduit-nantesbretagne/events/295827506/ | 
+| 2023-09-19| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/295933238/ | 
+| 2023-09-20| Blockchain & Société - Cryptos, NFT, Web3| Royalties dans les NFTs // Faut-il faire confiance à Etherscan ?| https://www.meetup.com/blockchain-societe/events/295997338/ | 
+| 2023-09-26| Nantes DevOps| Maîtrises ton code Terraform : bonnes pratiques de refactoring, intro à tfautomv| https://www.meetup.com/nantes-devops/events/295977382/ | 
 | 2023-10-10| Human Talks Nantes| Human Talks - Octobre 2023| https://www.meetup.com/humantalks-nantes/events/294718703/ | 
 | 2023-10-19| GDG Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-nantes/events/295297735/ | 
 | 2023-10-19| GDG Cloud Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-cloud-nantes/events/295298298/ | 
