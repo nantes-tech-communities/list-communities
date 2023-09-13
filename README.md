@@ -63,14 +63,23 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2023-09-14| FrenchProduit Nantes-Bretagne| Pot Afterwork French Produit| https://www.meetup.com/frenchproduit-nantesbretagne/events/295819971/ | 
 | 2023-09-18| Nantes Machine Learning Meetup| Entrainer des arbres de décisions: XGboost  ou Programmation différentiable ?| https://www.meetup.com/nantes-machine-learning-meetup/events/295695307/ | 
 | 2023-09-19| Nantes Java User Group| Soirée : Apache Pulsar, et introduction aux outils de Securité (SAST)| https://www.meetup.com/nantes-java-user-group/events/295921312/ | 
+| 2023-09-19| GDG Nantes| Next Recap 2023| https://www.meetup.com/gdg-nantes/events/296050052/ | 
+| 2023-09-19| GDG Cloud Nantes| Next Recap 2023| https://www.meetup.com/gdg-cloud-nantes/events/296050051/ | 
 | 2023-09-19| FrenchProduit Nantes-Bretagne| Témoignages : Présentation d'un Product manager et d'une Content designer| https://www.meetup.com/frenchproduit-nantesbretagne/events/295827506/ | 
 | 2023-09-19| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/295933238/ | 
 | 2023-09-20| Blockchain & Société - Cryptos, NFT, Web3| Royalties dans les NFTs // Faut-il faire confiance à Etherscan ?| https://www.meetup.com/blockchain-societe/events/295997338/ | 
 | 2023-09-26| Nantes DevOps| Maîtrises ton code Terraform : bonnes pratiques de refactoring, intro à tfautomv| https://www.meetup.com/nantes-devops/events/295977382/ | 
+| 2023-09-26| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/296034935/ | 
+| 2023-09-28| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/296059063/ | 
 | 2023-10-10| Human Talks Nantes| Human Talks - Octobre 2023| https://www.meetup.com/humantalks-nantes/events/294718703/ | 
+| 2023-10-10| Nantes DevOps| Comment concilier CI/CD et Developer Experience ?| https://www.meetup.com/nantes-devops/events/296035747/ | 
 | 2023-10-19| GDG Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-nantes/events/295297735/ | 
 | 2023-10-19| GDG Cloud Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-cloud-nantes/events/295298298/ | 
+| 2023-10-24| Nantes DevOps| Maîtrisez les défis de sécurité dans vos clusters Kubernetes avec Kubearmor !| https://www.meetup.com/nantes-devops/events/296035797/ | 
+| 2023-11-07| Nantes DevOps| Atomic Design in CI/CD, késako ?| https://www.meetup.com/nantes-devops/events/296035852/ | 
 | 2023-11-14| Human Talks Nantes| Human Talks - Novembre 2023| https://www.meetup.com/humantalks-nantes/events/294718706/ | 
+| 2023-11-21| Nantes DevOps| FinOps sur Google Cloud, que la force soit avec vos finances !| https://www.meetup.com/nantes-devops/events/296035873/ | 
+| 2023-12-05| Nantes DevOps| La fin des mots de passe partagés - Credential brokering avec Vault et Boundary| https://www.meetup.com/nantes-devops/events/296036501/ | 
 | 2023-12-12| Human Talks Nantes| Human Talks - Décembre 2023| https://www.meetup.com/humantalks-nantes/events/294718711/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
