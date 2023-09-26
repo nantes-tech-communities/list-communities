@@ -60,15 +60,17 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-09-26| Nantes DevOps| Maîtrises ton code Terraform : bonnes pratiques de refactoring, intro à tfautomv| https://www.meetup.com/nantes-devops/events/295977382/ | 
 | 2023-09-26| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/296034935/ | 
 | 2023-09-28| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/296059063/ | 
 | 2023-10-04| Agile Nantes - Sessions mensuelles| Stimuler l'innovation grâce à Cynefin| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/296101836/ | 
 | 2023-10-10| Human Talks Nantes| Human Talks - Octobre 2023| https://www.meetup.com/humantalks-nantes/events/294718703/ | 
 | 2023-10-10| Nantes DevOps| Comment concilier CI/CD et Developer Experience ?| https://www.meetup.com/nantes-devops/events/296035747/ | 
+| 2023-10-10| Flutter Nantes| Meetup Flutter Nantes / 8e édition : FlutterFlow| https://www.meetup.com/flutter-nantes/events/296339662/ | 
+| 2023-10-12| React Nantes| Meetup #18| https://www.meetup.com/react-nantes/events/296334851/ | 
 | 2023-10-19| GDG Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-nantes/events/295297735/ | 
 | 2023-10-19| GDG Cloud Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-cloud-nantes/events/295298298/ | 
 | 2023-10-24| Nantes DevOps| Maîtrisez les défis de sécurité dans vos clusters Kubernetes avec Kubearmor !| https://www.meetup.com/nantes-devops/events/296035797/ | 
+| 2023-10-26| Design Systems Nantes| Design Systems Nantes 2023.10| https://www.eventbrite.fr/e/billets-design-systems-nantes-202310-726614823497 | 
 | 2023-11-07| Nantes DevOps| Atomic Design in CI/CD, késako ?| https://www.meetup.com/nantes-devops/events/296035852/ | 
 | 2023-11-14| Human Talks Nantes| Human Talks - Novembre 2023| https://www.meetup.com/humantalks-nantes/events/294718706/ | 
 | 2023-11-21| Nantes DevOps| FinOps sur Google Cloud, que la force soit avec vos finances !| https://www.meetup.com/nantes-devops/events/296035873/ | 
