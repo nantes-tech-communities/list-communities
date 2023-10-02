@@ -60,8 +60,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-09-26| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/296034935/ | 
-| 2023-09-28| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/296059063/ | 
 | 2023-10-04| Agile Nantes - Sessions mensuelles| Stimuler l'innovation grâce à Cynefin| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/296101836/ | 
 | 2023-10-10| Human Talks Nantes| Human Talks - Octobre 2023| https://www.meetup.com/humantalks-nantes/events/294718703/ | 
 | 2023-10-10| Nantes DevOps| Comment concilier CI/CD et Developer Experience ?| https://www.meetup.com/nantes-devops/events/296035747/ | 
