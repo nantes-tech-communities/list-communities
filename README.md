@@ -60,13 +60,16 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-10-04| Agile Nantes - Sessions mensuelles| Stimuler l'innovation grâce à Cynefin| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/296101836/ | 
-| 2023-10-10| Human Talks Nantes| Human Talks - Octobre 2023| https://www.meetup.com/humantalks-nantes/events/294718703/ | 
+| 2023-10-10| Nantes Java User Group| Zookeeper vs KRaft // Kotlin| https://www.meetup.com/nantes-java-user-group/events/296486844/ | 
 | 2023-10-10| Nantes DevOps| Comment concilier CI/CD et Developer Experience ?| https://www.meetup.com/nantes-devops/events/296035747/ | 
-| 2023-10-10| Flutter Nantes| Meetup Flutter Nantes / 8e édition : FlutterFlow| https://www.meetup.com/flutter-nantes/events/296339662/ | 
+| 2023-10-10| Flutter Nantes| Meetup Flutter Nantes / 8e édition : Tests & Climat| https://www.meetup.com/flutter-nantes/events/296339662/ | 
 | 2023-10-12| React Nantes| Meetup #18| https://www.meetup.com/react-nantes/events/296334851/ | 
+| 2023-10-12| FrenchProduit Nantes-Bretagne| Pot Afterwork French Produit| https://www.meetup.com/frenchproduit-nantesbretagne/events/296512195/ | 
+| 2023-10-16| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit à Saint-Joseph !| https://www.meetup.com/frenchproduit-nantesbretagne/events/296516136/ | 
+| 2023-10-17| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/296507494/ | 
 | 2023-10-19| GDG Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-nantes/events/295297735/ | 
 | 2023-10-19| GDG Cloud Nantes| Devfest Nantes 2023| https://www.meetup.com/gdg-cloud-nantes/events/295298298/ | 
+| 2023-10-19| FrenchProduit Nantes-Bretagne| Témoignages sur le métier de User Research| https://www.meetup.com/frenchproduit-nantesbretagne/events/296531986/ | 
 | 2023-10-24| Nantes DevOps| Maîtrisez les défis de sécurité dans vos clusters Kubernetes avec Kubearmor !| https://www.meetup.com/nantes-devops/events/296035797/ | 
 | 2023-10-26| Design Systems Nantes| Design Systems Nantes 2023.10| https://www.eventbrite.fr/e/billets-design-systems-nantes-202310-726614823497 | 
 | 2023-11-07| Nantes DevOps| Atomic Design in CI/CD, késako ?| https://www.meetup.com/nantes-devops/events/296035852/ | 
@@ -74,6 +77,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2023-11-21| Nantes DevOps| FinOps sur Google Cloud, que la force soit avec vos finances !| https://www.meetup.com/nantes-devops/events/296035873/ | 
 | 2023-12-05| Nantes DevOps| La fin des mots de passe partagés - Credential brokering avec Vault et Boundary| https://www.meetup.com/nantes-devops/events/296036501/ | 
 | 2023-12-12| Human Talks Nantes| Human Talks - Décembre 2023| https://www.meetup.com/humantalks-nantes/events/294718711/ | 
+| 2023-12-18| Nantes Machine Learning Meetup| Predictive Modeling with PINN| https://www.meetup.com/nantes-machine-learning-meetup/events/296484739/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
