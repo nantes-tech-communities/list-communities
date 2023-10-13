@@ -75,6 +75,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2023-11-07| Nantes DevOps| Atomic Design in CI/CD, késako ?| https://www.meetup.com/nantes-devops/events/296035852/ | 
 | 2023-11-14| Human Talks Nantes| Human Talks - Novembre 2023| https://www.meetup.com/humantalks-nantes/events/294718706/ | 
 | 2023-11-21| Nantes DevOps| FinOps sur Google Cloud, que la force soit avec vos finances !| https://www.meetup.com/nantes-devops/events/296035873/ | 
+| 2023-11-23| GDG Nantes Android| Architecture à plugins avec Koin | https://gdg.community.dev/events/details/google-gdg-nantes-android-presents-android-nantes-26-meetup-chez-seyos/ | 
 | 2023-12-05| Nantes DevOps| La fin des mots de passe partagés - Credential brokering avec Vault et Boundary| https://www.meetup.com/nantes-devops/events/296036501/ | 
 | 2023-12-12| Human Talks Nantes| Human Talks - Décembre 2023| https://www.meetup.com/humantalks-nantes/events/294718711/ | 
 | 2023-12-18| Nantes Machine Learning Meetup| Predictive Modeling with PINN| https://www.meetup.com/nantes-machine-learning-meetup/events/296484739/ | 
