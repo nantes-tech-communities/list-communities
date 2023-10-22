@@ -1,4 +1,4 @@
-# AgileNantes
+# La Fresque du Numérique
 
 |                                | ![logo](logo-FDN.png)    |
 | ------------------------------ | --- |
