@@ -19,6 +19,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Design Systems Nantes](./design-systems-nantes/)
 - [Flupa Nantes](./flupa/)
 - [Flutter Nantes](./flutter-nantes/)
+- [La Fresque du Numérique](./fresquenumerique/)
 - [Human Talks Nantes](./human-talks/)
 - [GDG Nantes](./gdg-nantes/)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/)
@@ -66,10 +67,12 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2023-10-23| Generative AI Nantes| #3 Conf' - Fine-tuner des modèles open source pour faire mieux que GPT4| https://www.meetup.com/generative-ai-nantes/events/296808869/ | 
 | 2023-10-23| null| #3 - Fine-tuner des modèles open source pour faire mieux que GPT4| https://www.eventbrite.com/e/billets-3-fine-tuner-des-modeles-open-source-pour-faire-mieux-que-gpt4-736683258457 | 
 | 2023-10-24| Nantes DevOps| Maîtrisez les défis de sécurité dans vos clusters Kubernetes avec Kubearmor !| https://www.meetup.com/nantes-devops/events/296035797/ | 
+| 2023-10-24| Fresque du Numérique | Apprendre les enjeux environnementaux du numérique | https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique | 
 | 2023-10-24| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/296663280/ | 
 | 2023-10-26| Design Systems Nantes| Design Systems Nantes 2023.10| https://www.eventbrite.fr/e/billets-design-systems-nantes-202310-726614823497 | 
 | 2023-11-07| Nantes DevOps| Atomic Design in CI/CD, késako ?| https://www.meetup.com/nantes-devops/events/296035852/ | 
 | 2023-11-14| Human Talks Nantes| Human Talks - Novembre 2023| https://www.meetup.com/humantalks-nantes/events/294718706/ | 
+| 2023-11-16| Fresque du Numérique | Apprendre les enjeux environnementaux du numérique | https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique | 
 | 2023-11-21| Nantes DevOps| FinOps sur Google Cloud, que la force soit avec vos finances !| https://www.meetup.com/nantes-devops/events/296035873/ | 
 | 2023-11-23| GDG Nantes Android| Android Nantes #26 - Meetup chez Seyos| https://www.meetup.com/gdg_nantes_android/events/296351883/ | 
 | 2023-11-30| CocoaHeads Nantes| P'tit Beurre Quiz| https://www.meetup.com/cocoaheads-nantes/events/296810065/ | 
@@ -133,6 +136,7 @@ Merci à tous les contributeurs 🙏
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArtyMaury"><img src="https://avatars.githubusercontent.com/u/22880181?v=4" width="100px;" alt=""/><br /><sub><b>Artymaury</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Horsty80"><img src="https://avatars.githubusercontent.com/u/15615569?v=4" width="100px;" alt=""/><br /><sub><b>Horsty</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://screeb.app"><img src="https://avatars.githubusercontent.com/u/2951285?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Berthe</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://simbios.fr"><img src="https://avatars.githubusercontent.com/u/1233106?v=4" width="100px;" alt=""/><br /><sub><b>Guillaume Wolf</b></sub></a></td>
     </tr>
   </tbody>
 </table>
