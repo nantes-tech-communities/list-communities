@@ -19,6 +19,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Design Systems Nantes](./design-systems-nantes/)
 - [Flupa Nantes](./flupa/)
 - [Flutter Nantes](./flutter-nantes/)
+- [La Fresque du Numérique](./fresquenumerique/)
 - [Human Talks Nantes](./human-talks/)
 - [GDG Nantes](./gdg-nantes/)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/)
@@ -61,11 +62,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 2023-10-24| Nantes DevOps| Maîtrisez les défis de sécurité dans vos clusters Kubernetes avec Kubearmor !| https://www.meetup.com/nantes-devops/events/296035797/ | 
+| 2023-10-24| Fresque du Numérique | Apprendre les enjeux environnementaux du numérique | https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique | 
 | 2023-10-24| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/296663280/ | 
 | 2023-10-26| Design Systems Nantes| Design Systems Nantes 2023.10| https://www.eventbrite.fr/e/billets-design-systems-nantes-202310-726614823497 | 
 | 2023-11-07| Nantes DevOps| Atomic Design in CI/CD, késako ?| https://www.meetup.com/nantes-devops/events/296035852/ | 
 | 2023-11-09| Nantes Java User Group| Retour JCon Europe 2023 // Retourner le cerveau de sa Gameboy| https://www.meetup.com/nantes-java-user-group/events/296909012/ | 
 | 2023-11-14| Human Talks Nantes| Human Talks - Novembre 2023| https://www.meetup.com/humantalks-nantes/events/294718706/ | 
+| 2023-11-16| Fresque du Numérique | Apprendre les enjeux environnementaux du numérique | https://www.billetweb.fr/loire-atlantique-44-atelier-fresque-du-numerique | 
 | 2023-11-21| Nantes DevOps| FinOps sur Google Cloud, que la force soit avec vos finances !| https://www.meetup.com/nantes-devops/events/296035873/ | 
 | 2023-11-30| CocoaHeads Nantes| P'tit Beurre Quiz| https://www.meetup.com/cocoaheads-nantes/events/296810065/ | 
 | 2023-11-30| Flutter Nantes| P'tit Beurre Quiz| https://www.meetup.com/flutter-nantes/events/296789678/ | 
@@ -126,6 +129,7 @@ Merci à tous les contributeurs 🙏
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArtyMaury"><img src="https://avatars.githubusercontent.com/u/22880181?v=4" width="100px;" alt=""/><br /><sub><b>Artymaury</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Horsty80"><img src="https://avatars.githubusercontent.com/u/15615569?v=4" width="100px;" alt=""/><br /><sub><b>Horsty</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://screeb.app"><img src="https://avatars.githubusercontent.com/u/2951285?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Berthe</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://simbios.fr"><img src="https://avatars.githubusercontent.com/u/1233106?v=4" width="100px;" alt=""/><br /><sub><b>Guillaume Wolf</b></sub></a></td>
     </tr>
   </tbody>
 </table>
