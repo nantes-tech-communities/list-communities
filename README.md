@@ -66,8 +66,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2023-11-21| Nantes DevOps| FinOps sur Google Cloud, que la force soit avec vos finances !| https://www.meetup.com/nantes-devops/events/296035873/ | 
 | 2023-11-21| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/296955988/ | 
 | 2023-11-27| Nantes Machine Learning Meetup| BrightSign: An interactive smart glove for communication | https://www.meetup.com/nantes-machine-learning-meetup/events/296929736/ | 
-| 2023-11-28| Generative AI Nantes| #4 Conf' Github - Améliorer la productivité des développeurs avec Github Copilot| https://www.meetup.com/generative-ai-nantes/events/297052000/ | 
-| 2023-11-28| null| #4 Conf' - Améliorer la productivité des développeurs avec Github Copilot| https://www.eventbrite.com/e/billets-4-conf-ameliorer-la-productivite-des-developpeurs-avec-github-copilot-748671736317 | 
+| 2023-11-28| Generative AI Nantes| #4 Conf' Github - Améliorer la productivité des développeurs avec Github Copilot| https://www.meetup.com/generative-ai-nantes/events/297052000/ |  
 | 2023-11-30| CocoaHeads Nantes| P'tit Beurre Quiz| https://www.meetup.com/cocoaheads-nantes/events/296810065/ | 
 | 2023-11-30| Flutter Nantes| P'tit Beurre Quiz| https://www.meetup.com/flutter-nantes/events/296789678/ | 
 | 2023-12-05| Nantes DevOps| La fin des mots de passe partagés - Credential brokering avec Vault et Boundary| https://www.meetup.com/nantes-devops/events/296036501/ | 
