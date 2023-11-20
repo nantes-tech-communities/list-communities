@@ -60,7 +60,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-11-16| NantesJS| Meetup #76| https://www.eventbrite.fr/e/billets-meetup-76-750627867157 | 
 | 2023-11-21| Nantes DevOps| FinOps sur Google Cloud, que la force soit avec vos finances !| https://www.meetup.com/nantes-devops/events/296035873/ | 
 | 2023-11-21| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/297182579/ | 
 | 2023-11-21| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/296955988/ | 
@@ -73,6 +72,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2023-12-05| Nantes DevOps| La fin des mots de passe partagés - Credential brokering avec Vault et Boundary| https://www.meetup.com/nantes-devops/events/296036501/ | 
 | 2023-12-07| Nantes Java User Group| 🍸 Soirée de fin d'année 🍸 Podman et Hello Quarkus 3| https://www.meetup.com/nantes-java-user-group/events/297121443/ | 
 | 2023-12-12| Human Talks Nantes| Human Talks - Décembre 2023| https://www.meetup.com/humantalks-nantes/events/294718711/ | 
+| 2023-12-13| GDG Nantes| Speechless Live : le retour !| https://www.meetup.com/gdg-nantes/events/297334768/ | 
 | 2023-12-18| Nantes Machine Learning Meetup| Predictive Modeling with PINN| https://www.meetup.com/nantes-machine-learning-meetup/events/296484739/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
