@@ -60,18 +60,17 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-11-21| Nantes DevOps| FinOps sur Google Cloud, que la force soit avec vos finances !| https://www.meetup.com/nantes-devops/events/296035873/ | 
-| 2023-11-21| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/297182579/ | 
-| 2023-11-21| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/296955988/ | 
-| 2023-11-23| FrenchProduit Nantes-Bretagne| Product Lab : Transformez les problèmes en solutions| https://www.meetup.com/frenchproduit-nantesbretagne/events/297211157/ | 
 | 2023-11-27| Nantes Machine Learning Meetup| BrightSign: An interactive smart glove for communication | https://www.meetup.com/nantes-machine-learning-meetup/events/296929736/ | 
 | 2023-11-28| Generative AI Nantes| #4 Conf' Github - Améliorer la productivité des développeurs avec Github Copilot| https://www.meetup.com/generative-ai-nantes/events/297052000/ | 
 | 2023-11-30| CocoaHeads Nantes| P'tit Beurre Quiz| https://www.meetup.com/cocoaheads-nantes/events/296810065/ | 
 | 2023-11-30| React Nantes| P'tit Beurre Quiz| https://www.meetup.com/react-nantes/events/297194780/ | 
 | 2023-11-30| Flutter Nantes| P'tit Beurre Quiz| https://www.meetup.com/flutter-nantes/events/296789678/ | 
 | 2023-12-05| Nantes DevOps| La fin des mots de passe partagés - Credential brokering avec Vault et Boundary| https://www.meetup.com/nantes-devops/events/296036501/ | 
+| 2023-12-06| Agile Nantes - Sessions mensuelles| Comment bien contractualiser pour Collaborer en AGILE?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/297500041/ | 
 | 2023-12-07| Nantes Java User Group| 🍸 Soirée de fin d'année 🍸 Podman et Hello Quarkus 3| https://www.meetup.com/nantes-java-user-group/events/297121443/ | 
+| 2023-12-07| MTG Nantes| L'écosystème .NET en 2023| https://www.meetup.com/mtg-nantes/events/297603814/ | 
 | 2023-12-12| Human Talks Nantes| Human Talks - Décembre 2023| https://www.meetup.com/humantalks-nantes/events/294718711/ | 
+| 2023-12-13| Blockchain & Société - Cryptos, NFT, Web3| Apéro Web3/NFT/Crypto au L.A.B de Noël - !!! Inscriptions sur HelloAsso !!!| https://www.meetup.com/blockchain-societe/events/297475882/ | 
 | 2023-12-13| GDG Nantes| Speechless Live : le retour !| https://www.meetup.com/gdg-nantes/events/297334768/ | 
 | 2023-12-18| Nantes Machine Learning Meetup| Predictive Modeling with PINN| https://www.meetup.com/nantes-machine-learning-meetup/events/296484739/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
