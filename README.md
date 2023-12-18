@@ -60,16 +60,11 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2023-12-11| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/297674262/ | 
-| 2023-12-12| Human Talks Nantes| Human Talks - Décembre 2023| https://www.meetup.com/humantalks-nantes/events/294718711/ | 
-| 2023-12-12| Nantes Python Meetup| Meetup decembre 2023| https://www.meetup.com/nantes-python-meetup/events/297737431/ | 
-| 2023-12-12| Flutter Nantes| Meetup Flutter Nantes / 9e édition : Formats courts| https://www.meetup.com/flutter-nantes/events/297635137/ | 
-| 2023-12-13| Blockchain & Société - Cryptos, NFT, Web3| Apéro Web3/NFT/Crypto au L.A.B de Noël - !!! Inscriptions sur HelloAsso !!!| https://www.meetup.com/blockchain-societe/events/297475882/ | 
-| 2023-12-13| GDG Nantes| Speechless Live : le retour !| https://www.meetup.com/gdg-nantes/events/297334768/ | 
 | 2023-12-18| Nantes Machine Learning Meetup| Predictive Modeling with PINN| https://www.meetup.com/nantes-machine-learning-meetup/events/296484739/ | 
 | 2023-12-19| Generative AI Nantes| #5 Conf' - Le RAG : booster de connaissances pour la GenAI ?| https://www.meetup.com/generative-ai-nantes/events/297769949/ | 
 | 2023-12-20| Nantes.rb| Ruby Burger!| https://www.meetup.com/nantes-rb/events/297664941/ | 
 | 2024-01-18| GDG Nantes Android| Android Nantes #28 - Meetup chez Externatic| https://www.meetup.com/gdg_nantes_android/events/296798801/ | 
+| 2024-02-13| Human Talks Nantes| Human Talks - Février 2024| https://www.meetup.com/humantalks-nantes/events/297919466/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
