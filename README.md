@@ -62,6 +62,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |---|---|---|---|---|
 | 2024-01-11| FrenchProduit Nantes-Bretagne| Pot Afterwork FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/298324778/ | 
 | 2024-01-18| GDG Nantes Android| Android Nantes #28 - Meetup chez Externatic| https://www.meetup.com/gdg_nantes_android/events/296798801/ | 
+| 2024-01-23| Nantes Java User Group| JCon Europe 2023 // Memory layout & Performance en Java| https://www.meetup.com/nantes-java-user-group/events/298360020/ | 
 | 2024-01-24| Design Systems Nantes| Design Systems Nantes 2024 Janvier| https://www.eventbrite.fr/e/billets-design-systems-nantes-2024-janvier-790054824247 | 
 | 2024-02-13| Human Talks Nantes| Human Talks - Février 2024| https://www.meetup.com/humantalks-nantes/events/297919466/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
