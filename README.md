@@ -60,10 +60,15 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-01-11| FrenchProduit Nantes-Bretagne| Pot Afterwork FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/298324778/ | 
+| 2024-01-16| Nantes DevOps| L'Open Source comme rempart contre le chaos dans les pipelines CI/CD| https://www.meetup.com/nantes-devops/events/298435211/ | 
+| 2024-01-16| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/298411044/ | 
 | 2024-01-18| GDG Nantes Android| Android Nantes #28 - Meetup chez Externatic| https://www.meetup.com/gdg_nantes_android/events/296798801/ | 
+| 2024-01-18| NantesJS| Meetup #77 - 1ère partie| https://www.eventbrite.fr/e/billets-meetup-77-1ere-partie-792600177467 | 
 | 2024-01-23| Nantes Java User Group| JCon Europe 2023 // Memory layout & Performance en Java| https://www.meetup.com/nantes-java-user-group/events/298360020/ | 
+| 2024-01-23| Generative AI Nantes| #6 Conf' - REX sur la création d’Auto PHP, un agent autonome open source| https://www.meetup.com/generative-ai-nantes/events/298461251/ | 
+| 2024-01-24| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/298434508/ | 
 | 2024-01-24| Design Systems Nantes| Design Systems Nantes 2024 Janvier| https://www.eventbrite.fr/e/billets-design-systems-nantes-2024-janvier-790054824247 | 
+| 2024-01-31| FrenchProduit Nantes-Bretagne| Témoignages sur les métiers de la direction Produit| https://www.meetup.com/frenchproduit-nantesbretagne/events/298417779/ | 
 | 2024-02-13| Human Talks Nantes| Human Talks - Février 2024| https://www.meetup.com/humantalks-nantes/events/297919466/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
