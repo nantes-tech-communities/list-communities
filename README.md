@@ -70,7 +70,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2024-02-15| Generative AI Nantes| #7 Conf' par Google - Utilisation d'un LLM en Java, Gemini et LangChain4J| https://www.meetup.com/generative-ai-nantes/events/298858231/ | 
 | 2024-02-22| Flutter Nantes| Meetup Flutter Nantes / 10e édition : UI & Shaders| https://www.meetup.com/flutter-nantes/events/298842873/ | 
 | 2024-02-22| GDG Nantes Android| Android Nantes #29 - Meetup chez Ippon Technologies| https://www.meetup.com/gdg_nantes_android/events/298608357/ | 
-| 2024-02-22| null| React Nantes meetup #19 - Jeudi 22 février| https://www.eventbrite.com/e/billets-react-nantes-meetup-19-jeudi-22-fevrier-808905938437 | 
+| 2024-02-22| React Nantes| React Nantes meetup #19 - Jeudi 22 février| https://www.eventbrite.com/e/billets-react-nantes-meetup-19-jeudi-22-fevrier-808905938437 | 
 | 2024-02-27| Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/298929216/ | 
 | 2024-03-13| MTG Nantes| Microsoft AI Tour (Paris)| https://www.meetup.com/mtg-nantes/events/298584159/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
