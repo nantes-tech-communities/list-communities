@@ -60,19 +60,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-02-07| Agile Nantes - Sessions mensuelles| Comment nous avons redynamisé le sponsoring de la direction d’entreprise ?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/298802202/ | 
-| 2024-02-08| Nantes Python Meetup| Meetup Python chez OctopusMind et RGOODS| https://www.meetup.com/nantes-python-meetup/events/298651245/ | 
-| 2024-02-13| Human Talks Nantes| Human Talks - Février 2024| https://www.meetup.com/humantalks-nantes/events/297919466/ | 
-| 2024-02-13| Nantes DevOps| Attaque d'un cluster Kubernetes| https://www.meetup.com/nantes-devops/events/298906802/ | 
-| 2024-02-15| Nantes Java User Group| Generative AI par la pratique : cas concrets d'utilisation d'un LLM en Java| https://www.meetup.com/nantes-java-user-group/events/298858263/ | 
-| 2024-02-15| GDG Nantes| Generative AI par la pratique : cas concrets d'utilisation d'un LLM en Java| https://www.meetup.com/gdg-nantes/events/298786741/ | 
-| 2024-02-15| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/298955673/ | 
-| 2024-02-15| Generative AI Nantes| #7 Conf' par Google - Utilisation d'un LLM en Java, Gemini et LangChain4J| https://www.meetup.com/generative-ai-nantes/events/298858231/ | 
-| 2024-02-22| Flutter Nantes| Meetup Flutter Nantes / 10e édition : UI & Shaders| https://www.meetup.com/flutter-nantes/events/298842873/ | 
-| 2024-02-22| GDG Nantes Android| Android Nantes #29 - Meetup chez Ippon Technologies| https://www.meetup.com/gdg_nantes_android/events/298608357/ | 
-| 2024-02-22| React Nantes| React Nantes meetup #19 - Jeudi 22 février| https://www.eventbrite.com/e/billets-react-nantes-meetup-19-jeudi-22-fevrier-808905938437 | 
-| 2024-02-27| Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/298929216/ | 
-| 2024-03-13| MTG Nantes| Microsoft AI Tour (Paris)| https://www.meetup.com/mtg-nantes/events/298584159/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
