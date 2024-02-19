@@ -63,7 +63,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2024-02-20| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/299053222/ | 
 | 2024-02-22| Flutter Nantes| Meetup Flutter Nantes / 10e édition : UI & Shaders| https://www.meetup.com/flutter-nantes/events/298842873/ | 
 | 2024-02-22| GDG Nantes Android| Android Nantes #29 - Meetup chez Ippon Technologies| https://www.meetup.com/gdg_nantes_android/events/298608357/ | 
-| 2024-02-22| null| React Nantes meetup #19 - Jeudi 22 février| https://www.eventbrite.com/e/billets-react-nantes-meetup-19-jeudi-22-fevrier-808905938437 | 
+| 2024-02-22| React Nantes| React Nantes meetup #19 - Jeudi 22 février| https://www.eventbrite.com/e/billets-react-nantes-meetup-19-jeudi-22-fevrier-808905938437 | 
 | 2024-02-27| GDG Cloud Nantes| Laissez tomber vos Dockerfile, adoptez un buildpack !| https://www.meetup.com/gdg-cloud-nantes/events/299150127/ | 
 | 2024-02-27| Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/298929216/ | 
 | 2024-02-29| CocoaHeads Nantes| CocoaHeads Février chez iAdvize| https://www.meetup.com/cocoaheads-nantes/events/299152057/ | 
