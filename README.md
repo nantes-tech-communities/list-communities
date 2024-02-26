@@ -70,7 +70,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2024-03-13| Agile Nantes - Sessions mensuelles| Les tests agiles : ma quête des meilleures pratiques !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/299173944/ | 
 | 2024-03-13| MTG Nantes| Microsoft AI Tour (Paris)| https://www.meetup.com/mtg-nantes/events/298584159/ | 
 | 2024-03-14| GDG Nantes| International Women's Day Nantes 2024| https://www.meetup.com/gdg-nantes/events/299359400/ | 
-| 2024-03-14| GDG Nantes| International Women's Day Nantes 2024| https://www.meetup.com/gdg-nantes/events/299359586/ | 
 | 2024-03-28| GDG Nantes Android| Android Nantes #30 - Meetup chez Mobiapps| https://www.meetup.com/gdg_nantes_android/events/299151495/ | 
 | 2024-04-09| Human Talks Nantes| Human Talks - Avril 2024| https://www.meetup.com/humantalks-nantes/events/299155671/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
