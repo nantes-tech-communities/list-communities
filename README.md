@@ -60,17 +60,16 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-02-20| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/299053222/ | 
-| 2024-02-22| Flutter Nantes| Meetup Flutter Nantes / 10e édition : UI & Shaders| https://www.meetup.com/flutter-nantes/events/298842873/ | 
-| 2024-02-22| GDG Nantes Android| Android Nantes #29 - Meetup chez Ippon Technologies| https://www.meetup.com/gdg_nantes_android/events/298608357/ | 
-| 2024-02-22| React Nantes| React Nantes meetup #19 - Jeudi 22 février| https://www.eventbrite.com/e/billets-react-nantes-meetup-19-jeudi-22-fevrier-808905938437 | 
 | 2024-02-27| GDG Cloud Nantes| Laissez tomber vos Dockerfile, adoptez un buildpack !| https://www.meetup.com/gdg-cloud-nantes/events/299150127/ | 
 | 2024-02-27| Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/298929216/ | 
+| 2024-02-29| Blockchain Communauté |   🇫🇷 🐓 Tech - Cryptos -NFT -Web3.| 🍹 Apéro IVL Blockchain Société évolue 🚀 | Webinaire Chill sur Zoom | https://www.meetup.com/blockchain-communaute/events/299289324/ | 
 | 2024-02-29| CocoaHeads Nantes| CocoaHeads Février chez iAdvize| https://www.meetup.com/cocoaheads-nantes/events/299152057/ | 
 | 2024-03-07| Nantes Python Meetup| Meetup Python - Django chez Ripple Motion| https://www.meetup.com/nantes-python-meetup/events/299050987/ | 
 | 2024-03-07| MTG Nantes| Comment l’IA et ses copilotes transforment notre vie au bureau ?| https://www.meetup.com/mtg-nantes/events/299062682/ | 
+| 2024-03-12| Nantes Java User Group| Product Owner vs Product Manager // JobRunr| https://www.meetup.com/nantes-java-user-group/events/299386567/ | 
 | 2024-03-13| Agile Nantes - Sessions mensuelles| Les tests agiles : ma quête des meilleures pratiques !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/299173944/ | 
 | 2024-03-13| MTG Nantes| Microsoft AI Tour (Paris)| https://www.meetup.com/mtg-nantes/events/298584159/ | 
+| 2024-03-14| GDG Nantes| International Women's Day Nantes 2024| https://www.meetup.com/gdg-nantes/events/299359400/ | 
 | 2024-03-28| GDG Nantes Android| Android Nantes #30 - Meetup chez Mobiapps| https://www.meetup.com/gdg_nantes_android/events/299151495/ | 
 | 2024-04-09| Human Talks Nantes| Human Talks - Avril 2024| https://www.meetup.com/humantalks-nantes/events/299155671/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
