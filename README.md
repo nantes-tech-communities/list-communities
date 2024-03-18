@@ -60,16 +60,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-03-12| Nantes Java User Group| Product Owner vs Product Manager // JobRunr - an open-source job scheduler| https://www.meetup.com/nantes-java-user-group/events/299386567/ | 
-| 2024-03-12| France DevOps Nantes| DevGreenOps : mettons un peu de Green dans le DevOps| https://www.meetup.com/france-devops-nantes/events/299458268/ | 
-| 2024-03-13| Agile Nantes - Sessions mensuelles| Les tests agiles : ma quête des meilleures pratiques !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/299173944/ | 
-| 2024-03-13| MTG Nantes| Microsoft AI Tour (Paris)| https://www.meetup.com/mtg-nantes/events/298584159/ | 
-| 2024-03-13| Generative AI Nantes| #8 Conf' par iAdvize - Les LLMs dans le parcours conversationnel du e-commerce| https://www.meetup.com/generative-ai-nantes/events/299526726/ | 
-| 2024-03-14| GDG Nantes| International Women's Day Nantes 2024| https://www.meetup.com/gdg-nantes/events/299359400/ | 
-| 2024-03-14| GDG Nantes| International Women's Day Nantes 2024| https://www.meetup.com/gdg-nantes/events/299359586/ | 
+| 2024-03-19| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/299746605/ | 
+| 2024-03-20| FrenchProduit Nantes-Bretagne| Le feature flag, l’outil sérénité pour les product managers| https://www.meetup.com/frenchproduit-nantesbretagne/events/299672077/ | 
+| 2024-03-26| France DevOps Nantes| Vers un Cloud "carbon-aware"| https://www.meetup.com/france-devops-nantes/events/299769357/ | 
 | 2024-03-27| Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/299529469/ | 
 | 2024-03-27| Generative AI Nantes| #9 Conf' par Hugging Face - L'IA générative open-source| https://www.meetup.com/generative-ai-nantes/events/299526832/ | 
 | 2024-03-28| GDG Nantes Android| Android Nantes #30 - Meetup chez Mobiapps| https://www.meetup.com/gdg_nantes_android/events/299151495/ | 
+| 2024-04-03| Nantes Java User Group| Github actions // Fusion| https://www.meetup.com/nantes-java-user-group/events/299812280/ | 
 | 2024-04-04| Nantes Machine Learning Meetup| Diffusion models for generating images: algorithms and (a bit of) theory| https://www.meetup.com/nantes-machine-learning-meetup/events/299457886/ | 
 | 2024-04-09| Human Talks Nantes| Human Talks - Avril 2024| https://www.meetup.com/humantalks-nantes/events/299155671/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
