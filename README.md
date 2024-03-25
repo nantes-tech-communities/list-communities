@@ -60,15 +60,19 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-03-19| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/299746605/ | 
-| 2024-03-20| FrenchProduit Nantes-Bretagne| Le feature flag, l’outil sérénité pour les product managers| https://www.meetup.com/frenchproduit-nantesbretagne/events/299672077/ | 
 | 2024-03-26| France DevOps Nantes| Vers un Cloud "carbon-aware"| https://www.meetup.com/france-devops-nantes/events/299769357/ | 
+| 2024-03-27| Nantes Machine Learning Meetup| Generative AI with Hugging Face| https://www.meetup.com/nantes-machine-learning-meetup/events/299936512/ | 
+| 2024-03-27| MTG Nantes| Retours d'expérience sur Azure avec AI Studio & GitHub Copilot| https://www.meetup.com/mtg-nantes/events/299885519/ | 
 | 2024-03-27| Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/299529469/ | 
 | 2024-03-27| Generative AI Nantes| #9 Conf' par Hugging Face - L'IA générative open-source| https://www.meetup.com/generative-ai-nantes/events/299526832/ | 
 | 2024-03-28| GDG Nantes Android| Android Nantes #30 - Meetup chez Mobiapps| https://www.meetup.com/gdg_nantes_android/events/299151495/ | 
+| 2024-04-02| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/299890558/ | 
 | 2024-04-03| Nantes Java User Group| Github actions // Fusion| https://www.meetup.com/nantes-java-user-group/events/299812280/ | 
-| 2024-04-04| Nantes Machine Learning Meetup| Diffusion models for generating images: algorithms and (a bit of) theory| https://www.meetup.com/nantes-machine-learning-meetup/events/299457886/ | 
+| 2024-04-03| Agile Nantes - Sessions mensuelles| Pas de performance sans sécurité psychologique !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/299949056/ | 
 | 2024-04-09| Human Talks Nantes| Human Talks - Avril 2024| https://www.meetup.com/humantalks-nantes/events/299155671/ | 
+| 2024-04-17| React Nantes| #20 - Meetup React Nantes x leboncoin tech| https://www.eventbrite.com/e/20-meetup-react-nantes-x-leboncoin-tech-tickets-868709813437 | 
+| 2024-04-18| Flutter Nantes| Meetup Flutter Nantes / 11e édition : Design System & Tips Git| https://www.meetup.com/flutter-nantes/events/299887168/ | 
+| 2024-04-25| Nantes Machine Learning Meetup| Diffusion models for generating images: algorithms and (a bit of) theory| https://www.meetup.com/nantes-machine-learning-meetup/events/299457886/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
