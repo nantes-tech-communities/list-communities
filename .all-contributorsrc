@@ -249,6 +249,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "wrouvre",
+      "name": "Willy Rouvre",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30314002?v=4",
+      "profile": "https://github.com/wrouvre",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
