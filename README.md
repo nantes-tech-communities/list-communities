@@ -60,17 +60,14 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-04-16| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/300210870/ | 
-| 2024-04-17| FrenchProduit Nantes-Bretagne| Remote, équipes distribuées, comment gérer ses équipes et son Produit ?| https://www.meetup.com/frenchproduit-nantesbretagne/events/300164680/ | 
-| 2024-04-17| Generative AI Nantes| 10# par Seelab - Use case de fine-tuning d'un modèle de génération d’image| https://www.meetup.com/generative-ai-nantes/events/300053400/ | 
-| 2024-04-17| React Nantes| #20 - Meetup React Nantes x leboncoin tech| https://www.eventbrite.com/e/20-meetup-react-nantes-x-leboncoin-tech-tickets-868709813437 | 
-| 2024-04-18| CocoaHeads Nantes| CocoaHeads Avril chez Ippon| https://www.meetup.com/cocoaheads-nantes/events/300371488/ | 
-| 2024-04-18| Flutter Nantes| Meetup Flutter Nantes / 11e édition : Design System & Tips Git| https://www.meetup.com/flutter-nantes/events/299887168/ | 
+| 2024-04-23| France DevOps Nantes| Comment sauver vos applications avec GitOps en cas d'IA hors de contrôle ?| https://www.meetup.com/france-devops-nantes/events/300428273/ | 
 | 2024-04-24| DigiBloc | 🇫🇷  Blockchain - Tech - Cryptos - NFT - Web3 🐓| DigiBloc x BS |  🍿 Soirée Ciné-Débat | 🎬  Projection  “Le Mystère Satoshi" ₿ | https://www.meetup.com/digibloc/events/300330079/ | 
 | 2024-04-24| Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/300167956/ | 
 | 2024-04-25| Nantes Machine Learning Meetup| Diffusion models for generating images: algorithms and (a bit of) theory| https://www.meetup.com/nantes-machine-learning-meetup/events/299457886/ | 
 | 2024-04-25| GDG Cloud Nantes| Recap Next 2024| https://www.meetup.com/gdg-cloud-nantes/events/300228395/ | 
 | 2024-05-09| DigiBloc | 🇫🇷  Blockchain - Tech - Cryptos - NFT - Web3 🐓| DigiBloc | Soirée Spéciale REX Halving (%2) ₿ | 1 Ledger Nano S à gagner 🎁| https://www.meetup.com/digibloc/events/300315346/ | 
+| 2024-05-16| GDG Nantes| "Devenir Speaker·euse" tips &amp; tricks| https://www.meetup.com/gdg-nantes/events/300454168/ | 
+| 2024-05-31| Generative AI Nantes| Shift, le Hackathon Gen AI - Billetterie sur Eventbrite| https://www.meetup.com/generative-ai-nantes/events/300431836/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
