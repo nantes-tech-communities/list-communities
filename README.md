@@ -60,13 +60,11 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-04-23| France DevOps Nantes| Comment sauver vos applications avec GitOps en cas d'IA hors de contrôle ?| https://www.meetup.com/france-devops-nantes/events/300428273/ | 
-| 2024-04-24| DigiBloc | 🇫🇷  Blockchain - Tech - Cryptos - NFT - Web3 🐓| DigiBloc x BS |  🍿 Soirée Ciné-Débat | 🎬  Projection  “Le Mystère Satoshi" ₿ | https://www.meetup.com/digibloc/events/300330079/ | 
-| 2024-04-24| Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/300167956/ | 
-| 2024-04-25| Nantes Machine Learning Meetup| Diffusion models for generating images: algorithms and (a bit of) theory| https://www.meetup.com/nantes-machine-learning-meetup/events/299457886/ | 
-| 2024-04-25| GDG Cloud Nantes| Recap Next 2024| https://www.meetup.com/gdg-cloud-nantes/events/300228395/ | 
 | 2024-05-09| DigiBloc | 🇫🇷  Blockchain - Tech - Cryptos - NFT - Web3 🐓| DigiBloc | Soirée Spéciale REX Halving (%2) ₿ | 1 Ledger Nano S à gagner 🎁| https://www.meetup.com/digibloc/events/300315346/ | 
-| 2024-05-16| GDG Nantes| "Devenir Speaker·euse" tips &amp; tricks| https://www.meetup.com/gdg-nantes/events/300454168/ | 
+| 2024-05-15| Agile Nantes - Sessions mensuelles| La pertinence des méthodes agiles avec la cartographie de Wardley| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/300588652/ | 
+| 2024-05-16| GDG Nantes| "Devenir Speaker·euse" tips and tricks| https://www.meetup.com/gdg-nantes/events/300454168/ | 
+| 2024-05-22| Generative AI Nantes| Boite à outil de la Gen AI et cas d'usages techniques, créatifs et métiers| https://www.meetup.com/generative-ai-nantes/events/300567997/ | 
+| 2024-05-23| GDG Nantes Android| Google I/O Extended 2024 - Android et Flutter Nantes| https://www.meetup.com/gdg_nantes_android/events/300572463/ | 
 | 2024-05-31| Generative AI Nantes| Shift, le Hackathon Gen AI - Billetterie sur Eventbrite| https://www.meetup.com/generative-ai-nantes/events/300431836/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
