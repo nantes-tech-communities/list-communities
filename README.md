@@ -60,12 +60,12 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-05-09| DigiBloc | 🇫🇷  Blockchain - Tech - Cryptos - NFT - Web3 🐓| DigiBloc | Soirée Spéciale REX Halving (%2) ₿ | 1 Ledger Nano S à gagner 🎁| https://www.meetup.com/digibloc/events/300315346/ | 
 | 2024-05-15| Agile Nantes - Sessions mensuelles| La pertinence des méthodes agiles avec la cartographie de Wardley| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/300588652/ | 
 | 2024-05-16| GDG Nantes| "Devenir Speaker·euse" tips and tricks| https://www.meetup.com/gdg-nantes/events/300454168/ | 
 | 2024-05-21| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/300658962/ | 
 | 2024-05-22| Generative AI Nantes| Boite à outil de la Gen AI et cas d'usages techniques, créatifs et métiers| https://www.meetup.com/generative-ai-nantes/events/300567997/ | 
 | 2024-05-23| GDG Nantes Android| Google I/O Extended 2024 - Android et Flutter Nantes| https://www.meetup.com/gdg_nantes_android/events/300572463/ | 
+| 2024-05-28| Nantes Java User Group| Comment MongoDB a sauvé mon restaurant // Le manuel des castors juniors du dev.| https://www.meetup.com/nantes-java-user-group/events/300973582/ | 
 | 2024-05-28| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/300777964/ | 
 | 2024-05-31| Generative AI Nantes| Shift, le Hackathon Gen AI - Billetterie sur Eventbrite| https://www.meetup.com/generative-ai-nantes/events/300431836/ | 
 | 2024-06-11| Human Talks Nantes| Human Talks - Juin 2024| https://www.meetup.com/humantalks-nantes/events/300746448/ | 
