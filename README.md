@@ -60,16 +60,14 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-06-04| France DevOps Nantes| Construire une architecture AWS multi compte sécurisée à moindre coût| https://www.meetup.com/france-devops-nantes/events/301293013/ | 
-| 2024-06-05| Agile Nantes - Sessions mensuelles| Et si écouter votre corps vous permettait de régénérer votre cerveau ?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/301081974/ | 
-| 2024-06-06| CocoaHeads Nantes| CocoaHeads de Juin chez Externatic| https://www.meetup.com/cocoaheads-nantes/events/301037523/ | 
-| 2024-06-06| GDG Cloud Nantes| 🎉 Soirée spéciale : 10 ans de Kubernetes ☸️| https://www.meetup.com/gdg-cloud-nantes/events/301150466/ | 
 | 2024-06-11| Human Talks Nantes| Human Talks - Juin 2024| https://www.meetup.com/humantalks-nantes/events/300746448/ | 
 | 2024-06-11| MTG Nantes| Triple talk sur Chatbot, Azure IoT & Mistral !| https://www.meetup.com/mtg-nantes/events/301314118/ | 
 | 2024-06-12| Nantes Java User Group| Soirée de fin d'année : JUnit 5 // Spring Boot| https://www.meetup.com/nantes-java-user-group/events/301290651/ | 
 | 2024-06-12| Nantes Python Meetup| Rencontrez-nous pour une Exploration de la Dataviz : Expérimenter et Partager| https://www.meetup.com/nantes-python-meetup/events/301176059/ | 
 | 2024-06-13| FrenchProduit Nantes-Bretagne| Rénover pour innover : construire une culture Produit dans les grands groupes| https://www.meetup.com/frenchproduit-nantesbretagne/events/301323721/ | 
+| 2024-06-19| Generative AI Nantes| #11 Conf' par AWS - Démystifiez le développement d'applications web Gen AI| https://www.meetup.com/generative-ai-nantes/events/301460410/ | 
 | 2024-06-20| FrenchProduit Nantes-Bretagne| Pot Afterwork FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/301293153/ | 
+| 2024-06-25| Nantes.rb| Ruby Magmaa!| https://www.meetup.com/nantes-rb/events/301436350/ | 
 | 2024-07-02| GDG Nantes Android| Un moment de convivialité avant les vacances| https://www.meetup.com/gdg_nantes_android/events/301226365/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
