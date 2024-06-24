@@ -60,13 +60,11 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-06-18| GDG Cloud Nantes| Soirée Cloud Run: What's new? avec Steren Giannini @Google| https://www.meetup.com/gdg-cloud-nantes/events/301622126/ | 
-| 2024-06-18| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/301616393/ | 
-| 2024-06-19| Generative AI Nantes| #11 Conf' par AWS - Démystifiez le développement d'applications web Gen AI| https://www.meetup.com/generative-ai-nantes/events/301460410/ | 
-| 2024-06-20| FrenchProduit Nantes-Bretagne| Pot Afterwork FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/301293153/ | 
 | 2024-06-25| Nantes.rb| Ruby Magmaa!| https://www.meetup.com/nantes-rb/events/301436350/ | 
-| 2024-07-02| Flutter Nantes| Meetup Flutter Nantes / 12e édition : App Clinics !| https://www.meetup.com/flutter-nantes/events/301657064/ | 
+| 2024-07-02| France DevOps Nantes| Le produit entre la qualité et l’Over-Engineering| https://www.meetup.com/france-devops-nantes/events/301712290/ | 
+| 2024-07-02| Flutter Nantes| Meetup Flutter Nantes / 12e édition : Détente avant les vacances !| https://www.meetup.com/flutter-nantes/events/301657064/ | 
 | 2024-07-02| GDG Nantes Android| Un moment de convivialité avant les vacances| https://www.meetup.com/gdg_nantes_android/events/301226365/ | 
+| 2024-07-10| Generative AI Nantes| #12 Workshop - Code ton premier agent conversationnel - PLACES LIMITÉES| https://www.meetup.com/generative-ai-nantes/events/301756824/ | 
 | 2024-09-10| Human Talks Nantes| Human Talks - Septembre 2024| https://www.meetup.com/humantalks-nantes/events/301599386/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
