@@ -60,9 +60,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-07-10| Generative AI Nantes| #12 Workshop - Code ton premier agent conversationnel - PLACES LIMITÉES| https://www.meetup.com/generative-ai-nantes/events/301756824/ | 
-| 2024-07-11| NantesJS| Le meetup dont vous êtes le héros - 6 !| https://www.eventbrite.fr/e/billets-le-meetup-dont-vous-etes-le-heros-6-928581641687 | 
 | 2024-09-10| Human Talks Nantes| Human Talks - Septembre 2024| https://www.meetup.com/humantalks-nantes/events/301599386/ | 
+| 2024-09-18| Generative AI Nantes| #S3E1 - Conf' par Meta - Les dessous de Llama 3| https://www.meetup.com/generative-ai-nantes/events/302161003/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
