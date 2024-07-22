@@ -61,6 +61,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |   |   |   |   |   |
 |---|---|---|---|---|
 | 2024-09-10| Human Talks Nantes| Human Talks - Septembre 2024| https://www.meetup.com/humantalks-nantes/events/301599386/ | 
+| 2024-09-18| Nantes Machine Learning Meetup| Llama 3 : de $x_{n+1} = f(x)$ à la conversation| https://www.meetup.com/nantes-machine-learning-meetup/events/302309886/ | 
+| 2024-09-18| Nantes Machine Learning Meetup| Landscape of deep neural networks compression and applications| https://www.meetup.com/nantes-machine-learning-meetup/events/302310292/ | 
 | 2024-09-18| Generative AI Nantes| #S3E1 - Conf' par Meta - Les dessous de Llama 3| https://www.meetup.com/generative-ai-nantes/events/302161003/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
