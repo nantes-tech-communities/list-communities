@@ -60,8 +60,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-08-27| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/302919791/ | 
 | 2024-09-10| Human Talks Nantes| Human Talks - Septembre 2024| https://www.meetup.com/humantalks-nantes/events/301599386/ | 
+| 2024-09-17| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/303136184/ | 
 | 2024-09-18| Nantes Machine Learning Meetup| Llama 3 : de $x_{n+1} = f(x)$ à la conversation| https://www.meetup.com/nantes-machine-learning-meetup/events/302309886/ | 
 | 2024-09-18| Generative AI Nantes| #S3E1 - Conf' par Meta - Les dessous de Llama 3| https://www.meetup.com/generative-ai-nantes/events/302161003/ | 
 | 2024-10-01| Nantes Machine Learning Meetup| Landscape of deep neural networks compression and applications| https://www.meetup.com/nantes-machine-learning-meetup/events/302310292/ | 
