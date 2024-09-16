@@ -60,14 +60,15 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-09-10| Human Talks Nantes| Human Talks - Septembre 2024| https://www.meetup.com/humantalks-nantes/events/301599386/ | 
 | 2024-09-17| Flutter Nantes| Meetup Flutter Nantes / 13e édition : Vive la rentrée !| https://www.meetup.com/flutter-nantes/events/303191540/ | 
 | 2024-09-17| Software Crafters Nantes| Software Crafters Nantes| https://www.meetup.com/nantes-software-crafters-nantes/events/303136184/ | 
 | 2024-09-18| Nantes Machine Learning Meetup| Llama 3 : de $x_{n+1} = f(x)$ à la conversation| https://www.meetup.com/nantes-machine-learning-meetup/events/302309886/ | 
 | 2024-09-18| Generative AI Nantes| #S3E1 - Conf' par Meta - Les dessous de Llama 3| https://www.meetup.com/generative-ai-nantes/events/302161003/ | 
 | 2024-09-25| DOSCA : décisions complexes| Comprendre la complexité de la mobilité cyclable : une introduction à Cynefin| https://www.meetup.com/dosca-decisions-complexes/events/303196238/ | 
 | 2024-09-26| React Nantes| #21 - Meetup React Nantes x Younup| https://www.eventbrite.com/e/21-meetup-react-nantes-x-younup-tickets-1006960434767 | 
+| 2024-09-27| Nantes.rb| 🚀 C'est la rentrée pour les fans de Ruby ! 🚀| https://www.meetup.com/nantes-rb/events/303348681/ | 
 | 2024-10-01| Nantes Machine Learning Meetup| Landscape of deep neural networks compression and applications| https://www.meetup.com/nantes-machine-learning-meetup/events/302310292/ | 
+| 2024-10-02| Agile Nantes - Sessions mensuelles| Connaissez-vous le MOM Test ?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/303365585/ | 
 | 2024-10-17| GDG Nantes| Devfest Nantes 2024| https://www.meetup.com/gdg-nantes/events/302406804/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
