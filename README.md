@@ -60,16 +60,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-10-01| Nantes Machine Learning Meetup| Landscape of deep neural networks compression and applications| https://www.meetup.com/nantes-machine-learning-meetup/events/302310292/ | 
-| 2024-10-01| GDG Nantes Android| Android Nantes #34 - Meetup chez Ippon| https://www.meetup.com/gdg_nantes_android/events/303502586/ | 
-| 2024-10-02| Nantes Java User Group| La recherche à l'ère de l'IA // Elasticsearch Query Language: ES|QL| https://www.meetup.com/nantes-java-user-group/events/303451947/ | 
-| 2024-10-02| Agile Nantes - Sessions mensuelles| Connaissez-vous le MOM Test ?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/303365585/ | 
-| 2024-10-03| FrenchProduit Nantes-Bretagne| Pot Afterwork FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/303616352/ | 
 | 2024-10-08| Nantes@Hack| Talk 1 : "DORA, TIBER, TLTP: WTF ?" et Talk 2 : "Pentest - automatiser son énum"| https://www.meetup.com/nantesathack/events/303625790/ | 
 | 2024-10-09| Generative AI Nantes| #S3E2 - Conf' Leboncoin - Évaluation des RAG : Le Bon, la Brute et le Troublant| https://www.meetup.com/generative-ai-nantes/events/303528692/ | 
 | 2024-10-16| FrenchProduit Nantes-Bretagne| Product Lab : Transformez les problèmes en solutions| https://www.meetup.com/frenchproduit-nantesbretagne/events/303663409/ | 
 | 2024-10-17| GDG Nantes| Devfest Nantes 2024| https://www.meetup.com/gdg-nantes/events/302406804/ | 
 | 2024-10-17| GDG Cloud Nantes| Devfest Nantes 2024| https://www.meetup.com/gdg-cloud-nantes/events/303505565/ | 
+| 2024-10-24| CocoaHeads Nantes| CocoaHeads d'Octobre chez Decathlon| https://www.meetup.com/cocoaheads-nantes/events/303805177/ | 
+| 2024-11-05| GDG Nantes Android| Android Nantes #34 - Meetup chez Ippon| https://www.meetup.com/gdg_nantes_android/events/303502586/ | 
 | 2024-11-12| Human Talks Nantes| Human Talks - Novembre 2024| https://www.meetup.com/humantalks-nantes/events/303522866/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
