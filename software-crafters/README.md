@@ -13,7 +13,7 @@ Si vos collègues habituels ne suffisent pas sur tous ces sujets, alors les soir
 |                                |     |
 | ------------------------------ | --- |
 | ✉️ Qui contacter ?             | Twitter @swcraftnantes ou contacter Cécilia Bossard, Sébastien Fauvel, Maxime Sanglan-Charlier ou Jean Paliès sur le slack |
-| 🌍 Le site web                 | https://www.meetup.com/fr-FR/nantes-software-crafters-nantes/   |
+| 🌍 Le site web                 | https://mobilizon.fr/@software_crafters_nantes   |
 | 📆 La fréquence des évènements | Tous les 3ème mardi de chaque mois   |
 | ✨ Slack                       | https://join.slack.com/t/swcraftnantes/shared_invite/zt-xjt8rwps-TiniNginkuqskLTKeNsqDQ |
 | 🐦 Twitter                     | https://twitter.com/@swcraftnantes |
