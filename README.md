@@ -60,15 +60,15 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-10-28| Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/303898436/ | 
-| 2024-10-29| Nantes Java User Group| Retour d'XP sur Accelerate // Comment ingérer 100 Mrd. d'événements| https://www.meetup.com/nantes-java-user-group/events/304012594/ | 
-| 2024-10-30| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/304056880/ | 
 | 2024-11-05| France DevOps Nantes| Et si vous mettiez à disposition vos jobs de CI/CD sur une étagère ?| https://www.meetup.com/france-devops-nantes/events/304141120/ | 
 | 2024-11-05| Generative AI Nantes| #S3E3 - Conf' Better, faster, stronger prototypes : appels d'offres, visuels, ..| https://www.meetup.com/generative-ai-nantes/events/304148545/ | 
 | 2024-11-05| GDG Nantes Android| Android Nantes #34 - Meetup chez Ippon| https://www.meetup.com/gdg_nantes_android/events/303502586/ | 
 | 2024-11-06| Agile Nantes - Sessions mensuelles| (Dé)jouez vos biais cognitifs, pour des décisions plus éclairées !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/303888188/ | 
 | 2024-11-12| Human Talks Nantes| Human Talks - Novembre 2024| https://www.meetup.com/humantalks-nantes/events/303522866/ | 
 | 2024-11-12| DOSCA : décisions complexes| Conférence critiquée : l’IKIGAÏ à la fondation de toute stratégie durable ?| https://www.meetup.com/dosca-decisions-complexes/events/304123355/ | 
+| 2024-11-14| FrenchProduit Nantes-Bretagne| Témoignages sur le métier de Product Ops| https://www.meetup.com/frenchproduit-nantesbretagne/events/304288704/ | 
+| 2024-11-19| Nantes Java User Group| Paketo Buildpacks // Sous le capot d'une application JVM| https://www.meetup.com/nantes-java-user-group/events/304303223/ | 
+| 2024-11-19| Flutter Nantes| Meetup Flutter Nantes / 14e édition : Navigation & REX de refonte d'application| https://www.meetup.com/flutter-nantes/events/304287881/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
