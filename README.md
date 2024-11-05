@@ -63,6 +63,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2024-11-05| France DevOps Nantes| Et si vous mettiez à disposition vos jobs de CI/CD sur une étagère ?| https://www.meetup.com/france-devops-nantes/events/304141120/ | 
 | 2024-11-05| Generative AI Nantes| #S3E3 - Conf' Better, faster, stronger prototypes : appels d'offres, visuels, ..| https://www.meetup.com/generative-ai-nantes/events/304148545/ | 
 | 2024-11-05| GDG Nantes Android| Android Nantes #34 - Meetup chez Ippon| https://www.meetup.com/gdg_nantes_android/events/303502586/ | 
+| 2024-11-05| Design Systems Nantes| Design System Nantes #6 : la MACIF et Lonestone| https://www.eventbrite.fr/e/billets-design-system-nantes-6-la-macif-et-lonestone-1044892420357 | 
 | 2024-11-06| Agile Nantes - Sessions mensuelles| (Dé)jouez vos biais cognitifs, pour des décisions plus éclairées !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/303888188/ | 
 | 2024-11-12| Human Talks Nantes| Human Talks - Novembre 2024| https://www.meetup.com/humantalks-nantes/events/303522866/ | 
 | 2024-11-12| DOSCA : décisions complexes| Conférence critiquée : l’IKIGAÏ à la fondation de toute stratégie durable ?| https://www.meetup.com/dosca-decisions-complexes/events/304123355/ | 
