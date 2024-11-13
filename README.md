@@ -60,7 +60,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-11-12| Human Talks Nantes| Human Talks - Novembre 2024| https://www.meetup.com/humantalks-nantes/events/303522866/ | 
 | 2024-11-14| FrenchProduit Nantes-Bretagne| Témoignages sur le métier de Product Ops| https://www.meetup.com/frenchproduit-nantesbretagne/events/304288704/ | 
 | 2024-11-19| Nantes Java User Group| Paketo Buildpacks // Sous le capot d'une application JVM| https://www.meetup.com/nantes-java-user-group/events/304303223/ | 
 | 2024-11-19| France DevOps Nantes| Les pirates du DevOps : la malédiction des tests temps réel| https://www.meetup.com/france-devops-nantes/events/304432511/ | 
@@ -70,6 +69,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2024-11-28| MTG Nantes| "Je pense, donc je suis ?" - Boostez votre chatbot personnalisé avec une pincée | https://www.meetup.com/mtg-nantes/events/304402680/ | 
 | 2024-12-04| Agile Nantes - Sessions mensuelles| Rendez-vous en Terre Inconnue : 5 jours pour défricher les besoins avec le desig| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/304455423/ | 
 | 2024-12-04| FrenchProduit Nantes-Bretagne| Pot Afterwork FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/304519941/ | 
+| 2024-12-05| Nantes Python Meetup| Exploration du Dashboarding : Expérimenter et Partager| https://www.meetup.com/nantes-python-meetup/events/304545163/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
