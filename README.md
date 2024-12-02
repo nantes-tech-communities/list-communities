@@ -60,8 +60,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-11-26| Nantes.rb| Ruby Talk!| https://www.meetup.com/nantes-rb/events/304434830/ | 
-| 2024-11-28| MTG Nantes| "Je pense, donc je suis ?" - Boostez votre chatbot personnalisé avec une pincée | https://www.meetup.com/mtg-nantes/events/304402680/ | 
 | 2024-12-04| Agile Nantes - Sessions mensuelles| Rendez-vous en Terre Inconnue : 5 jours pour défricher les besoins avec le desig| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/304455423/ | 
 | 2024-12-05| Nantes Python Meetup| Exploration du Dashboarding : Expérimenter et Partager| https://www.meetup.com/nantes-python-meetup/events/304545163/ | 
 | 2024-12-12| FrenchProduit Nantes-Bretagne| MyPractice : le serious game qui challenge votre approche Product & Design| https://www.meetup.com/frenchproduit-nantesbretagne/events/304704829/ | 
