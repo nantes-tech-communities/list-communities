@@ -60,12 +60,14 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-12-04| Agile Nantes - Sessions mensuelles| Rendez-vous en Terre Inconnue : 5 jours pour défricher les besoins avec le desig| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/304455423/ | 
-| 2024-12-05| Nantes Python Meetup| Exploration du Dashboarding : Expérimenter et Partager| https://www.meetup.com/nantes-python-meetup/events/304545163/ | 
 | 2024-12-12| FrenchProduit Nantes-Bretagne| MyPractice : le serious game qui challenge votre approche Product & Design| https://www.meetup.com/frenchproduit-nantesbretagne/events/304704829/ | 
+| 2024-12-12| NantesJS| Meetup #79| https://www.eventbrite.fr/e/billets-meetup-79-1104429912599 | 
 | 2024-12-17| Nantes Java User Group| 🍸 Crash investigation // Démystifier la création d'opérateurs Kubernetes 🧀 🍷| https://www.meetup.com/nantes-java-user-group/events/304559809/ | 
-| 2024-12-17| Flutter Nantes| [Réservez le créneau] Un Meetup Flutter Spécial | https://www.meetup.com/flutter-nantes/events/304646086/ | 
+| 2024-12-17| France DevOps Nantes| Mais qui a tué le chat de Lemni ?| https://www.meetup.com/france-devops-nantes/events/304912914/ | 
+| 2024-12-17| Flutter Nantes| Flutter in Production Extended Nantes | https://www.meetup.com/flutter-nantes/events/304646086/ | 
+| 2024-12-17| Nantes.rb| Ruby au Melting Potes!| https://www.meetup.com/nantes-rb/events/304903746/ | 
 | 2024-12-19| Generative AI Nantes| S3E4 - Conf' de Gladia - Lost in Transcription| https://www.meetup.com/generative-ai-nantes/events/304739724/ | 
+| 2025-01-14| Human Talks Nantes| Human Talks - Janvier 2025| https://www.meetup.com/humantalks-nantes/events/304903323/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
