@@ -66,6 +66,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2024-12-17| Nantes.rb| Ruby au Melting Potes!| https://www.meetup.com/nantes-rb/events/304903746/ | 
 | 2024-12-19| Generative AI Nantes| S3E4 - Conf' de Gladia - Lost in Transcription| https://www.meetup.com/generative-ai-nantes/events/304739724/ | 
 | 2025-01-14| Human Talks Nantes| Human Talks - Janvier 2025| https://www.meetup.com/humantalks-nantes/events/304903323/ | 
+| 2025-02-06| Communautés Mobiles Nantaises| P'tit Beurre Quiz 2| https://www.eventbrite.fr/e/ptit-beurre-quiz-2-tickets-1106921314449 | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
