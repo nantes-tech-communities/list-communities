@@ -60,8 +60,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-12-12| FrenchProduit Nantes-Bretagne| MyPractice : le serious game qui challenge votre approche Product & Design| https://www.meetup.com/frenchproduit-nantesbretagne/events/304704829/ | 
-| 2024-12-12| NantesJS| Meetup #79| https://www.eventbrite.fr/e/billets-meetup-79-1104429912599 | 
 | 2024-12-17| Nantes Java User Group| 🍸 Crash investigation // Démystifier la création d'opérateurs Kubernetes 🧀 🍷| https://www.meetup.com/nantes-java-user-group/events/304559809/ | 
 | 2024-12-17| France DevOps Nantes| Mais qui a tué le chat de Lemni ?| https://www.meetup.com/france-devops-nantes/events/304912914/ | 
 | 2024-12-17| Flutter Nantes| Flutter in Production Extended Nantes | https://www.meetup.com/flutter-nantes/events/304646086/ | 
