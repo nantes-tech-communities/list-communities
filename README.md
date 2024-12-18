@@ -52,6 +52,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Web Island](https://webisland.io/)
 - [Mobilis In Mobile](https://mobilis-in-mobile.io/)
 - [AgileTour](./agiletour/)
+- [Hackathons Shift](https://shift-hackathon.com/)
 
 
 ## 📅 Les évènements à venir
