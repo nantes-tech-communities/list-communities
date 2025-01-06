@@ -62,12 +62,11 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2024-12-17| Nantes Java User Group| 🍸 Crash investigation // Démystifier la création d'opérateurs Kubernetes 🧀 🍷| https://www.meetup.com/nantes-java-user-group/events/304559809/ | 
-| 2024-12-17| France DevOps Nantes| Mais qui a tué le chat de Lemni ?| https://www.meetup.com/france-devops-nantes/events/304912914/ | 
-| 2024-12-17| Flutter Nantes| Flutter in Production Extended Nantes | https://www.meetup.com/flutter-nantes/events/304646086/ | 
-| 2024-12-17| Nantes.rb| Ruby au Melting Potes!| https://www.meetup.com/nantes-rb/events/304903746/ | 
-| 2024-12-19| Generative AI Nantes| S3E4 - Conf' de Gladia - Lost in Transcription| https://www.meetup.com/generative-ai-nantes/events/304739724/ | 
 | 2025-01-14| Human Talks Nantes| Human Talks - Janvier 2025| https://www.meetup.com/humantalks-nantes/events/304903323/ | 
+| 2025-01-20| Naoned Computer Club| Naoned Computer Club - #2 - L'afterwork dev à Nantes| https://www.eventbrite.com/e/billets-naoned-computer-club-2-lafterwork-dev-a-nantes-1122834701819 | 
+| 2025-01-23| GDG Nantes| Speechless Live : match d'impro by GDG Nantes| https://www.meetup.com/gdg-nantes/events/305238906/ | 
+| 2025-01-30| GDG Nantes Android| Android Nantes #35 - Meetup chez Epitech Nantes| https://www.meetup.com/gdg_nantes_android/events/305338413/ | 
+| 2025-02-06| GDG Nantes Android| P'tit Beurre Quiz 2| https://www.meetup.com/gdg_nantes_android/events/305112089/ | 
 | 2025-02-06| Communautés Mobiles Nantaises| P'tit Beurre Quiz 2| https://www.eventbrite.fr/e/ptit-beurre-quiz-2-tickets-1106921314449 | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
