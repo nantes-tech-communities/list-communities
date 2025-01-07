@@ -13,6 +13,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 ## 🐘 Les communautés Nantaises
 
 - [AgileNantes](./agilenantes/)
+- [AWS User Group Nantes](./aws-nantes/)
 - [Atelier découverte du développement pour les enfants](./dev-enfants/)
 - [Blockchain et société](./blockchain-et-societe/)
 - [CocoaHeads Nantes](./cocoanantes/)
