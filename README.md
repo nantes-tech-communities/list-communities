@@ -63,14 +63,14 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2025-01-28| FrenchProduit Nantes-Bretagne| Pot Afterwork FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/305714701/ | 
-| 2025-01-28| Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/305457741/ | 
 | 2025-01-30| FrenchProduit Nantes-Bretagne| Regards croisés sur la formation produit| https://www.meetup.com/frenchproduit-nantesbretagne/events/305749861/ | 
 | 2025-01-30| GDG Nantes Android| Android Nantes #35 - Meetup chez Epitech Nantes| https://www.meetup.com/gdg_nantes_android/events/305338413/ | 
 | 2025-02-05| Agile Nantes - Sessions mensuelles| L'Agilité (à l'échelle) dans l'Industrie : REX de 2 ans chez Unista| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/305646732/ | 
 | 2025-02-06| Flutter Nantes| P'tit Beurre Quiz 2| https://www.meetup.com/flutter-nantes/events/305738900/ | 
 | 2025-02-06| GDG Nantes Android| P'tit Beurre Quiz 2| https://www.meetup.com/gdg_nantes_android/events/305112089/ | 
+| 2025-02-06| AWS User Group France - Nantes| AWS re:Invent re:Caps| https://www.meetup.com/aws-nantes/events/305877892/ | 
 | 2025-02-06| Communautés Mobiles Nantaises| P'tit Beurre Quiz 2| https://www.eventbrite.fr/e/ptit-beurre-quiz-2-tickets-1106921314449 | 
+| 2025-02-25| Flutter Nantes| Meetup Flutter Nantes / 16e édition : Shake Gestures, Tech Radar & Dio Mocks| https://www.meetup.com/flutter-nantes/events/305861843/ | 
 | 2025-03-11| Human Talks Nantes| Human Talks - Mars 2025| https://www.meetup.com/humantalks-nantes/events/305646839/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
