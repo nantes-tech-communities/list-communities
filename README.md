@@ -63,13 +63,12 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2025-02-05| Agile Nantes - Sessions mensuelles| L'Agilité (à l'échelle) dans l'Industrie : REX de 2 ans chez Unista| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/305646732/ | 
-| 2025-02-06| Flutter Nantes| P'tit Beurre Quiz 2| https://www.meetup.com/flutter-nantes/events/305738900/ | 
-| 2025-02-06| GDG Nantes Android| P'tit Beurre Quiz 2| https://www.meetup.com/gdg_nantes_android/events/305112089/ | 
-| 2025-02-06| AWS User Group France - Nantes| AWS re:Invent re:Caps| https://www.meetup.com/aws-nantes/events/305877892/ | 
-| 2025-02-06| Communautés Mobiles Nantaises| P'tit Beurre Quiz 2| https://www.eventbrite.fr/e/ptit-beurre-quiz-2-tickets-1106921314449 | 
+| 2025-02-25| Nantes Java User Group| Tout sur les type systems // Le mode hors-ligne avec le web natif| https://www.meetup.com/nantes-java-user-group/events/306045925/ | 
 | 2025-02-25| Flutter Nantes| Meetup Flutter Nantes / 16e édition : Shake Gestures, Tech Radar & Dio Mocks| https://www.meetup.com/flutter-nantes/events/305861843/ | 
+| 2025-02-26| Generative AI Nantes| S3E6 - Conf Doctolib - Building an Agentic AI System for Healthcare Support| https://www.meetup.com/generative-ai-nantes/events/305976578/ | 
+| 2025-02-27| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/305995476/ | 
 | 2025-03-11| Human Talks Nantes| Human Talks - Mars 2025| https://www.meetup.com/humantalks-nantes/events/305646839/ | 
+| 2025-03-28| Generative AI Nantes| Shift, Le Hackathon Gen AI 2025| https://www.meetup.com/generative-ai-nantes/events/306064280/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
