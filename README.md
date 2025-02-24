@@ -63,14 +63,16 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2025-02-20| NantesJS| Meetup #80| https://www.eventbrite.fr/e/billets-meetup-80-1246453549119 | 
 | 2025-02-25| Nantes Java User Group| Tout sur les type systems // Le mode hors-ligne avec le web natif| https://www.meetup.com/nantes-java-user-group/events/306045925/ | 
 | 2025-02-25| FrenchProduit Nantes-Bretagne| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/306170626/ | 
 | 2025-02-25| Flutter Nantes| Meetup Flutter Nantes / 16e édition : Shake Gestures, Tech Radar & Dio Mocks| https://www.meetup.com/flutter-nantes/events/305861843/ | 
 | 2025-02-26| Generative AI Nantes| S3E6 - Conf Doctolib - Building an Agentic AI System for Healthcare Support| https://www.meetup.com/generative-ai-nantes/events/305976578/ | 
+| 2025-02-27| FrenchProduit Nantes-Bretagne| Intégrations & croissance des équipes produits| https://www.meetup.com/frenchproduit-nantesbretagne/events/306238495/ | 
 | 2025-02-27| Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/305995476/ | 
 | 2025-03-05| Agile Nantes - Sessions mensuelles| REX mentorat coaching| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/306098511/ | 
 | 2025-03-11| Human Talks Nantes| Human Talks - Mars 2025| https://www.meetup.com/humantalks-nantes/events/305646839/ | 
+| 2025-03-19| GDG Nantes| International Women's Day Nantes 2025| https://www.meetup.com/gdg-nantes/events/306312847/ | 
+| 2025-03-19| Generative AI Nantes| HS - Before Shift| https://www.meetup.com/generative-ai-nantes/events/306258777/ | 
 | 2025-03-28| Generative AI Nantes| Shift, Le Hackathon Gen AI 2025| https://www.meetup.com/generative-ai-nantes/events/306064280/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
