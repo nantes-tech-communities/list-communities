@@ -63,14 +63,15 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2025-03-05| Agile Nantes - Sessions mensuelles| REX mentorat coaching| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/306098511/ | 
-| 2025-03-11| Human Talks Nantes| Human Talks - Mars 2025| https://www.meetup.com/humantalks-nantes/events/305646839/ | 
 | 2025-03-12| Nantes Java User Group| REX Design System Doctolib // Mountain Quest: Du Camp de Base au Sommet| https://www.meetup.com/nantes-java-user-group/events/306401890/ | 
 | 2025-03-13| GDG Nantes Android| Android Nantes #36 - Meetup chez Younup| https://www.meetup.com/gdg_nantes_android/events/306413683/ | 
+| 2025-03-18| France DevOps Nantes| OpenTelemetry 101| https://www.meetup.com/france-devops-nantes/events/306591317/ | 
 | 2025-03-19| GDG Nantes| International Women's Day Nantes 2025| https://www.meetup.com/gdg-nantes/events/306312847/ | 
 | 2025-03-19| Generative AI Nantes| HS - Before Shift| https://www.meetup.com/generative-ai-nantes/events/306258777/ | 
 | 2025-03-20| FrenchProduit Nantes-Bretagne| French Produit & Flupa Nantes : Designer vs Product Designer| https://www.meetup.com/frenchproduit-nantesbretagne/events/306436269/ | 
+| 2025-03-26| Nantes.rb| Ruby à la Little Atlantique Brewery!| https://www.meetup.com/nantes-rb/events/306593216/ | 
 | 2025-03-28| Generative AI Nantes| Shift, Le Hackathon Gen AI 2025| https://www.meetup.com/generative-ai-nantes/events/306064280/ | 
+| 2025-04-02| MTG Nantes| Développer et déployer vos Azure Functions pour Azure Container Apps| https://www.meetup.com/mtg-nantes/events/306633471/ | 
 | 2025-04-08| Flutter Nantes| Meetup Flutter Nantes #17 : Native Interop & Serverpod Power| https://www.meetup.com/flutter-nantes/events/306328240/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
