@@ -63,11 +63,16 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |   |   |   |   |   |
 |---|---|---|---|---|
 |  | AWS User Group France - Nantes| Soirée Rust / Lambda + Sécurité| https://www.meetup.com/aws-nantes/events/307541827/ | 
+|  | Agile Nantes - Sessions mensuelles| Laissez moi dev !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/307651688/ | 
 |  | Flutter Nantes| Nuit des Meetups 2025| https://www.meetup.com/flutter-nantes/events/306824356/ | 
+|  | FrenchProduit Nantes| Soirée témoignages| https://www.meetup.com/frenchproduit-nantesbretagne/events/307672289/ | 
+|  | GDG Cloud Nantes| TechReady| https://www.meetup.com/gdg-cloud-nantes/events/307672812/ | 
+|  | GDG Nantes|  Soirée enchantée DevFest Nantes x Melting Potes | https://www.meetup.com/gdg-nantes/events/307602110/ | 
 |  | GDG Nantes Android| Nuit des Meetups 2025| https://www.meetup.com/gdg_nantes_android/events/307579563/ | 
 |  | Generative AI Nantes| S3E9 - Conf' Meilisearch - Vector DB et MCP server| https://www.meetup.com/generative-ai-nantes/events/307322405/ | 
 |  | Human Talks Nantes| Human Talks - Mai 2025| https://www.meetup.com/humantalks-nantes/events/307297671/ | 
 |  | Nantes Java User Group| Signals, nouvelle norme des Frameworks Web // C'est pas le réseau, ça ping Marty| https://www.meetup.com/nantes-java-user-group/events/307462842/ | 
+|  | Nantes.rb| Nantes RB à la nuit des Meetup| https://www.meetup.com/nantes-rb/events/307651155/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
