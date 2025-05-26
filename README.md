@@ -63,15 +63,15 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |   |   |   |   |   |
 |---|---|---|---|---|
 |  | AWS User Group France - Nantes| Soirée Rust / Lambda + Sécurité| https://www.meetup.com/aws-nantes/events/307541827/ | 
-|  | Flutter Nantes| Nuit des Meetups 2025| https://www.meetup.com/flutter-nantes/events/306824356/ | 
 |  | Flutter Nantes| Meetup Flutter Nantes #18| https://www.meetup.com/flutter-nantes/events/307819845/ | 
-|  | France DevOps Nantes| Intégrer le test de charge dans votre CI| https://www.meetup.com/france-devops-nantes/events/307782070/ | 
 |  | GDG Cloud Nantes| TechReady| https://www.meetup.com/gdg-cloud-nantes/events/307672812/ | 
 |  | GDG Nantes|  Soirée enchantée DevFest Nantes x Melting Potes | https://www.meetup.com/gdg-nantes/events/307602110/ | 
 |  | GDG Nantes| Dev'Party CodinGame !| https://www.meetup.com/gdg-nantes/events/307782227/ | 
-|  | GDG Nantes Android| Nuit des Meetups 2025| https://www.meetup.com/gdg_nantes_android/events/307579563/ | 
+|  | Generative AI Nantes| Hors série: Dev'Party CodinGame !| https://www.meetup.com/generative-ai-nantes/events/308022319/ | 
+|  | Generative AI Nantes| S3E11 - Conf' Raconte - Intègre un assistant vocal dans ta webapp| https://www.meetup.com/generative-ai-nantes/events/308024171/ | 
+|  | Generative AI Nantes| S3E12 - Workshop Cursor - Ensorcelle ton IDE: de zéro à démo - PLACES LIMITÉES| https://www.meetup.com/generative-ai-nantes/events/308022420/ | 
 |  | Nantes Java User Group| Dev'Party CodinGame !| https://www.meetup.com/nantes-java-user-group/events/307857008/ | 
-|  | Nantes.rb| Nantes RB à la nuit des Meetup| https://www.meetup.com/nantes-rb/events/307651155/ | 
+|  | Nantes Java User Group| 🍸 // Enter the Daggerverse ! // Suivez le lapin blanc et plongez dans la JVM //| https://www.meetup.com/nantes-java-user-group/events/307959282/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
