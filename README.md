@@ -64,8 +64,9 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |---|---|---|---|---|
 |  | AWS User Group France - Nantes| Soirée Rust / Lambda + Sécurité| https://www.meetup.com/aws-nantes/events/307541827/ | 
 |  | Flutter Nantes| Meetup Flutter Nantes #18| https://www.meetup.com/flutter-nantes/events/307819845/ | 
+|  | France DevOps Nantes| Un cluster Kubernetes sur deux sites : une simple histoire de disponibilité, non| https://www.meetup.com/france-devops-nantes/events/308080738/ | 
+|  | FrenchProduit Nantes| Conférence FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/308084198/ | 
 |  | GDG Cloud Nantes| TechReady| https://www.meetup.com/gdg-cloud-nantes/events/307672812/ | 
-|  | GDG Nantes|  Soirée enchantée DevFest Nantes x Melting Potes | https://www.meetup.com/gdg-nantes/events/307602110/ | 
 |  | GDG Nantes| Dev'Party CodinGame !| https://www.meetup.com/gdg-nantes/events/307782227/ | 
 |  | Generative AI Nantes| Hors série: Dev'Party CodinGame !| https://www.meetup.com/generative-ai-nantes/events/308022319/ | 
 |  | Generative AI Nantes| S3E11 - Conf' Raconte - Intègre un assistant vocal dans ta webapp| https://www.meetup.com/generative-ai-nantes/events/308024171/ | 
