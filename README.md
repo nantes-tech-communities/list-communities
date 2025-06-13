@@ -7,8 +7,7 @@
 <div class="logo"><img src="./docs/logo-commu.png"  width="600"/></div>
 
 Ce projet permet de lister les communautés bénévoles nantaises et d'offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
-Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Slack ici: https://slack.nantes.community
-
+Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Slack, ouvrez une issue sur le repo pour obtenir une invitation.
 
 ## 🐘 Les communautés Nantaises
 
