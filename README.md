@@ -37,6 +37,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nocode Nantes](./nocode-nantes/)
 - [React Nantes](./react-nantes/)
 - [Software Crafters Nantes](./software-crafters/)
+- [Yeeso Nantes](./yeeso-nantes)
 
 
 ## 🐘 Les communautés Nantaises à la recherche d'organisateur·rice
