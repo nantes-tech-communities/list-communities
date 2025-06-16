@@ -61,14 +61,12 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-|  | AWS User Group France - Nantes| Soirée Rust / Lambda + Sécurité| https://www.meetup.com/aws-nantes/events/307541827/ | 
 |  | Flutter Nantes| Meetup Flutter Nantes #18| https://www.meetup.com/flutter-nantes/events/307819845/ | 
 |  | France DevOps Nantes| Kueue : Kubernetes-native Job Queueing| https://www.meetup.com/france-devops-nantes/events/308328669/ | 
-|  | FrenchProduit Nantes| Conférence FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/308084198/ | 
 |  | FrenchProduit Nantes| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/308274896/ | 
-|  | Generative AI Nantes| S3E11 - Conf' Raconte - Intègre un assistant vocal dans ta webapp| https://www.meetup.com/generative-ai-nantes/events/308024171/ | 
 |  | Generative AI Nantes| S3E12 - Workshop Cursor - Ensorcelle ton IDE: de zéro à démo - PLACES LIMITÉES| https://www.meetup.com/generative-ai-nantes/events/308022420/ | 
 |  | Nantes Java User Group| 🍸 // Enter the Daggerverse ! // Suivez le lapin blanc et plongez dans la JVM //| https://www.meetup.com/nantes-java-user-group/events/307959282/ | 
+|  | Nantes.rb| Nantes.rb @ Jack's Corner Pub&Food | https://www.meetup.com/nantes-rb/events/308481125/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
