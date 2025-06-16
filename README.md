@@ -37,7 +37,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nocode Nantes](./nocode-nantes/)
 - [React Nantes](./react-nantes/)
 - [Software Crafters Nantes](./software-crafters/)
-- [Yeeso Nantes](./yeeso-nantes/)
 
 
 ## 🐘 Les communautés Nantaises à la recherche d'organisateur·rice
@@ -126,7 +125,6 @@ Merci à tous les contributeurs 🙏
       <td align="center" valign="top" width="14.28%"><a href="https://screeb.app"><img src="https://avatars.githubusercontent.com/u/2951285?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Berthe</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.olivierthierry.com"><img src="https://avatars.githubusercontent.com/u/5655399?v=4" width="100px;" alt=""/><br /><sub><b>Olivier THIERRY</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/wrouvre"><img src="https://avatars.githubusercontent.com/u/30314002?v=4" width="100px;" alt=""/><br /><sub><b>Willy Rouvre</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wrouvre"><img src="https://avatars.githubusercontent.com/u/9074288?v=4" width="100px;" alt=""/><br /><sub><b>Angi Guyard</b></sub></a></td>
     </tr>
   </tbody>
 </table>
