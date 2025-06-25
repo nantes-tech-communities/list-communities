@@ -62,9 +62,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-|  | France DevOps Nantes| Enter the Daggerverse !| https://www.meetup.com/france-devops-nantes/events/308550572/ | 
 |  | Generative AI Nantes| S3E12 - Workshop Cursor - Ensorcelle ton IDE: de zéro à démo - PLACES LIMITÉES| https://www.meetup.com/generative-ai-nantes/events/308022420/ | 
-|  | Nantes.rb| Nantes.rb @ Jack's Corner Pub&Food | https://www.meetup.com/nantes-rb/events/308481125/ | 
+|  | Nantes@Hack| Talk 1 : Gérer ses vulnérabilités et Talk 2 : Adapter son exposition numérique| https://www.meetup.com/nantesathack/events/308623174/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
