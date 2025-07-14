@@ -62,8 +62,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-|  | Agile Nantes - Sessions mensuelles| La communauté Agile s'entre-aide!| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/308784420/ | 
-|  | Generative AI Nantes| S3E12 - Workshop Cursor - Ensorcelle ton IDE: de zéro à démo - PLACES LIMITÉES| https://www.meetup.com/generative-ai-nantes/events/308022420/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
