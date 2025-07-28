@@ -62,6 +62,14 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
+
+500 - Internal Server Error
+---------------------------
+
+Details:
+	Error id 7fc04e89-a018-48bc-ba2b-d40dc1a39deb-1
+Stack:
+	
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
