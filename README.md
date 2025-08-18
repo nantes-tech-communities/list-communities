@@ -62,6 +62,18 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
+|  | Agile Nantes - Sessions mensuelles| 🚀 L’agilité pour les curieux : initiation sans prise de tête !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238350/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Octobre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/276664104/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Novembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238085/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Décembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238135/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Février - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238149/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle d'Avril - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
+|  | Generative AI Nantes| S4E01 - Conf' CEA - Biais politiques dans les LLMs| https://www.meetup.com/generative-ai-nantes/events/310137252/ | 
+|  | Human Talks Nantes| Human Talks - Septembre 2025| https://www.meetup.com/humantalks-nantes/events/310501795/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
