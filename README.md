@@ -62,6 +62,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
+|  | AWS User Group France - Nantes| AWS Community pre:Invent Warmup| https://www.meetup.com/aws-nantes/events/310578946/ | 
 |  | Agile Nantes - Sessions mensuelles| 🚀 L’agilité pour les curieux : initiation sans prise de tête !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238350/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de Octobre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/276664104/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de Novembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238085/ | 
