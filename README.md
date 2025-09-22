@@ -62,7 +62,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-|  | AWS User Group France - Nantes| ☁️ "The Clouds Club" : 3 talks pour 3 Communautés Cloud| https://www.meetup.com/aws-nantes/events/310808817/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de Octobre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/276664104/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de Novembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238085/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de Décembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238135/ | 
@@ -72,10 +71,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
-|  | GDG Cloud Nantes| ☁️ "The Clouds Club" : 3 talks pour 3 Communautés Cloud| https://www.meetup.com/gdg-cloud-nantes/events/310808956/ | 
+|  | GDG Nantes| DevFest Nantes 2025| https://www.meetup.com/gdg-nantes/events/311149878/ | 
 |  | Generative AI Nantes| S4E01 - Conf' CEA - Biais politiques dans les LLMs| https://www.meetup.com/generative-ai-nantes/events/310137252/ | 
-|  | MTG Nantes| "The Clouds Club" : 3 talks pour 3 Communautés Cloud| https://www.meetup.com/mtg-nantes/events/310810770/ | 
-|  | Nantes Java User Group| Comprendre l'Usine Logicielle // Event Sourcing avec Kotlin & Spring| https://www.meetup.com/nantes-java-user-group/events/310831073/ | 
 |  | Nantes.rb| 🚀 C'est la rentrée pour les fans de Ruby ! 🚀| https://www.meetup.com/nantes-rb/events/310813838/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
