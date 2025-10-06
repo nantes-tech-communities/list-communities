@@ -62,6 +62,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
+|  | AWS User Group France - Nantes| AWS GameDay Francophone 2025 - Going serverless| https://www.meetup.com/aws-nantes/events/311318942/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle Octobre (le 8) : Noyé dans JIRA, à l'aide!| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/276664104/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de Novembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238085/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de Décembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238135/ | 
@@ -71,9 +72,11 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
 |  | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
-|  | FrenchProduit Nantes| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/311196823/ | 
+|  | CocoaHeads Nantes| CocoaHeads d'Automne| https://www.meetup.com/cocoaheads-nantes/events/311337369/ | 
+|  | Flutter Nantes| Meetup Flutter Nantes #19| https://www.meetup.com/flutter-nantes/events/311374990/ | 
 |  | GDG Nantes| DevFest Nantes 2025| https://www.meetup.com/gdg-nantes/events/311149878/ | 
 |  | Nantes Java User Group| Base de connaissance // Chaos engineering| https://www.meetup.com/nantes-java-user-group/events/311275374/ | 
+|  | Nantes.rb| Ruby Talk!| https://www.meetup.com/nantes-rb/events/311363649/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
