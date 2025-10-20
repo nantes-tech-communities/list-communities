@@ -62,8 +62,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 14/10/2025 | FrenchProduit Nantes| IA : Utiliser la GenAI pour la recherche de connaissance| https://www.meetup.com/frenchproduit-nantesbretagne/events/311361674/ | 
-| 16-17/10/2025 | GDG Nantes| DevFest Nantes 2025| https://www.meetup.com/gdg-nantes/events/311149878/ | 
 | 21/10/2025 | Nantes.rb| Ruby Talk!| https://www.meetup.com/nantes-rb/events/311363649/ | 
 | 22/10/2025 | CocoaHeads Nantes| CocoaHeads d'Automne| https://www.meetup.com/cocoaheads-nantes/events/311337369/ | 
 | 23/10/2025 | Flutter Nantes| Meetup Flutter Nantes #19| https://www.meetup.com/flutter-nantes/events/311374990/ | 
