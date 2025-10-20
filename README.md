@@ -62,20 +62,17 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 14/10/2025 | FrenchProduit Nantes| IA : Utiliser la GenAI pour la recherche de connaissance| https://www.meetup.com/frenchproduit-nantesbretagne/events/311361674/ | 
-| 16-17/10/2025 | GDG Nantes| DevFest Nantes 2025| https://www.meetup.com/gdg-nantes/events/311149878/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle d'Avril - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Décembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238135/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Février - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238149/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Novembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238085/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
+| 04/02/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
+| 04/02/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
 | 21/10/2025 | Nantes.rb| Ruby Talk!| https://www.meetup.com/nantes-rb/events/311363649/ | 
 | 22/10/2025 | CocoaHeads Nantes| CocoaHeads d'Automne| https://www.meetup.com/cocoaheads-nantes/events/311337369/ | 
 | 23/10/2025 | Flutter Nantes| Meetup Flutter Nantes #19| https://www.meetup.com/flutter-nantes/events/311374990/ | 
-| 05/11/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de Novembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238085/ | 
-| 03/12/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de Décembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238135/ | 
-| 04/02/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Février - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238149/ | 
-| 04/03/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
-| 01/04/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle d'Avril - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
-| 06/04/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
-| 03/06/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
-| 01/07/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
-
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
