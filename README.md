@@ -62,11 +62,11 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 20/10/2025 | IT Women Talks / Yeeso| [NANTES] IT Women Talks & Networking - 20 novembre| https://www.meetup.com/fr-FR/yeeso-itwomen-network/events/311506516/ | 
 | 21/10/2025 | Nantes.rb| Ruby Talk!| https://www.meetup.com/nantes-rb/events/311363649/ | 
 | 22/10/2025 | CocoaHeads Nantes| CocoaHeads d'Automne| https://www.meetup.com/cocoaheads-nantes/events/311337369/ | 
 | 23/10/2025 | Flutter Nantes| Meetup Flutter Nantes #19| https://www.meetup.com/flutter-nantes/events/311374990/ | 
 | 05/11/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de Novembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238085/ | 
+| 20/11/2025 | IT Women Talks / Yeeso| [NANTES] IT Women Talks & Networking - 20 novembre| https://www.meetup.com/fr-FR/yeeso-itwomen-network/events/311506516/ | 
 | 03/12/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de Décembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238135/ | 
 | 04/02/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Février - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238149/ | 
 | 04/03/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
