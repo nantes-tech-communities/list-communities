@@ -62,17 +62,18 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
-|  | FrenchProduit Nantes| Pot Afterwork FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/311662256/ | 
-| 03/12/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
+| 27/10/2025 | FrenchProduit Nantes| Pot Afterwork FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/311662256/ | 
 | 04/11/2025 | France DevOps Nantes| Améliorer les performances et réduire la consommation de la CI/CD| https://www.meetup.com/france-devops-nantes/events/311672925/ | 
-| 04/11/2025 | France DevOps Nantes| Certifications : guide du collectionneur de succès IRL| https://www.meetup.com/france-devops-nantes/events/311673562/ | 
-| 05/11/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle d'Avril - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
-| 05/11/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de Décembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238135/ | 
-| 05/11/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de Février - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238149/ | 
 | 05/11/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de Novembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238085/ | 
-| 05/11/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
-| 05/11/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
+| 18/11/2025 | France DevOps Nantes| Certifications : guide du collectionneur de succès IRL| https://www.meetup.com/france-devops-nantes/events/311673562/ | 
+| 20/11/2025 | IT Women Talks / Yeeso| [NANTES] IT Women Talks & Networking - 20 novembre| https://www.meetup.com/fr-FR/yeeso-itwomen-network/events/311506516/ | 
+| 03/12/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de Décembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238135/ | 
+| 04/02/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Février - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238149/ | 
+| 04/03/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
+| 01/04/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle d'Avril - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
+| 06/05/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
+| 03/06/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
+| 01/07/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
