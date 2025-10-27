@@ -1,4 +1,4 @@
-# 🌍 Liste des communautés tech Nantaises
+# 🌍 Liste des communautés tech nantaises
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-28-orange.svg?style=flat-square)](#contributors)
@@ -6,10 +6,10 @@
 
 <div class="logo"><img src="./docs/logo-commu.png"  width="600"/></div>
 
-Ce projet permet de lister les communautés bénévoles nantaises et d'offrir des points de contacts aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
-Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Slack, ouvrez une issue sur le repo pour obtenir une invitation.
+Ce projet permet de lister les communautés bénévoles nantaises et d'offrir des points de contact aux personnes intéressées pour venir assister à des évènements, ou aux entreprises qui souhaiteraient recevoir l'une de ces communautés.
+Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Slack. Ouvrez une issue sur le repo pour obtenir une invitation.
 
-## 🐘 Les communautés Nantaises
+## 🐘 Les communautés nantaises
 
 - [AgileNantes](./agilenantes/)
 - [AWS User Group Nantes](./aws-nantes/)
@@ -19,12 +19,12 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Design Systems Nantes](./design-systems-nantes/)
 - [Flupa Nantes](./flupa/)
 - [Flutter Nantes](./flutter-nantes/)
+- [French Produit Nantes-Bretagne](./french-produit/)
 - [Human Talks Nantes](./human-talks/)
 - [GDG Nantes](./gdg-nantes/)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/)
 - [GDG Nantes Android](./gdg-nantes-android/)
 - [Generative AI Nantes](./generative-ai-nantes/)
-- [French Produit Nantes-Bretagne](./french-produit/)
 - [MTG Nantes](./mtg-nantes/)
 - [Nantes DevOps](./nantes-devops/)
 - [Nantes JS](./nantesjs/)
@@ -40,20 +40,20 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Yeeso Nantes](./yeeso-nantes)
 
 
-## 🐘 Les communautés Nantaises à la recherche d'organisateur·rice
+## 🐘 Les communautés nantaises à la recherche d'organisateur·rice
 - [CNCF Nantes](./cncf-nantes/)
 
 
-## 📅 Les événements Nantais
+## 📅 Les évènements nantais
 
+- [AgileTour](./agiletour/)
 - [DevFest Nantes](./devfest-nantes/)
-- [Web2Day](https://web2day.co/)
+- [Hackathons Shift](https://shift-hackathon.com/)
+- [Mobilis In Mobile](https://mobilis-in-mobile.io/)
 - [Nantes Digital Week](https://www.nantesdigitalweek.com/) (avec le [Salon de la Data](https://salondata.fr/))
 - [Nantes Maker Campus](https://nantesmakercampus.fr/)
-- [Mobilis In Mobile](https://mobilis-in-mobile.io/)
-- [AgileTour](./agiletour/)
-- [Hackathons Shift](https://shift-hackathon.com/)
 - [Tech Ready](https://techready.live/)
+- [Web2Day](https://web2day.co/)
 
 
 ## 📅 Les évènements à venir
@@ -85,11 +85,11 @@ Afin de partager rapidement ces informations, voici un QR code menant au site d�
 
 ## 💫 Contribution
 
-Toute contribution est la bienvenue. Vous organisez un meetup qui n'apparait pas dans la liste, n'hésitez pas à créer une issue 😃.
+Toute contribution est la bienvenue. Vous organisez un meetup qui n'apparait pas dans la liste ? N'hésitez pas à créer une issue 😃.
 
 Un template de fiche de communauté est disponible [👉 ici](./template/template.md).
 
-Merci à tous les contributeurs 🙏
+Merci à tous les contributeur·rices 🙏
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
