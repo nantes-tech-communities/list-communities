@@ -28,6 +28,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes DevOps](./nantes-devops/)
 - [Nantes JS](./nantesjs/)
 - [Nantes JUG](./nantesjug/)
+- [Nantes Machine Learning Meetup](./nantes-machine-learning-meetup/)
 - [Nantes Numérique Responsable](./nnr/)
 - [Nantes Python](./nantes-python/)
 - [Nantes.rb](./nantes-rb/)
