@@ -61,7 +61,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 27/10/2025 | FrenchProduit Nantes| Pot Afterwork FrenchProduit| https://www.meetup.com/frenchproduit-nantesbretagne/events/311662256/ | 
 | 04/11/2025 | France DevOps Nantes| Améliorer les performances et réduire la consommation de la CI/CD| https://www.meetup.com/france-devops-nantes/events/311672925/ | 
 | 05/11/2025 | Agile Nantes - Sessions mensuelles| Session mensuelle de Novembre - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238085/ | 
 | 18/11/2025 | France DevOps Nantes| Certifications : guide du collectionneur de succès IRL| https://www.meetup.com/france-devops-nantes/events/311673562/ | 
