@@ -19,7 +19,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Flupa Nantes](./flupa/)
 - [Flutter Nantes](./flutter-nantes/)
 - [French Produit Nantes-Bretagne](./french-produit/)
-- [Human Talks Nantes](./human-talks/)
 - [GDG Nantes](./gdg-nantes/)
 - [GDG Cloud Nantes](./gdg-cloud-nantes/)
 - [GDG Nantes Android](./gdg-nantes-android/)
@@ -40,6 +39,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 
 ## 🐘 Les communautés nantaises à la recherche d'organisateur·rice
+- [Human Talks Nantes](./human-talks/)
 - [CNCF Nantes](./cncf-nantes/)
 
 
