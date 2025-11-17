@@ -2,6 +2,7 @@
 
 |                                |     |
 | ------------------------------ | --- |
-| ✉️ Qui contacter ?             | Julien Furiga, Pereg Hergoualc'h, Julien Landuré    |
+| ✉️ Qui contacter ?             | Julien Landuré, Dimitri Guedin    |
 | 🌍 Le site web                 | https://www.linkedin.com/company/aws-user-group-nantes    |
 | 🗣 Le CFP                      | https://conference-hall.io/aws-nantes-meetup    |
+| 📣 Le Linkedin                 | https://www.linkedin.com/company/aws-user-group-nantes/   |
