@@ -60,9 +60,9 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 
 <!-- ALL-EVENTS:START - Do not remove or modify this section -->
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
-|            |   |   |   |   |
-|------------|---|---|---|---|
-| 09/12/2025 | MTG Nantes| VS Code Dev Days @Nantes| https://www.meetup.com/mtg-nantes/events/311973560/ |
+|   |   |   |   |   |
+|---|---|---|---|---|
+| 09/12/2025 | MTG Nantes| VS Code Dev Days @Nantes| https://www.meetup.com/mtg-nantes/events/311973560/ | 
 | 10/02/2025 | Generative AI Nantes| S4E03 - Conf' Guest Suite - Comment ils ont économisé 40K€/an en moins de 6h| https://www.meetup.com/generative-ai-nantes/events/312155482/ | 
 | 10/12/2025 | CocoaHeads Nantes| CocoaHeads de Noel| https://www.meetup.com/cocoaheads-nantes/events/312063019/ | 
 | 11/12/2025 | AWS User Group France - Nantes| Soirée Lambda, Spring & Cursor AI| https://www.meetup.com/aws-nantes/events/311871294/ | 
