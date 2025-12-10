@@ -23,6 +23,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [GDG Cloud Nantes](./gdg-cloud-nantes/)
 - [GDG Nantes Android](./gdg-nantes-android/)
 - [Generative AI Nantes](./generative-ai-nantes/)
+- [Golang Nantes](./golang-nantes)
 - [MTG Nantes](./mtg-nantes/)
 - [Nantes DevOps](./nantes-devops/)
 - [Nantes JS](./nantesjs/)
@@ -68,7 +69,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 11/12/2025 | Nantes Java User Group| Soirée Lambda, Spring & Cursor AI| https://www.meetup.com/nantes-java-user-group/events/312194031/ | 
 | 11/12/2025 | FrenchProduit Nantes| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/312265658/ | 
 | 11/12/2025 | Flutter Nantes| Meetup Flutter Nantes #20| https://www.meetup.com/flutter-nantes/events/311961991/ | 
-| 16/12/2025 | Nantes.rb| Ruby au Bar'île| https://www.meetup.com/nantes-rb/events/312279657/ | 
+| 16/12/2025 | Nantes.rb| Ruby au Bar'île| https://www.meetup.com/nantes-rb/events/312279657/ |
+| 14/01/2026 | Golang Nantes| Lightning Talks: Content-Defined Chunking, Lazy Loading, etc.| https://www.meetup.com/golang-nantes/events/312364891/ |
 | 04/02/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Février - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238149/ | 
 | 11/02/2026 | Nantes Machine Learning Meetup| Decision Focus Learning : Join ML and OR for better renewable energy integration| https://www.meetup.com/nantes-machine-learning-meetup/events/311776390/ | 
 | 04/03/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
