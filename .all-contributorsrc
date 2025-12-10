@@ -276,6 +276,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "jeremy-serenne",
+      "name": "Jérémy Serenne",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51053141?v=4",
+      "profile": "https://github.com/jeremy-serenne",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
