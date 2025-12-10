@@ -1,7 +1,7 @@
 # 🌍 Liste des communautés tech nantaises
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-29-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-30-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div class="logo"><img src="./docs/logo-commu.png"  width="600"/></div>
@@ -137,6 +137,7 @@ Merci à tous les contributeur·rices 🙏
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zenigata"><img src="https://avatars.githubusercontent.com/u/1022393?v=4" width="100px;" alt=""/><br /><sub><b>Johan Bonneau</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jeremy-serenne"><img src="https://avatars.githubusercontent.com/u/51053141?v=4" width="100px;" alt=""/><br /><sub><b>Jérémy Serenne</b></sub></a></td>
     </tr>
   </tbody>
 </table>
