@@ -64,6 +64,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 |---|---|---|---|---|
 | 14/01/2026 | Golang Nantes| Lightning Talks: Content-Defined Chunking, Lazy Loading, etc.| https://www.meetup.com/golang-nantes/events/312364891/ | 
 | 25/01/2026 | Generative AI Nantes| S4E04 - Conf' Globetrotters.ai - Comment créer une équipe d’agents IA en 2026| https://www.meetup.com/generative-ai-nantes/events/312473046/ | 
+| 22/01/2026 | FrenchProduit Nantes| IA Talk - Vibe Coding : Construire une app complète sans être dev| https://www.meetup.com/frenchproduit-nantesbretagne/events/312733122/ | 
+| 27/01/2026 | Nantes.rb| Ruby Talk!| https://www.meetup.com/nantes-rb/events/312784976/ | 
 | 03/02/2026 | AWS User Group France - Nantes| AWS re:Invent re:Caps| https://www.meetup.com/aws-nantes/events/312404802/ | 
 | 04/02/2026 | Agile Nantes - Sessions mensuelles| Rex discovery Produit pour le Secours Populaire Français| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238149/ | 
 | 05/02/2026 | Flutter Nantes| Meetup Flutter Nantes #21| https://www.meetup.com/flutter-nantes/events/312433417/ | 
