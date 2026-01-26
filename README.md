@@ -62,19 +62,23 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 14/01/2026 | Golang Nantes| Lightning Talks: Content-Defined Chunking, Lazy Loading, etc.| https://www.meetup.com/golang-nantes/events/312364891/ | 
-| 25/01/2026 | Generative AI Nantes| S4E04 - Conf' Globetrotters.ai - Comment créer une équipe d’agents IA en 2026| https://www.meetup.com/generative-ai-nantes/events/312473046/ | 
-| 22/01/2026 | FrenchProduit Nantes| IA Talk - Vibe Coding : Construire une app complète sans être dev| https://www.meetup.com/frenchproduit-nantesbretagne/events/312733122/ | 
-| 27/01/2026 | Nantes.rb| Ruby Talk!| https://www.meetup.com/nantes-rb/events/312784976/ | 
-| 03/02/2026 | AWS User Group France - Nantes| AWS re:Invent re:Caps| https://www.meetup.com/aws-nantes/events/312404802/ | 
-| 04/02/2026 | Agile Nantes - Sessions mensuelles| Rex discovery Produit pour le Secours Populaire Français| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238149/ | 
-| 05/02/2026 | Flutter Nantes| Meetup Flutter Nantes #21| https://www.meetup.com/flutter-nantes/events/312433417/ | 
-| 11/02/2026 | Nantes Machine Learning Meetup| Decision Focus Learning : Join ML and OR for better renewable energy integration| https://www.meetup.com/nantes-machine-learning-meetup/events/311776390/ | 
-| 04/03/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
-| 01/04/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle d'Avril - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
-| 06/05/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
-| 03/06/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
-| 01/07/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ |
+|  | AWS User Group France - Nantes| AWS re:Invent re:Caps| https://www.meetup.com/aws-nantes/events/312404802/ | 
+|  | Agile Nantes - Sessions mensuelles| Rex discovery Produit pour le Secours Populaire Français| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238149/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle d'Avril - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
+|  | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
+|  | Flutter Nantes| Meetup Flutter Nantes #21| https://www.meetup.com/flutter-nantes/events/312433417/ | 
+|  | France DevOps Nantes| Dans le grand bain du Cloud : migrer 150 GED vers Azure sans (trop) se noyer| https://www.meetup.com/france-devops-nantes/events/312986203/ | 
+|  | FrenchProduit Nantes| Devenir Lead PM : les 5 erreurs à éviter !| https://www.meetup.com/frenchproduit-nantesbretagne/events/312971241/ | 
+|  | Generative AI Nantes| S4E05 - Comment Google Antigravity Transforme le vibe-coding| https://www.meetup.com/generative-ai-nantes/events/312956856/ | 
+|  | Generative AI Nantes| Shift, Le Hackathon Gen AI 2026| https://www.meetup.com/generative-ai-nantes/events/313005814/ | 
+|  | Generative AI Nantes| Workshop: “L’IA générative appliquée aux RH”| https://www.meetup.com/generative-ai-nantes/events/312957483/ | 
+|  | Nantes Java User Group| Sécuriser la CI // Pseudonymisation à l'échelle| https://www.meetup.com/nantes-java-user-group/events/312865339/ | 
+|  | Nantes Machine Learning Meetup| Decision Focus Learning : Join ML and OR for better renewable energy integration| https://www.meetup.com/nantes-machine-learning-meetup/events/311776390/ | 
+|  | Nantes Machine Learning Meetup| Modeling the Earth in 3D? Not yet. But we've already covered Paris| https://www.meetup.com/nantes-machine-learning-meetup/events/311899915/ | 
+|  | Nantes.rb| Ruby Talk!| https://www.meetup.com/nantes-rb/events/312784976/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
