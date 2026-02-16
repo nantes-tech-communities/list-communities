@@ -62,17 +62,12 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 10/02/2026 | FrenchProduit Nantes| Devenir Lead PM : les 5 erreurs à éviter !| https://www.meetup.com/frenchproduit-nantesbretagne/events/312971241/ | 
-| 10/02/2026 | France DevOps Nantes| L’approche Diagram as Code au service du GreenOps| https://www.meetup.com/france-devops-nantes/events/313188860/ | 
-| 10/02/2026 | Nantes Java User Group| Un mot de passe ? Non merci // Devenez un expert du debug en JS| https://www.meetup.com/nantes-java-user-group/events/313064896/ | 
-| 11/02/2026 | Generative AI Nantes| S4E05 - Comment Google Antigravity Transforme le vibe-coding| https://www.meetup.com/generative-ai-nantes/events/312956856/ | 
-| 11/02/2026 | GDG Cloud Nantes| Comment Google Antigravity Transforme le vibe-coding| https://www.meetup.com/gdg-cloud-nantes/events/313092668/ | 
-| 11/02/2026 | Nantes Machine Learning Meetup| Decision Focus Learning : Join ML and OR for better renewable energy integration| https://www.meetup.com/nantes-machine-learning-meetup/events/311776390/ | 
 | 20/02/2026 | FrenchProduit Nantes| Déjeuner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/313109269/ | 
 | 26/02/2026 | Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/313202692/ | 
 | 04/03/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
 | 04/03/2026 | Nantes Machine Learning Meetup| Modeling the Earth in 3D? Not yet. But we've already covered Paris| https://www.meetup.com/nantes-machine-learning-meetup/events/311899915/ | 
 | 04/03/2026 | Generative AI Nantes| **SOLD OUT** Workshop: “L’IA générative appliquée aux RH”| https://www.meetup.com/generative-ai-nantes/events/312957483/ | 
+| 12/03/2026 | Generative AI Nantes| Before Shift: l'art du détournement, avec Gaël Musquet| https://www.meetup.com/generative-ai-nantes/events/313309314/ | 
 | 27/03/2026 | Generative AI Nantes| Shift, Le Hackathon Gen AI 2026| https://www.meetup.com/generative-ai-nantes/events/313005814/ | 
 | 01/04/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle d'Avril - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
 | 06/05/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
