@@ -62,9 +62,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 26/02/2026 | Nantes.rb| Ruby Talk| https://www.meetup.com/nantes-rb/events/313202692/ | 
 | 03/03/2026 | France DevOps Nantes|  Au-delà du coeur vert : Optimiser vos déploiements K8S avec ArgoCD| https://www.meetup.com/france-devops-nantes/events/313445537/ | 
-| 04/03/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de Mars - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
+| 04/03/2026 | Agile Nantes - Sessions mensuelles| Triangle cherche carré : déconstruire 3 biais inconscients| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238168/ | 
 | 04/03/2026 | Nantes Machine Learning Meetup| Modeling the Earth in 3D? Not yet. But we've already covered Paris| https://www.meetup.com/nantes-machine-learning-meetup/events/311899915/ | 
 | 04/03/2026 | Generative AI Nantes| **SOLD OUT** Workshop: “L’IA générative appliquée aux RH”| https://www.meetup.com/generative-ai-nantes/events/312957483/ | 
 | 04/03/2026 | CocoaHeads Nantes| CocoaHeads de mars chez iAdvize| https://www.meetup.com/cocoaheads-nantes/events/313397253/ | 
