@@ -285,6 +285,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Johbrun",
+      "name": "Johan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/31695713?v=4",
+      "profile": "https://github.com/Johbrun",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
