@@ -32,17 +32,17 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes Numérique Responsable](./nnr/)
 - [Nantes Python](./nantes-python/)
 - [Nantes.rb](./nantes-rb/)
+- [Nantes@Hack](./nantes@hack)
 - [Naoned Computer Club](./naoned-computer-club/)
 - [Nocode Nantes](./nocode-nantes/)
 - [React Nantes](./react-nantes/)
 - [Software Crafters Nantes](./software-crafters/)
 - [Yeeso Nantes](./yeeso-nantes)
 
-
 ## 🐘 Les communautés nantaises à la recherche d'organisateur·rice
+
 - [Human Talks Nantes](./human-talks/)
 - [CNCF Nantes](./cncf-nantes/)
-
 
 ## 📅 Les évènements nantais
 
@@ -55,25 +55,24 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Tech Ready](https://techready.live/)
 - [Web2Day](https://web2day.co/)
 
-
 ## 📅 Les évènements à venir
 
 <!-- ALL-EVENTS:START - Do not remove or modify this section -->
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 12/03/2026 | Generative AI Nantes| Before Shift: l'art du détournement, avec Gaël Musquet| https://www.meetup.com/generative-ai-nantes/events/313309314/ | 
-| 17/03/2026 | France DevOps Nantes| Karpenter * Keda : Le duo gagnant du FinOps| https://www.meetup.com/france-devops-nantes/events/313618097/ | 
-| 17/03/2026 | Nantes Java User Group| La transactionalité expliquée // JooQ une alternative à JPA| https://www.meetup.com/nantes-java-user-group/events/313630199/ | 
-| 19/03/2026 | FrenchProduit Nantes| MyPractice : le serious game qui challenge votre approche Product & Design| https://www.meetup.com/frenchproduit-nantesbretagne/events/313409616/ | 
-| 19/03/2026 | GDG Nantes| International Women's Day Nantes 2026| https://www.meetup.com/gdg-nantes/events/313410227/ | 
-| 24/03/2026 | Nantes.rb| Ruby au Gigg's Irish Pub!| https://www.meetup.com/nantes-rb/events/313647438/ | 
-| 27/03/2026 | Generative AI Nantes| Shift, Le Hackathon Gen AI 2026| https://www.meetup.com/generative-ai-nantes/events/313005814/ | 
-| 01/04/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle d'Avril - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ |
-| 03/04/2026 | FrenchProduit Nantes| Dîner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/313664389/ | 
-| 06/05/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ |  
-| 03/06/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
-| 01/07/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
+| 12/03/2026 | Generative AI Nantes| Before Shift: l'art du détournement, avec Gaël Musquet| <https://www.meetup.com/generative-ai-nantes/events/313309314/> |
+| 17/03/2026 | France DevOps Nantes| Karpenter * Keda : Le duo gagnant du FinOps| <https://www.meetup.com/france-devops-nantes/events/313618097/> |
+| 17/03/2026 | Nantes Java User Group| La transactionalité expliquée // JooQ une alternative à JPA| <https://www.meetup.com/nantes-java-user-group/events/313630199/> |
+| 19/03/2026 | FrenchProduit Nantes| MyPractice : le serious game qui challenge votre approche Product & Design| <https://www.meetup.com/frenchproduit-nantesbretagne/events/313409616/> |
+| 19/03/2026 | GDG Nantes| International Women's Day Nantes 2026| <https://www.meetup.com/gdg-nantes/events/313410227/> |
+| 24/03/2026 | Nantes.rb| Ruby au Gigg's Irish Pub!| <https://www.meetup.com/nantes-rb/events/313647438/> |
+| 27/03/2026 | Generative AI Nantes| Shift, Le Hackathon Gen AI 2026| <https://www.meetup.com/generative-ai-nantes/events/313005814/> |
+| 01/04/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle d'Avril - Programme à venir| <https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/> |
+| 03/04/2026 | FrenchProduit Nantes| Dîner FrenchProduit !| <https://www.meetup.com/frenchproduit-nantesbretagne/events/313664389/> |
+| 06/05/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de mai - Programme à venir| <https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/> |  
+| 03/06/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juin - Programme à venir| <https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/> |
+| 01/07/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| <https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/> |
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
