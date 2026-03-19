@@ -25,6 +25,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [GDG Nantes Android](./gdg-nantes-android/)
 - [Generative AI Nantes](./generative-ai-nantes/)
 - [Golang Nantes](./golang-nantes)
+- [Lambda Nantes](./lambda-nantes/)
 - [MTG Nantes](./mtg-nantes/)
 - [Nantes DevOps](./nantes-devops/)
 - [Nantes JS](./nantesjs/)
