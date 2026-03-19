@@ -24,7 +24,8 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [GDG Cloud Nantes](./gdg-cloud-nantes/)
 - [GDG Nantes Android](./gdg-nantes-android/)
 - [Generative AI Nantes](./generative-ai-nantes/)
-- [Golang Nantes](./golang-nantes)
+- [Golang Nantes](./golang-nantes/)
+- [Lambda Nantes](./lambda-nantes/)
 - [MTG Nantes](./mtg-nantes/)
 - [Nantes DevOps](./nantes-devops/)
 - [Nantes JS](./nantesjs/)
@@ -33,12 +34,12 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes Numérique Responsable](./nnr/)
 - [Nantes Python](./nantes-python/)
 - [Nantes.rb](./nantes-rb/)
-- [Nantes@Hack](./nantes@hack)
+- [Nantes@Hack](./nantes@hack/)
 - [Naoned Computer Club](./naoned-computer-club/)
 - [Nocode Nantes](./nocode-nantes/)
 - [React Nantes](./react-nantes/)
 - [Software Crafters Nantes](./software-crafters/)
-- [Yeeso Nantes](./yeeso-nantes)
+- [Yeeso Nantes](./yeeso-nantes/)
 
 ## 🐘 Les communautés nantaises à la recherche d'organisateur·rice
 
