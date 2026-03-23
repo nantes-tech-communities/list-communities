@@ -63,18 +63,17 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 17/03/2026 | France DevOps Nantes| Karpenter * Keda : Le duo gagnant du FinOps| https://www.meetup.com/france-devops-nantes/events/313618097/ | 
-| 17/03/2026 | Nantes Java User Group| La transactionalité expliquée // JooQ une alternative à JPA| https://www.meetup.com/nantes-java-user-group/events/313630199/ | 
-| 19/03/2026 | FrenchProduit Nantes| MyPractice : le serious game qui challenge votre approche Product & Design| https://www.meetup.com/frenchproduit-nantesbretagne/events/313409616/ | 
-| 19/03/2026 | GDG Nantes| International Women's Day Nantes 2026| https://www.meetup.com/gdg-nantes/events/313410227/ | 
 | 24/03/2026 | Antenne AFUP Nantes : PHP| Meetup PHP de mars| https://www.meetup.com/afup-nantes-php/events/313756519/ | 
 | 24/03/2026 | Nantes.rb| Ruby au Gigg's Irish Pub!| https://www.meetup.com/nantes-rb/events/313647438/ | 
 | 27/03/2026 | Generative AI Nantes| Shift, Le Hackathon Gen AI 2026| https://www.meetup.com/generative-ai-nantes/events/313005814/ | 
+| 31/03/2026 | France DevOps Nantes| Une image vaut mille mots ? Zoom sur l'approche "Diagram as Code”| https://www.meetup.com/france-devops-nantes/events/313849037/ | 
 | 01/04/2026 | Agile Nantes - Sessions mensuelles| Et si la collaboration devenait radicale ?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
 | 03/04/2026 | FrenchProduit Nantes| Dîner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/313664389/ | 
-| 03/06/2026 | Agile Nantes - Sessions mensuelles| Le Lean : la performance centrée sur le sens, la valeur et l’humain| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
-| 01/07/2026 | Agile Nantes - Sessions mensuelles| Session mensuelle de juillet - Programme à venir| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
+| 18/04/2026 | AWS User Group France - Nantes| ⚡ AI For Business Hackathon| https://www.meetup.com/aws-nantes/events/313835131/ | 
+| 22/04/2026 | Generative AI Nantes| S4E08 - L'IA agentique pour le service client| https://www.meetup.com/generative-ai-nantes/events/313837377/ | 
 | 06/05/2026 | Agile Nantes - Sessions mensuelles| Au secours, je suis un imposteur !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
+| 03/06/2026 | Agile Nantes - Sessions mensuelles| Le Lean : la performance centrée sur le sens, la valeur et l’humain| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
+| 01/07/2026 | Agile Nantes - Sessions mensuelles| Et si on coachait une IA pour des spécifications pertinentes ? | https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
