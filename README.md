@@ -63,19 +63,19 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-|  | Nantes Machine Learning Meetup| Ce que l’IA fait au travail. Penser l’automatisation à partir des pratiques| https://www.meetup.com/nantes-machine-learning-meetup/events/313959473/ | 
-|  | Nantes Machine Learning Meetup| Physical AI: End-to-End Learning for Industrial Manipulation| https://www.meetup.com/nantes-machine-learning-meetup/events/313959263/ | 
+| 31/03/2026 | France DevOps Nantes| Une image vaut mille mots ? Zoom sur l'approche "Diagram as Code”| https://www.meetup.com/france-devops-nantes/events/313849037/ | 
+| 31/03/2026 | FrenchProduit Nantes| Atelier découverte : Décider et agir avec LEGO® Serious Play®| https://www.meetup.com/frenchproduit-nantesbretagne/events/314022660/ | 
 | 01/04/2026 | Agile Nantes - Sessions mensuelles| Et si la collaboration devenait radicale ?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
-| 01/07/2026 | Agile Nantes - Sessions mensuelles| Et si on coachait une IA pour des spécifications pertinentes ? | https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
-| 03/04/2026 | FrenchProduit Nantes| Dîner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/313664389/ | 
-| 03/06/2026 | Agile Nantes - Sessions mensuelles| Au secours, je suis un imposteur !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
-| 03/06/2026 | Agile Nantes - Sessions mensuelles| Le Lean : la performance centrée sur le sens, la valeur et l’humain| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
-| 05/06/2026 | GDG Cloud Nantes| TechReady 2026| https://www.meetup.com/gdg-cloud-nantes/events/313907142/ | 
+| 03/04/2026 | FrenchProduit Nantes| Dîner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/313664389/ |
 | 09/04/2026 | CocoaHeads Nantes| CocoaHeads d'Avril| https://www.meetup.com/cocoaheads-nantes/events/313926201/ | 
 | 18/04/2026 | AWS User Group France - Nantes| ⚡ AI For Business Hackathon| https://www.meetup.com/aws-nantes/events/313835131/ | 
 | 22/04/2026 | Generative AI Nantes| S4E08 - L'IA agentique pour le service client| https://www.meetup.com/generative-ai-nantes/events/313837377/ | 
-| 31/03/2026 | France DevOps Nantes| Une image vaut mille mots ? Zoom sur l'approche "Diagram as Code”| https://www.meetup.com/france-devops-nantes/events/313849037/ | 
-| 31/03/2026 | FrenchProduit Nantes| Atelier découverte : Décider et agir avec LEGO® Serious Play®| https://www.meetup.com/frenchproduit-nantesbretagne/events/314022660/ | 
+| 06/05/2026 | Agile Nantes - Sessions mensuelles| Au secours, je suis un imposteur !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
+| 20/05/2026 | Nantes Machine Learning Meetup| Physical AI: End-to-End Learning for Industrial Manipulation| https://www.meetup.com/nantes-machine-learning-meetup/events/313959263/ | 
+| 03/06/2026 | Agile Nantes - Sessions mensuelles| Le Lean : la performance centrée sur le sens, la valeur et l’humain| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
+| 05/06/2026 | GDG Cloud Nantes| TechReady 2026| https://www.meetup.com/gdg-cloud-nantes/events/313907142/ | 
+| 08/06/2026 | Nantes Machine Learning Meetup| Ce que l’IA fait au travail. Penser l’automatisation à partir des pratiques| https://www.meetup.com/nantes-machine-learning-meetup/events/313959473/ | 
+| 01/07/2026 | Agile Nantes - Sessions mensuelles| Et si on coachait une IA pour des spécifications pertinentes ? | https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
