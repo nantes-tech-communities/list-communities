@@ -63,11 +63,9 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 31/03/2026 | France DevOps Nantes| Une image vaut mille mots ? Zoom sur l'approche "Diagram as Code”| https://www.meetup.com/france-devops-nantes/events/313849037/ | 
-| 31/03/2026 | FrenchProduit Nantes| Atelier découverte : Décider et agir avec LEGO® Serious Play®| https://www.meetup.com/frenchproduit-nantesbretagne/events/314022660/ | 
-| 01/04/2026 | Agile Nantes - Sessions mensuelles| Et si la collaboration devenait radicale ?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238188/ | 
-| 03/04/2026 | FrenchProduit Nantes| Dîner FrenchProduit !| https://www.meetup.com/frenchproduit-nantesbretagne/events/313664389/ |
+| 07/04/2026 | France DevOps Nantes| Une image vaut mille mots ? Zoom sur l'approche "Diagram as Code”| https://www.meetup.com/france-devops-nantes/events/313849037/ | 
 | 09/04/2026 | CocoaHeads Nantes| CocoaHeads d'Avril| https://www.meetup.com/cocoaheads-nantes/events/313926201/ | 
+| 14/04/2026 | FrenchProduit Nantes| Atelier découverte : Décider et agir avec LEGO® Serious Play®| https://www.meetup.com/frenchproduit-nantesbretagne/events/314022660/ | 
 | 18/04/2026 | AWS User Group France - Nantes| ⚡ AI For Business Hackathon| https://www.meetup.com/aws-nantes/events/313835131/ | 
 | 22/04/2026 | Generative AI Nantes| S4E08 - L'IA agentique pour le service client| https://www.meetup.com/generative-ai-nantes/events/313837377/ | 
 | 06/05/2026 | Agile Nantes - Sessions mensuelles| Au secours, je suis un imposteur !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
