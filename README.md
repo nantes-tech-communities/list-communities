@@ -63,17 +63,20 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 07/04/2026 | France DevOps Nantes| Une image vaut mille mots ? Zoom sur l'approche "Diagram as Code”| https://www.meetup.com/france-devops-nantes/events/313849037/ | 
-| 09/04/2026 | CocoaHeads Nantes| CocoaHeads d'Avril| https://www.meetup.com/cocoaheads-nantes/events/313926201/ | 
-| 14/04/2026 | FrenchProduit Nantes| Atelier découverte : Décider et agir avec LEGO® Serious Play®| https://www.meetup.com/frenchproduit-nantesbretagne/events/314022660/ | 
-| 18/04/2026 | AWS User Group France - Nantes| ⚡ AI For Business Hackathon| https://www.meetup.com/aws-nantes/events/313835131/ | 
-| 22/04/2026 | Generative AI Nantes| S4E08 - L'IA agentique pour le service client| https://www.meetup.com/generative-ai-nantes/events/313837377/ | 
-| 06/05/2026 | Agile Nantes - Sessions mensuelles| Au secours, je suis un imposteur !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
-| 20/05/2026 | Nantes Machine Learning Meetup| Physical AI: End-to-End Learning for Industrial Manipulation| https://www.meetup.com/nantes-machine-learning-meetup/events/313959263/ | 
+|  | MTG Nantes| [Nuit des communautés] Déploiement de MS Fabric : Pièges et bonnes pratiques| https://www.meetup.com/mtg-nantes/events/314217996/ | 
+|  | Nantes Java User Group| Soirée Git & Développement décentralisé| https://www.meetup.com/nantes-java-user-group/events/314176315/ | 
+| 01/07/2026 | Agile Nantes - Sessions mensuelles| Et si on coachait une IA pour des spécifications pertinentes ? | https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
 | 03/06/2026 | Agile Nantes - Sessions mensuelles| Le Lean : la performance centrée sur le sens, la valeur et l’humain| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
 | 05/06/2026 | GDG Cloud Nantes| TechReady 2026| https://www.meetup.com/gdg-cloud-nantes/events/313907142/ | 
+| 06/05/2026 | Agile Nantes - Sessions mensuelles| Au secours, je suis un imposteur !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
 | 08/06/2026 | Nantes Machine Learning Meetup| Ce que l’IA fait au travail. Penser l’automatisation à partir des pratiques| https://www.meetup.com/nantes-machine-learning-meetup/events/313959473/ | 
-| 01/07/2026 | Agile Nantes - Sessions mensuelles| Et si on coachait une IA pour des spécifications pertinentes ? | https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
+| 14/04/2026 | FrenchProduit Nantes| Atelier découverte : Décider et agir avec LEGO® Serious Play®| https://www.meetup.com/frenchproduit-nantes/events/314022660/ | 
+| 18/04/2026 | AWS User Group France - Nantes| ⚡ AI For Business Hackathon| https://www.meetup.com/aws-nantes/events/313835131/ | 
+| 20/05/2026 | Nantes Machine Learning Meetup| Physical AI: End-to-End Learning for Industrial Manipulation| https://www.meetup.com/nantes-machine-learning-meetup/events/313959263/ | 
+| 21/04/2026 | France DevOps Nantes| BID : Les Crimes de l'Inculture DevOps| https://www.meetup.com/france-devops-nantes/events/314211027/ | 
+| 22/04/2026 | Generative AI Nantes| S4E08 - L'IA agentique pour le service client| https://www.meetup.com/generative-ai-nantes/events/313837377/ | 
+| 28/04/2026 | Golang Nantes| Lightning Talks: Agent skills, SIMD Go 1.26, etc.| https://www.meetup.com/golang-nantes/events/314176749/ | 
+| 30/04/2026 | Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/314193140/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
