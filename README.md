@@ -63,22 +63,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2026-04-28 | Antenne AFUP Nantes : PHP| Meetup PHP d'Avril| https://www.meetup.com/afup-nantes-php/events/314283774/ | 
-| 2026-04-28 | FrenchProduit Nantes| Déjeuner| https://www.meetup.com/frenchproduit-nantes/events/314382323/ | 
-| 2026-04-28 | Golang Nantes| Lightning Talks: Agent skills, SIMD Go 1.26, etc.| https://www.meetup.com/golang-nantes/events/314176749/ | 
-| 2026-04-29 | Nantes Java User Group| Soirée Git & Développement décentralisé| https://www.meetup.com/nantes-java-user-group/events/314176315/ | 
-| 2026-04-30 | Nantes.rb| Ruby talk| https://www.meetup.com/nantes-rb/events/314193140/ | 
-| 2026-05-05 | GDG Cloud Nantes| Récap "Cloud Next" 2026| https://www.meetup.com/gdg-cloud-nantes/events/314390404/ | 
-| 2026-05-05 | Nantes Java User Group| La transactionnalité expliquée // Docker - Compose & Dragon| https://www.meetup.com/nantes-java-user-group/events/314379188/ | 
-| 2026-05-06 | Agile Nantes - Sessions mensuelles| Au secours, je suis un imposteur !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238212/ | 
-| 2026-05-06 | Generative AI Nantes| S4E09 - GenAI : la nouvelle surface d'attaque| https://www.meetup.com/generative-ai-nantes/events/314493721/ | 
-| 2026-05-12 | GDG Nantes| Speechless Live : match d'impro by GDG Nantes| https://www.meetup.com/gdg-nantes/events/314389850/ | 
-| 2026-05-20 | Nantes Machine Learning Meetup| Physical AI: End-to-End Learning for Industrial Manipulation| https://www.meetup.com/nantes-machine-learning-meetup/events/313959263/ | 
-| 2026-05-28 | MTG Nantes| [Nuit des communautés] Déploiement de MS Fabric : Pièges et bonnes pratiques| https://www.meetup.com/mtg-nantes/events/314217996/ | 
-| 2026-06-03 | Agile Nantes - Sessions mensuelles| Le Lean : la performance centrée sur le sens, la valeur et l’humain| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
-| 2026-06-05 | GDG Cloud Nantes| TechReady 2026| https://www.meetup.com/gdg-cloud-nantes/events/313907142/ | 
-| 2026-06-08 | Nantes Machine Learning Meetup| Ce que l’IA fait au travail. Penser l’automatisation à partir des pratiques| https://www.meetup.com/nantes-machine-learning-meetup/events/313959473/ | 
-| 2026-07-01 | Agile Nantes - Sessions mensuelles| Et si on coachait une IA pour des spécifications pertinentes ? | https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
