@@ -303,6 +303,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "SeoMix",
+      "name": "Daniel Roch",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1019241?v=4",
+      "profile": "https://github.com/SeoMix",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",

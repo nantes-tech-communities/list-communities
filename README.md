@@ -38,7 +38,9 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Naoned Computer Club](./naoned-computer-club/)
 - [Nocode Nantes](./nocode-nantes/)
 - [React Nantes](./react-nantes/)
+- [SEO Nantes](./seo-nantes/)
 - [Software Crafters Nantes](./software-crafters/)
+- [WordPress Nantes](./wordpress-nantes/)
 - [Yeeso Nantes](./yeeso-nantes/)
 
 ## 🐘 Les communautés nantaises à la recherche d'organisateur·rice
@@ -139,6 +141,7 @@ Merci à tous les contributeur·rices 🙏
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jeremy-serenne"><img src="https://avatars.githubusercontent.com/u/51053141?v=4" width="100px;" alt=""/><br /><sub><b>Jérémy Serenne</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Johbrun"><img src="https://avatars.githubusercontent.com/u/31695713?v=4" width="100px;" alt=""/><br /><sub><b>Johan</b></sub></a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://xvw.lol"><img src="https://avatars.githubusercontent.com/u/5732466?v=4" width="100px;" alt=""/><br /><sub><b>Xavier Van de Woestyne</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SeoMix"><img src="https://avatars.githubusercontent.com/u/1019241?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Roch</b></sub></a></td>
     </tr>
   </tbody>
 </table>
