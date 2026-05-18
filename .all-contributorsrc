@@ -312,6 +312,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "abailly",
+      "name": "Arnaud Bailly",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40221?v=4",
+      "profile": "https://abailly.github.io",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
