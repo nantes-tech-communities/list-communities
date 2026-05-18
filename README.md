@@ -69,6 +69,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2026-05-20 | Nantes Machine Learning Meetup| Physical AI: End-to-End Learning for Industrial Manipulation| https://www.meetup.com/nantes-machine-learning-meetup/events/313959263/ | 
 | 2026-05-21 | FrenchProduit Nantes| Soirée témoignages| https://www.meetup.com/frenchproduit-nantes/events/314764785/ | 
 | 2026-05-21 | GDG Cloud Nantes| [Workshop] Google Antigravity : De l'idée à l'app, de l'assistance à l'orchestra| https://www.meetup.com/gdg-cloud-nantes/events/314539793/ | 
+| 2026-05-21 | Lambda Nantes| Chemins de traverse & Programmation compositionnelle | https://mobilizon.fr/events/804503f4-0552-4f48-9eab-ce060e6df83d | 
 | 2026-05-28 | MTG Nantes| [Nuit des communautés] Déploiement de MS Fabric : Pièges et bonnes pratiques| https://www.meetup.com/mtg-nantes/events/314217996/ | 
 | 2026-05-28 | Meetup SEO Nantais| La nuit des communautés| https://www.meetup.com/meetup-seo-nantais/events/314103191/ | 
 | 2026-05-28 | Nantes WordPress Meetup| La nuit des communautés| https://www.meetup.com/nantes-wordpress-meetup/events/314103202/ | 
@@ -78,6 +79,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2026-06-05 | AWS User Group France - Nantes| TechReady 2026| https://www.meetup.com/aws-nantes/events/314735900/ | 
 | 2026-06-05 | GDG Cloud Nantes| TechReady 2026| https://www.meetup.com/gdg-cloud-nantes/events/313907142/ | 
 | 2026-06-08 | Nantes Machine Learning Meetup| Ce que l’IA fait au travail. Penser l’automatisation à partir des pratiques| https://www.meetup.com/nantes-machine-learning-meetup/events/313959473/ | 
+| 2026-06-16 | Software Crafters Nantes | Software Crafters Nantes a 10 ans! | https://mobilizon.fr/events/a9e3d026-460c-4d5c-86dd-523f3efac224 | 
 | 2026-07-01 | Agile Nantes - Sessions mensuelles| Et si on coachait une IA pour des spécifications pertinentes ? | https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
