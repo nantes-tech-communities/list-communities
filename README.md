@@ -38,7 +38,9 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Naoned Computer Club](./naoned-computer-club/)
 - [Nocode Nantes](./nocode-nantes/)
 - [React Nantes](./react-nantes/)
+- [SEO Nantes](./seo-nantes/)
 - [Software Crafters Nantes](./software-crafters/)
+- [WordPress Nantes](./wordpress-nantes/)
 - [Yeeso Nantes](./yeeso-nantes/)
 
 ## 🐘 Les communautés nantaises à la recherche d'organisateur·rice
