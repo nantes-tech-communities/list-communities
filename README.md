@@ -65,18 +65,13 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2026-06-02 | France DevOps Nantes| Ton cluster Kubernetes est déjà compromis… mais tu ne le sais pas| https://www.meetup.com/france-devops-nantes/events/314711590/ | 
-| 2026-06-02 | Generative AI Nantes| S4E10 - Sortir de la dette technique avec l’IA| https://www.meetup.com/generative-ai-nantes/events/314847823/ | 
-| 2026-06-03 | Agile Nantes - Sessions mensuelles| Le Lean : la performance centrée sur le sens, la valeur et l’humain| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238223/ | 
-| 2026-06-05 | AWS User Group France - Nantes| TechReady 2026| https://www.meetup.com/aws-nantes/events/314735900/ | 
-| 2026-06-05 | GDG Cloud Nantes| TechReady 2026| https://www.meetup.com/gdg-cloud-nantes/events/313907142/ | 
-| 2026-06-05 | MTG Nantes| [TECHREADY] 2ème édition de la conférence Cloud & IA| https://www.meetup.com/mtg-nantes/events/314880379/ | 
 | 2026-06-08 | CocoaHeads Nantes| CocoaHeads x WWDC| https://www.meetup.com/cocoaheads-nantes/events/314905766/ | 
 | 2026-06-08 | Nantes Machine Learning Meetup| Ce que l’IA fait au travail. Penser l’automatisation à partir des pratiques| https://www.meetup.com/nantes-machine-learning-meetup/events/313959473/ | 
 | 2026-06-11 | AWS User Group France - Nantes| Soirée Spéciale IA "Design to Code"| https://www.meetup.com/aws-nantes/events/314847786/ | 
 | 2026-06-11 | Nantes Java User Group| Soirée de fin d'année 🍸 Rex IA & Sprint Boot 4| https://www.meetup.com/nantes-java-user-group/events/314852645/ | 
 | 2026-06-16 | NantesJS| NantesJS 83| https://www.eventbrite.fr/e/nantesjs-83-tickets-1990397326985 | 
-| 2026-06-18 | Generative AI Nantes| S4E11 - Claude Code: de l'aléatoire à l'ingénierie| https://www.meetup.com/generative-ai-nantes/events/315009916/ | 
+| 2026-06-18 | Flutter Nantes| Meetup Flutter Nantes #22| https://www.meetup.com/flutter-nantes/events/315092093/ | 
+| 2026-06-18 | Generative AI Nantes| S4E11 - Comment sur-optimiser Claude Code pour shipper les yeux fermés| https://www.meetup.com/generative-ai-nantes/events/315009916/ | 
 | 2026-07-01 | Agile Nantes - Sessions mensuelles| Et si on coachait une IA pour des spécifications pertinentes ? | https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
 | 2026-09-18 | Nantes WordPress Meetup| WordCamp Bretagne 2026| https://www.meetup.com/nantes-wordpress-meetup/events/314863484/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
