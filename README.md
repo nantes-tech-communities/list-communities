@@ -65,19 +65,19 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 02/07/2026 | Dé-GAFAM-iser vos usages numériques| null| https://mobilizon.fr/events/8584032a-f260-4b1f-8d8d-6b89c5b25925 | 
-| 08/07/2026 | Cap 2050 avec l'IA : la bonne, la brute et la truande| null| https://mobilizon.fr/events/5c3e3be5-87c9-41d9-94de-8806d2e617fc | 
-| 17/09/2026 | Over-connected -  Spectacle d'improvisation| null| https://mobilizon.fr/events/6fd804f9-77ed-4923-9368-70e3291c7119 | 
-| 18/09/2026 | Atelier : La fresque de l’accessibilité Web + audit et correction d’un site web| null| https://mobilizon.fr/events/46da7a8a-1ee1-4378-9bc3-a52d05199a37 | 
-| 18/09/2026 | Parole ouverte sur la place des femmes dans le numérique| null| https://mobilizon.fr/events/347abfc3-b876-4a02-802e-51ec9fafea7f | 
+| 02/07/2026 | Dé-GAFAM-iser vos usages numériques| Nantes Numérique Responsable | https://mobilizon.fr/events/8584032a-f260-4b1f-8d8d-6b89c5b25925 | 
+| 08/07/2026 | Cap 2050 avec l'IA : la bonne, la brute et la truande| Nantes Numérique Responsable| https://mobilizon.fr/events/5c3e3be5-87c9-41d9-94de-8806d2e617fc | 
+| 17/09/2026 | Over-connected -  Spectacle d'improvisation| Nantes Numérique Responsable| https://mobilizon.fr/events/6fd804f9-77ed-4923-9368-70e3291c7119 | 
+| 18/09/2026 | Atelier : La fresque de l’accessibilité Web + audit et correction d’un site web| Nantes Numérique Responsable| https://mobilizon.fr/events/46da7a8a-1ee1-4378-9bc3-a52d05199a37 | 
+| 18/09/2026 | Parole ouverte sur la place des femmes dans le numérique| Nantes Numérique Responsable| https://mobilizon.fr/events/347abfc3-b876-4a02-802e-51ec9fafea7f | 
 | 2026-06-30 | Nantes.rb| Nantes RB au Café sur Cour| https://www.meetup.com/nantes-rb/events/315165204/ | 
 | 2026-07-01 | Agile Nantes - Sessions mensuelles| Et si on coachait une IA pour des spécifications pertinentes ? | https://www.meetup.com/agile-nantes-sessions-mensuelles/events/310238239/ | 
 | 2026-07-09 | Generative AI Nantes| Workshop: “Midjourney de A à Z”| https://www.meetup.com/generative-ai-nantes/events/315325977/ | 
 | 2026-07-30 | Meetup SEO Nantais| Apéro SEO & Web Nantais| https://www.meetup.com/meetup-seo-nantais/events/315298514/ | 
 | 2026-09-18 | Nantes WordPress Meetup| WordCamp Bretagne 2026| https://www.meetup.com/nantes-wordpress-meetup/events/314863484/ | 
-| 21/09/2026 | Cap 2050 avec l'IA : la bonne, la brute et la truande| null| https://mobilizon.fr/events/35171c44-74e7-43bc-8742-7dce079a76d6 | 
-| 21/09/2026 | Le Casse tête de l'IA générative| null| https://mobilizon.fr/events/36461882-bbbc-4a02-baff-4bad5338a4cd | 
-| 23/06/2026 | Il n'y a pas que Git dans la vie| null| https://mobilizon.fr/events/9d4c0117-02a7-492f-bf45-7ff5290f1678 | 
+| 21/09/2026 | Cap 2050 avec l'IA : la bonne, la brute et la truande| Nantes Numérique Responsable| https://mobilizon.fr/events/35171c44-74e7-43bc-8742-7dce079a76d6 | 
+| 21/09/2026 | Le Casse tête de l'IA générative| Nantes Numérique Responsable| https://mobilizon.fr/events/36461882-bbbc-4a02-baff-4bad5338a4cd | 
+| 23/06/2026 | Il n'y a pas que Git dans la vie| Lambda Nantes | https://mobilizon.fr/events/9d4c0117-02a7-492f-bf45-7ff5290f1678 | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
