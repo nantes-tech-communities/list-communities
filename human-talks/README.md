@@ -16,8 +16,8 @@ Pas besoin d'être un expert reconnu pour être Talker. Régulièrement des Talk
 
 |                                |                                                                                                                                                                          |
 | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ✉️ Qui contacter ?             | [Julien Tanguy](https://twitter.com/jutanguy) <br/>[Gérome Grignon](https://twitter.com/GeromeGrignon)<br/>[Jean-Philippe Baconnais](https://twitter.com/JPhi_Baconnais) |
-| 🌍 Le site web                 | https://humantalks.com/ <br/> https://www.meetup.com/fr-FR/HumanTalks-Nantes/                                                                                            |
-| 🗣 Le CFP                       | https://humantalks.com/pages/guide-du-talker                                                                                                                             |
-| 📆 La fréquence des évènements | Tous les 2èmes mardi de chaque mois                                                                                                                                      |
-| 🎥 Replays                     | [Youtube](https://www.youtube.com/c/HumanTalks)                                                                                                                          |
+| ✉️ Qui contacter ?             | nantes@humantalks.com <br/> [Julien Tanguy](https://twitter.com/jutanguy) <br/>[Alexis Lozano](https://www.linkedin.com/in/alexis-lozano)<br/>[Jean-Philippe Baconnais](https://bsky.app/profile/jeanphi-baconnais.gitlab.io) |
+| 🌍 Le site web                 | https://humantalks.com/ <br/> https://www.meetup.com/fr-FR/HumanTalks-Nantes/  <br/> https://www.linkedin.com/company/100452884/      |
+| 🗣 Le CFP                      | https://humantalks.com/cities/nantes   |
+| 📆 La fréquence des évènements | Tous les 2èmes mardi de chaque mois   |
+| 🎥 Replays                     | [Youtube](https://www.youtube.com/c/HumanTalks)  |
