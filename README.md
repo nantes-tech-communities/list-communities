@@ -70,6 +70,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 18/09/2026 | Parole ouverte sur la place des femmes dans le numérique| Nantes Numérique Responsable | https://mobilizon.fr/events/347abfc3-b876-4a02-802e-51ec9fafea7f | 
 | 2026-07-30 | Meetup SEO Nantais| Apéro SEO & Web Nantais| https://www.meetup.com/meetup-seo-nantais/events/315298514/ | 
 | 2026-09-18 | Nantes WordPress Meetup| WordCamp Bretagne 2026| https://www.meetup.com/nantes-wordpress-meetup/events/314863484/ | 
+| 2026-09-24 | Flutter Nantes| Flutter Nantes #23 - September 24, 2026| https://www.meetup.com/flutter-nantes/events/315801926/ | 
 | 21/09/2026 | Cap 2050 avec l'IA : la bonne, la brute et la truande| Nantes Numérique Responsable | https://mobilizon.fr/events/35171c44-74e7-43bc-8742-7dce079a76d6 | 
 | 21/09/2026 | Le Casse tête de l'IA générative| Nantes Numérique Responsable | https://mobilizon.fr/events/36461882-bbbc-4a02-baff-4bad5338a4cd | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
