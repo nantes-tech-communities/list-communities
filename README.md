@@ -65,6 +65,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
+| 15/09/2026 | Software Crafters Nantes| Meetup de rentrée Software Crafters Nantes| https://mobilizon.fr/events/56cf6b0b-1413-4adc-861d-b82d2877950c | 
 | 17/09/2026 | Nantes Numerique Responsable| Over-connected -  Spectacle d'improvisation| https://mobilizon.fr/events/6fd804f9-77ed-4923-9368-70e3291c7119 | 
 | 18/09/2026 | Nantes Numerique Responsable| Atelier : La fresque de l’accessibilité Web + audit et correction d’un site web| https://mobilizon.fr/events/46da7a8a-1ee1-4378-9bc3-a52d05199a37 | 
 | 18/09/2026 | Nantes Numerique Responsable| Parole ouverte sur la place des femmes dans le numérique| https://mobilizon.fr/events/347abfc3-b876-4a02-802e-51ec9fafea7f | 
@@ -73,6 +74,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 2026-09-29 | GDG Nantes| Meetup Web GenIA en collab avec NantesJS| https://www.meetup.com/gdg-nantes/events/316196075/ | 
 | 21/09/2026 | Nantes Numerique Responsable| Cap 2050 avec l'IA : la bonne, la brute et la truande| https://mobilizon.fr/events/35171c44-74e7-43bc-8742-7dce079a76d6 | 
 | 21/09/2026 | Nantes Numerique Responsable| Le Casse tête de l'IA générative| https://mobilizon.fr/events/36461882-bbbc-4a02-baff-4bad5338a4cd | 
+| 24/09/2026 | Lambda Nantes| La couleur des bruits & les cultures de la programmation| https://mobilizon.fr/events/6025150c-3e8f-4f64-bd24-2337fead4c9e | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
