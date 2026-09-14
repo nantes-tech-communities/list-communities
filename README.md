@@ -69,13 +69,14 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 | 17/09/2026 | Nantes Numerique Responsable| Over-connected -  Spectacle d'improvisation| https://mobilizon.fr/events/6fd804f9-77ed-4923-9368-70e3291c7119 | 
 | 18/09/2026 | Nantes Numerique Responsable| Atelier : La fresque de l’accessibilité Web + audit et correction d’un site web| https://mobilizon.fr/events/46da7a8a-1ee1-4378-9bc3-a52d05199a37 | 
 | 18/09/2026 | Nantes Numerique Responsable| Parole ouverte sur la place des femmes dans le numérique| https://mobilizon.fr/events/347abfc3-b876-4a02-802e-51ec9fafea7f | 
-| 2026-09-08 | FrenchProduit Nantes| Atelier - Veille en pilote automatique| https://www.meetup.com/frenchproduit-nantes/events/316366225/ | 
-| 2026-09-09 | Agile Nantes - Sessions mensuelles| Agilité & Infra : quand le changement rencontre la stabilité !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/316369959/ | 
 | 2026-09-16 | Generative AI Nantes| S5E01 - Vos agents IA fonctionnent. Maintenant, réduisez la facture| https://www.meetup.com/generative-ai-nantes/events/316344177/ | 
 | 2026-09-18 | Nantes WordPress Meetup| WordCamp Bretagne 2026| https://www.meetup.com/nantes-wordpress-meetup/events/314863484/ | 
 | 2026-09-24 | Flutter Nantes| Flutter Nantes #23 - September 24, 2026| https://www.meetup.com/flutter-nantes/events/315801926/ | 
 | 2026-09-24 | Generative AI Nantes| Flutter Nantes x Generative AI Nantes : Edge AI - How Far Have We Come?| https://www.meetup.com/generative-ai-nantes/events/316401562/ | 
 | 2026-09-29 | GDG Nantes| Meetup Web GenIA en collab avec NantesJS| https://www.meetup.com/gdg-nantes/events/316196075/ | 
+| 2026-09-29 | Nantes Java User Group| Quand Javelit rencontre ADK // Ne dessinez plus vos architectures : codez-les !| https://www.meetup.com/nantes-java-user-group/events/316512366/ | 
+| 2026-10-06 | Generative AI Nantes| Workshop Hors Série: Ceinture noire de ChatGPT| https://www.meetup.com/generative-ai-nantes/events/316513100/ | 
+| 2026-10-15 | GDG Nantes| DevFest Nantes 404: Event Not Found 🚫🔍| https://www.meetup.com/gdg-nantes/events/316551623/ | 
 | 21/09/2026 | Nantes Numerique Responsable| Cap 2050 avec l'IA : la bonne, la brute et la truande| https://mobilizon.fr/events/35171c44-74e7-43bc-8742-7dce079a76d6 | 
 | 21/09/2026 | Nantes Numerique Responsable| Le Casse tête de l'IA générative| https://mobilizon.fr/events/36461882-bbbc-4a02-baff-4bad5338a4cd | 
 | 24/09/2026 | Lambda Nantes| La couleur des bruits & les cultures de la programmation| https://mobilizon.fr/events/6025150c-3e8f-4f64-bd24-2337fead4c9e | 
