@@ -65,13 +65,14 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2026-09-29 | GDG Nantes| Meetup IA Generative dans le Web en collab avec NantesJS| https://www.meetup.com/gdg-nantes/events/316196075/ | 
-| 2026-09-29 | Nantes Java User Group| Quand Javelit rencontre ADK // Ne dessinez plus vos architectures : codez-les !| https://www.meetup.com/nantes-java-user-group/events/316512366/ | 
-| 2026-10-06 | Generative AI Nantes| Workshop Hors Série: Ceinture noire de ChatGPT| https://www.meetup.com/generative-ai-nantes/events/316513100/ | 
+| 2026-10-06 | Generative AI Nantes| [SOLD OUT] Workshop Hors Série: Ceinture noire de ChatGPT| https://www.meetup.com/generative-ai-nantes/events/316513100/ | 
 | 2026-10-07 | Agile Nantes - Sessions mensuelles| 55 Minutes pour comprendre l'agilité| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/316593100/ | 
 | 2026-10-07 | Generative AI Nantes| S5E02 - Vibe-coder une app de 0€ à 15k€ de MRR en 6 mois| https://www.meetup.com/generative-ai-nantes/events/316622649/ | 
 | 2026-10-08 | AWS User Group France - Nantes| Soirée AWS d'Octobre| https://www.meetup.com/aws-nantes/events/316594857/ | 
 | 2026-10-08 | FrenchProduit Nantes| GTM - J'ai arrêté de vendre mon produit| https://www.meetup.com/frenchproduit-nantes/events/316581555/ | 
+| 2026-10-13 | Lambda Nantes| Atelier développement Web avec OCaml| https://mobilizon.fr/events/e621dbea-d4c2-404a-b7ff-39b9c08d4034 | 
+| 2026-10-13 | Nantes Java User Group| TechLeads : questionnez ! // De l'autocomplete à l'Autopilot| https://www.meetup.com/nantes-java-user-group/events/316779777/ | 
+| 2026-10-13 | Nantes@Hack| Meet@Hack #2 : Atelier sécurité offensive web| https://www.meetup.com/nantesathack/events/316724139/ | 
 | 2026-10-15 | GDG Nantes| DevFest Nantes 404: Event Not Found 🚫🔍| https://www.meetup.com/gdg-nantes/events/316551623/ | 
 | 2026-10-20 | Software Crafters Nantes| Meetup Software Crafters Nantes| https://mobilizon.fr/events/e6301737-5df5-49a2-8a22-82c12cf590bd | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
