@@ -65,11 +65,10 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2026-10-13 | Lambda Nantes| Atelier développement Web avec OCaml| https://mobilizon.fr/events/e621dbea-d4c2-404a-b7ff-39b9c08d4034 | 
-| 2026-10-13 | Nantes Java User Group| TechLeads : questionnez ! // De l'autocomplete à l'Autopilot| https://www.meetup.com/nantes-java-user-group/events/316779777/ | 
-| 2026-10-13 | Nantes@Hack| Meet@Hack #2 : Atelier sécurité offensive web| https://www.meetup.com/nantesathack/events/316724139/ | 
-| 2026-10-15 | GDG Nantes| DevFest Nantes 404: Event Not Found 🚫🔍| https://www.meetup.com/gdg-nantes/events/316551623/ | 
 | 2026-10-20 | Software Crafters Nantes| Meetup Software Crafters Nantes| https://mobilizon.fr/events/e6301737-5df5-49a2-8a22-82c12cf590bd | 
+| 2026-10-27 | Meetup SEO Nantais| Adopter l'IA sans perdre le contrôle : Méthode, sécurité et cas SEO| https://www.meetup.com/meetup-seo-nantais/events/316947269/ | 
+| 2026-11-04 | Generative AI Nantes| S5E03 - On ship 10x plus vite depuis notre terminal grâce à nos 2nd brain| https://www.meetup.com/generative-ai-nantes/events/316946658/ | 
+| 2026-11-12 | Flutter Nantes| Flutter Nantes Meetup #24| https://www.meetup.com/flutter-nantes/events/316959724/ | 
 | 2026-11-18 | Agile Nantes - Sessions mensuelles| [Murder Party] Qui a tué mon intelligence artificielle ?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/316815283/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
