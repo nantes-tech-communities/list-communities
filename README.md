@@ -65,7 +65,6 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2026-11-04 | Generative AI Nantes| S5E03 - On ship 10x plus vite depuis notre terminal grâce à nos 2nd brain| https://www.meetup.com/generative-ai-nantes/events/316946658/ | 
 | 2026-11-12 | Flutter Nantes| Flutter Nantes Meetup #24| https://www.meetup.com/flutter-nantes/events/316959724/ | 
 | 2026-11-17 | Generative AI Nantes| GenAI Days Nantes 2026| https://www.meetup.com/generative-ai-nantes/events/317070211/ | 
 | 2026-11-17 | Software Crafters Nantes| Meetup Software Crafters Nantes| https://mobilizon.fr/events/0259405d-e5a8-488e-a7b2-aa3678f00982 | 
