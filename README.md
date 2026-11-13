@@ -36,6 +36,7 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 - [Nantes.rb](./nantes-rb/)
 - [Nantes@Hack](./nantes@hack/)
 - [Naoned Computer Club](./naoned-computer-club/)
+- [NaoTalks](./naotalks/)
 - [Nocode Nantes](./nocode-nantes/)
 - [React Nantes](./react-nantes/)
 - [SEO Nantes](./seo-nantes/)
