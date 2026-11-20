@@ -1,7 +1,7 @@
 # 🌍 Liste des communautés tech nantaises
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-34-orange.svg?style=flat-square)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all_contributors-35-orange.svg?style=flat-square)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <div class="logo"><img src="./docs/logo-commu.png"  width="600"/></div>
@@ -104,48 +104,49 @@ Merci à tous les contributeur·rices 🙏
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JuliaLehoux"><img src="https://avatars.githubusercontent.com/u/28342307?v=4" width="100px;" alt=""/><br /><sub><b>JuliaLehoux</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://fr.linkedin.com/in/robincaroff"><img src="https://avatars.githubusercontent.com/u/10415655?v=4" width="100px;" alt=""/><br /><sub><b>Robin Caroff</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ebriand"><img src="https://avatars.githubusercontent.com/u/1011902?v=4" width="100px;" alt=""/><br /><sub><b>Eric Briand</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://jtanguy.me"><img src="https://avatars.githubusercontent.com/u/551107?v=4" width="100px;" alt=""/><br /><sub><b>Julien Tanguy</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://jlandure.dev/"><img src="https://avatars.githubusercontent.com/u/525974?v=4" width="100px;" alt=""/><br /><sub><b>Julien Landuré</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.velvetcocoon.com"><img src="https://avatars.githubusercontent.com/u/1321387?v=4" width="100px;" alt=""/><br /><sub><b>Vachon Stéphanie</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/patou"><img src="https://avatars.githubusercontent.com/u/841858?v=4" width="100px;" alt=""/><br /><sub><b>Patrice De Saint Steban</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JuliaLehoux"><img src="https://avatars.githubusercontent.com/u/28342307?v=4&size=100" width="100px;" alt=""/><br /><sub><b>JuliaLehoux</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://fr.linkedin.com/in/robincaroff"><img src="https://avatars.githubusercontent.com/u/10415655?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Robin Caroff</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ebriand"><img src="https://avatars.githubusercontent.com/u/1011902?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Eric Briand</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jtanguy.me"><img src="https://avatars.githubusercontent.com/u/551107?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Julien Tanguy</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://jlandure.dev/"><img src="https://avatars.githubusercontent.com/u/525974?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Julien Landuré</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.velvetcocoon.com"><img src="https://avatars.githubusercontent.com/u/1321387?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Vachon Stéphanie</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/patou"><img src="https://avatars.githubusercontent.com/u/841858?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Patrice De Saint Steban</b></sub></a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nabelle"><img src="https://avatars.githubusercontent.com/u/41482051?v=4" width="100px;" alt=""/><br /><sub><b>Nabelle</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jeanphibaconnais"><img src="https://avatars.githubusercontent.com/u/32639372?v=4" width="100px;" alt=""/><br /><sub><b>Jean-Phi Baconnais</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://gerome.dev"><img src="https://avatars.githubusercontent.com/u/32737308?v=4" width="100px;" alt=""/><br /><sub><b>Gérôme Grignon</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://pyaillet.gitlab.io/blog/"><img src="https://avatars.githubusercontent.com/u/11957179?v=4" width="100px;" alt=""/><br /><sub><b>Pierre-Yves Aillet</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/iGranDav"><img src="https://avatars.githubusercontent.com/u/75418?v=4" width="100px;" alt=""/><br /><sub><b>David Bonnet</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/marionnousvalentin"><img src="https://avatars.githubusercontent.com/u/43779561?v=4" width="100px;" alt=""/><br /><sub><b>Marion Valentin</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kervinkueny"><img src="https://avatars.githubusercontent.com/u/45952820?v=4" width="100px;" alt=""/><br /><sub><b>kervinkueny</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Nabelle"><img src="https://avatars.githubusercontent.com/u/41482051?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Nabelle</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jeanphibaconnais"><img src="https://avatars.githubusercontent.com/u/32639372?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Jean-Phi Baconnais</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://gerome.dev"><img src="https://avatars.githubusercontent.com/u/32737308?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Gérôme Grignon</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://pyaillet.gitlab.io/blog/"><img src="https://avatars.githubusercontent.com/u/11957179?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Pierre-Yves Aillet</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/iGranDav"><img src="https://avatars.githubusercontent.com/u/75418?v=4&size=100" width="100px;" alt=""/><br /><sub><b>David Bonnet</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/marionnousvalentin"><img src="https://avatars.githubusercontent.com/u/43779561?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Marion Valentin</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/kervinkueny"><img src="https://avatars.githubusercontent.com/u/45952820?v=4&size=100" width="100px;" alt=""/><br /><sub><b>kervinkueny</b></sub></a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.logilab.org"><img src="https://avatars.githubusercontent.com/u/445200?v=4" width="100px;" alt=""/><br /><sub><b>Arthur Lutz</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://nigui.fr"><img src="https://avatars.githubusercontent.com/u/6088236?v=4" width="100px;" alt=""/><br /><sub><b>Guillaume NICOLAS</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://cecilitse.org/"><img src="https://avatars.githubusercontent.com/u/50518?v=4" width="100px;" alt=""/><br /><sub><b>Cecile Veneziani</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://thomasrannou.azurewebsites.net/"><img src="https://avatars.githubusercontent.com/u/32679941?v=4" width="100px;" alt=""/><br /><sub><b>Thomas Rannou</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LudiDrouet"><img src="https://avatars.githubusercontent.com/u/99085181?v=4" width="100px;" alt=""/><br /><sub><b>LudiDrouet</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cbossard"><img src="https://avatars.githubusercontent.com/u/3694254?v=4" width="100px;" alt=""/><br /><sub><b>Cécilia Bossard</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/agrippaharfleur"><img src="https://avatars.githubusercontent.com/u/113293187?v=4" width="100px;" alt=""/><br /><sub><b>agrippaharfleur</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.logilab.org"><img src="https://avatars.githubusercontent.com/u/445200?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Arthur Lutz</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://nigui.fr"><img src="https://avatars.githubusercontent.com/u/6088236?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Guillaume NICOLAS</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://cecilitse.org/"><img src="https://avatars.githubusercontent.com/u/50518?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Cecile Veneziani</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://thomasrannou.azurewebsites.net/"><img src="https://avatars.githubusercontent.com/u/32679941?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Thomas Rannou</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LudiDrouet"><img src="https://avatars.githubusercontent.com/u/99085181?v=4&size=100" width="100px;" alt=""/><br /><sub><b>LudiDrouet</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cbossard"><img src="https://avatars.githubusercontent.com/u/3694254?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Cécilia Bossard</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/agrippaharfleur"><img src="https://avatars.githubusercontent.com/u/113293187?v=4&size=100" width="100px;" alt=""/><br /><sub><b>agrippaharfleur</b></sub></a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JulienVilleneau"><img src="https://avatars.githubusercontent.com/u/47349659?v=4" width="100px;" alt=""/><br /><sub><b>JulienVilleneau</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArtyMaury"><img src="https://avatars.githubusercontent.com/u/22880181?v=4" width="100px;" alt=""/><br /><sub><b>Artymaury</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Horsty80"><img src="https://avatars.githubusercontent.com/u/15615569?v=4" width="100px;" alt=""/><br /><sub><b>Horsty</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://screeb.app"><img src="https://avatars.githubusercontent.com/u/2951285?v=4" width="100px;" alt=""/><br /><sub><b>Samuel Berthe</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="http://www.olivierthierry.com"><img src="https://avatars.githubusercontent.com/u/5655399?v=4" width="100px;" alt=""/><br /><sub><b>Olivier THIERRY</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wrouvre"><img src="https://avatars.githubusercontent.com/u/30314002?v=4" width="100px;" alt=""/><br /><sub><b>Willy Rouvre</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Angi-g"><img src="https://avatars.githubusercontent.com/u/9074288?v=4" width="100px;" alt=""/><br /><sub><b>Angi</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/JulienVilleneau"><img src="https://avatars.githubusercontent.com/u/47349659?v=4&size=100" width="100px;" alt=""/><br /><sub><b>JulienVilleneau</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ArtyMaury"><img src="https://avatars.githubusercontent.com/u/22880181?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Artymaury</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Horsty80"><img src="https://avatars.githubusercontent.com/u/15615569?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Horsty</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://screeb.app"><img src="https://avatars.githubusercontent.com/u/2951285?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Samuel Berthe</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.olivierthierry.com"><img src="https://avatars.githubusercontent.com/u/5655399?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Olivier THIERRY</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/wrouvre"><img src="https://avatars.githubusercontent.com/u/30314002?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Willy Rouvre</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Angi-g"><img src="https://avatars.githubusercontent.com/u/9074288?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Angi</b></sub></a></td>
     </tr>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zenigata"><img src="https://avatars.githubusercontent.com/u/1022393?v=4" width="100px;" alt=""/><br /><sub><b>Johan Bonneau</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jeremy-serenne"><img src="https://avatars.githubusercontent.com/u/51053141?v=4" width="100px;" alt=""/><br /><sub><b>Jérémy Serenne</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Johbrun"><img src="https://avatars.githubusercontent.com/u/31695713?v=4" width="100px;" alt=""/><br /><sub><b>Johan</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://xvw.lol"><img src="https://avatars.githubusercontent.com/u/5732466?v=4" width="100px;" alt=""/><br /><sub><b>Xavier Van de Woestyne</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://www.seo-key.com"><img src="https://avatars.githubusercontent.com/u/1019241?v=4" width="100px;" alt=""/><br /><sub><b>SeoMix</b></sub></a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://abailly.github.io"><img src="https://avatars.githubusercontent.com/u/40221?v=4" width="100px;" alt=""/><br /><sub><b>Arnaud Bailly</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Zenigata"><img src="https://avatars.githubusercontent.com/u/1022393?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Johan Bonneau</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jeremy-serenne"><img src="https://avatars.githubusercontent.com/u/51053141?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Jérémy Serenne</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Johbrun"><img src="https://avatars.githubusercontent.com/u/31695713?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Johan</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://xvw.lol"><img src="https://avatars.githubusercontent.com/u/5732466?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Xavier Van de Woestyne</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.seo-key.com"><img src="https://avatars.githubusercontent.com/u/1019241?v=4&size=100" width="100px;" alt=""/><br /><sub><b>SeoMix</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://abailly.github.io"><img src="https://avatars.githubusercontent.com/u/40221?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Arnaud Bailly</b></sub></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://lenormand-julien.fr"><img src="https://avatars.githubusercontent.com/u/13200639?v=4&size=100" width="100px;" alt=""/><br /><sub><b>Lenormand Julien</b></sub></a></td>
     </tr>
   </tbody>
 </table>

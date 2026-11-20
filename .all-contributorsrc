@@ -321,6 +321,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "Lenormju",
+      "name": "Lenormand Julien",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13200639?v=4",
+      "profile": "https://lenormand-julien.fr",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "list-communities",
