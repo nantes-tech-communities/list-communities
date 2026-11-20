@@ -81,6 +81,15 @@ Afin de partager rapidement ces informations, voici un QR code menant au site d�
 
 <img src="./docs/qrcode.png" width="200" height="200" />
 
+## 🗺️ Les communautés tech ailleurs en France
+
+D'autres villes recensent aussi leurs communautés et leurs meetups :
+
+- Bordeaux : https://lagrappenumerique.fr
+- Grenoble : https://grenoble-meetups.fr
+- Lyon : https://www.lyontechhub.org
+- Toulouse : https://toulouse-tech-hub.fr
+
 ## 💫 Contribution
 
 Toute contribution est la bienvenue. Vous organisez un meetup qui n'apparait pas dans la liste ? N'hésitez pas à créer une issue 😃.
