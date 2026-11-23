@@ -66,12 +66,9 @@ Vous pouvez rejoindre la communauté tech nantaise et échanger avec nous sur Sl
 <!-- ALL-EVENTS-LIST:START - Do not remove or modify this section -->
 |   |   |   |   |   |
 |---|---|---|---|---|
-| 2026-11-12 | Flutter Nantes| Flutter Nantes Meetup #24| https://www.meetup.com/flutter-nantes/events/316959724/ | 
-| 2026-11-17 | Generative AI Nantes| GenAI Days Nantes 2026| https://www.meetup.com/generative-ai-nantes/events/317070211/ | 
-| 2026-11-17 | Software Crafters Nantes| Meetup Software Crafters Nantes| https://mobilizon.fr/events/0259405d-e5a8-488e-a7b2-aa3678f00982 | 
-| 2026-11-18 | Agile Nantes - Sessions mensuelles| [Murder Party] Qui a tué mon intelligence artificielle ?| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/316815283/ | 
-| 2026-11-18 | Nantes Java User Group| Auditer une application // Server-Sent Events| https://www.meetup.com/nantes-java-user-group/events/317244219/ | 
-| 2026-11-19 | Lambda Nantes| Lambda Nantes 14 : Typescript & Scala 3| https://mobilizon.fr/events/97dd0650-9d0d-42bb-b02b-face3259d69d | 
+| 2026-11-26 | FrenchProduit Nantes| Déjeuner FrenchProduit| https://www.meetup.com/frenchproduit-nantes/events/317352403/ | 
+| 2026-12-02 | Agile Nantes - Sessions mensuelles| La chocolaterie agile : financez les meilleures idées !| https://www.meetup.com/agile-nantes-sessions-mensuelles/events/316815304/ | 
+| 2026-12-02 | CocoaHeads Nantes| Cocoaheads de Noël| https://www.meetup.com/cocoaheads-nantes/events/317451115/ | 
 <!-- ALL-EVENTS-LIST:STOP - Do not remove or modify this section -->
 <!-- ALL-EVENTS:STOP - Do not remove or modify this section -->
 
